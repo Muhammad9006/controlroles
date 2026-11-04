@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}        # "Run workflow" button for a manual run
   push:                        # publish website changes straight away
     branches: [main]
-    paths: ["site/index.html", "employers.json", "collector/**", "manual_jobs.csv", "settings.json"]
+    paths: ["site/index.html", "site/CNAME", "employers.json", "collector/**", "manual_jobs.csv", "settings.json"]
 
 permissions:
   contents: read
