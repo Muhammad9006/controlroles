@@ -76,9 +76,10 @@ OG = {"Planning": "planning", "Project Controls": "project-controls", "Cost & Co
       "Claims": "claims", "Risk": "risk", "Project Management": "project-management"}
 
 
-def page(j, base, today=None):
+def page(j, base, today=None, img=None):
     today = today or datetime.date.today()
     url = f"{base}/jobs/{slug(j['id'])}.html"
+    img = img or f"{base}/og/{OG.get(j.get('disc'), 'default')}.png"
     board = f"{base}/#job/{j['id']}"
     loc = where(j)
     desc = (f"{j['emp']} is hiring a {j['title']} in {loc}. {j.get('disc', '')} role at {j.get('level', '')} level "
@@ -127,7 +128,7 @@ def page(j, base, today=None):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(j['title'])} at {esc(j['emp'])}, {esc(loc)} | ControlRoles</title>
 <meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(url)}">
-<meta property="og:title" content="{esc(j['title'])} · {esc(j['emp'])} · {esc(loc)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(url)}"><meta property="og:type" content="website"><meta property="og:site_name" content="ControlRoles"><meta property="og:image" content="{esc(base)}/og/{OG.get(j.get('disc'), 'default')}.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="ControlRoles · {esc(j.get('disc') or 'Project controls')} role"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{esc(base)}/og/{OG.get(j.get('disc'), 'default')}.png">
+<meta property="og:title" content="{esc(j['title'])} · {esc(j['emp'])} · {esc(loc)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(url)}"><meta property="og:type" content="website"><meta property="og:site_name" content="ControlRoles"><meta property="og:image" content="{esc(img)}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="{esc(j['title'])} at {esc(j['emp'])} · ControlRoles"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{esc(img)}">
 <script type="application/ld+json">{ld_json}</script><style>{CSS}</style></head>
 <body><div class="wrap"><header><a href="{esc(base)}/">Control<span style="color:#0A707A">Roles</span></a> <span class="fine">· project controls jobs</span></header>
 <main class="card"><h1>{esc(j['title'])}</h1><div class="meta"><b>{esc(j['emp'])}</b> · {esc(loc)}</div>
@@ -147,15 +148,27 @@ def main():
     out = os.path.join(ROOT, "site", "jobs")
     os.makedirs(out, exist_ok=True)
     for f in os.listdir(out):  # drop pages of jobs that have closed
-        if f.endswith(".html"):
+        if f.endswith((".html", ".png")):
             os.remove(os.path.join(out, f))
+    try:
+        from collector import ogimg
+    except Exception as e:  # no image library: job links fall back to the discipline picture
+        ogimg = None
+        print(f"preview images off: {e}", file=sys.stderr)
     urls = [(f"{base}/", datetime.date.today().isoformat())]
     bad = 0
     for j in jobs:
         try:
             if not (j.get("id") and j.get("title") and j.get("emp")):
                 raise ValueError("missing id, title or employer")
-            text = page(j, base)
+            img = None
+            if ogimg:
+                try:
+                    ogimg.render(j, os.path.join(out, slug(j["id"]) + ".png"))
+                    img = f"{base}/jobs/{slug(j['id'])}.png"
+                except Exception as e:
+                    print(f"no preview image for {j.get('id')}: {e}", file=sys.stderr)
+            text = page(j, base, img=img)
         except Exception as e:  # one odd record must not stop every other page
             bad += 1
             print(f"skipped {j.get('id')}: {e}", file=sys.stderr)

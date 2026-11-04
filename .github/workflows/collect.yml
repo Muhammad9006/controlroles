@@ -30,7 +30,7 @@ jobs:
 
       - name: Run offline tests
         run: |
-          python -m pip install --quiet pytest
+          python -m pip install --quiet pytest pillow
           python -m pytest -q tests
 
       - name: Collect jobs from employer career sites

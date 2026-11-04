@@ -23,6 +23,7 @@ jobs:
       - name: Build the website from the saved job data
         run: |
           python -c "import json;d=json.load(open('data/jobs.json'));open('site/jobs.js','w').write('window.JOBS_DATA = '+json.dumps(d,ensure_ascii=False,separators=(',',':'))+';\n')"
+          python -m pip install --quiet pillow
           python -m collector.pages
       - uses: actions/upload-pages-artifact@v3
         with:
