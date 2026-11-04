@@ -7,6 +7,10 @@
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font:14px system-ui,-apple-system,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
 <title>ControlRoles · Project controls jobs worldwide</title>
 <meta name="color-scheme" content="light">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/fontawesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/brands.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/solid.min.css">
+
 <link rel="canonical" href="https://controlroles.com/">
 <meta property="og:type" content="website"><meta property="og:url" content="https://controlroles.com/">
 <meta property="og:title" content="ControlRoles: every project controls role, in one place">
@@ -257,7 +261,8 @@ nav.tabs .pill{margin-left:4px;height:18px;min-width:18px}
 .jp-emp{display:flex;gap:12px;align-items:center}.jp-emp small{display:block;color:var(--muted);font-size:12px}
 .jp-apply{justify-content:center;width:100%}
 .sharebox{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
-.sharebox .sh{font:inherit;font-size:13px;font-weight:600;color:var(--fg);background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none;cursor:pointer}
+.sharebox .sh{display:inline-flex;align-items:center;gap:7px;font:inherit;font-size:13px;font-weight:600;color:var(--fg);background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none;cursor:pointer}
+.sharebox .sh i{font-size:15px;width:16px;text-align:center}
 .sharebox .sh:hover,.sharebox .sh:focus-visible{border-color:var(--accent);color:var(--accent-ink)}
 #d-share svg,#d-share2 svg{vertical-align:-3px}
 #d-share svg{margin-right:6px}
@@ -1543,8 +1548,8 @@ const SHARE_IC='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stro
 function shareUrl(j){ const live=location.protocol==="https:"&&!/claude|anthropic|usercontent|localhost/.test(location.hostname); const slug=String(j.id).toLowerCase().replace(/[^a-z0-9-]+/g,"-").replace(/^-+|-+$/g,""); return live?location.origin+location.pathname.replace(/index\.html$/,"").replace(/\/$/,"")+"/jobs/"+slug+".html":"https://controlroles.com/jobs/"+slug+".html"; }
 function shareText(j){ return `${j.title} at ${j.emp}${j.city||j.country?" – "+[j.city,j.country].filter(Boolean).join(", "):""}`; }
 function shareLinks(j){ const u=encodeURIComponent(shareUrl(j)), t=encodeURIComponent(shareText(j)), tu=encodeURIComponent(shareText(j)+" "+shareUrl(j));
-  const L=[["WhatsApp",`https://wa.me/?text=${tu}`],["LinkedIn",`https://www.linkedin.com/sharing/share-offsite/?url=${u}`],["Facebook",`https://www.facebook.com/sharer/sharer.php?u=${u}`],["X",`https://twitter.com/intent/tweet?text=${t}&url=${u}`],["Telegram",`https://t.me/share/url?url=${u}&text=${t}`],["Email",`mailto:?subject=${t}&body=${encodeURIComponent(shareText(j)+"\n\n"+shareUrl(j)+"\n\nFound on ControlRoles")}`]];
-  return L.map(([n,h])=>`<a class="sh" href="${esc(h)}" ${n==="Email"?"":'target="_blank" rel="noopener"'}>${n}</a>`).join("")+`<button class="sh" type="button" data-sh="copy">Copy link</button>`+(navigator.share?`<button class="sh" type="button" data-sh="more">More…</button>`:""); }
+  const L=[["WhatsApp","fa-brands fa-whatsapp","#25D366",`https://wa.me/?text=${tu}`],["LinkedIn","fa-brands fa-linkedin-in","#0A66C2",`https://www.linkedin.com/sharing/share-offsite/?url=${u}`],["Facebook","fa-brands fa-facebook-f","#1877F2",`https://www.facebook.com/sharer/sharer.php?u=${u}`],["X","fa-brands fa-x-twitter","#0B1D22",`https://twitter.com/intent/tweet?text=${t}&url=${u}`],["Telegram","fa-brands fa-telegram","#26A5E4",`https://t.me/share/url?url=${u}&text=${t}`],["Email","fa-solid fa-envelope","#3D5359",`mailto:?subject=${t}&body=${encodeURIComponent(shareText(j)+"\n\n"+shareUrl(j)+"\n\nFound on ControlRoles")}`]];
+  return L.map(([n,ic,col,h])=>`<a class="sh" href="${esc(h)}" ${n==="Email"?"":'target="_blank" rel="noopener"'}><i class="${ic}" style="color:${col}" aria-hidden="true"></i>${n}</a>`).join("")+`<button class="sh" type="button" data-sh="copy"><i class="fa-solid fa-link" aria-hidden="true"></i>Copy link</button>`+(navigator.share?`<button class="sh" type="button" data-sh="more"><i class="fa-solid fa-ellipsis" aria-hidden="true"></i>More</button>`:""); }
 function openJob(id,fromRoute){
   if(!fromRoute){ if(!location.hash.startsWith("#job/")){ listView=curView||"jobs"; listY=scrollY; } jobPushed=true; location.hash="job/"+encodeURIComponent(id); return; }
   const j=JOBS.find(x=>x.id===id); if(!j){ closedJob(id); return; }
