@@ -771,7 +771,7 @@ h1,h2,.hero h1,.jp-main h1,.plan .price,.sal-big,.kpi b,.wordmark{font-stretch:1
         <label class="sel">Seniority<select id="a-level"><option value="">All levels</option><option>Mid</option><option>Senior</option><option>Manager</option><option>Director</option></select></label>
       </div>
       <label class="chk-one"><input type="checkbox" id="a-pro"><span><span class="lp-on">Send me the daily <b>Pro</b> email (free during launch)</span><span class="lp-off">Tell me when <b>Pro</b> opens (founding-member price)</span></span></label>
-      <label class="sel"><span class="lab">Email</span><input id="a-email" type="email" required autocomplete="email" placeholder="you@example.com"></label>
+      <input id="a-web" name="website" type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0"><label class="sel"><span class="lab">Email</span><input id="a-email" type="email" required autocomplete="email" placeholder="you@example.com"></label>
       <div><button class="btn primary" type="submit" id="a-submit">Create my alert</button></div>
       <p class="fine" style="margin:0">We use your email address only to send these alerts. You can unsubscribe at any time. <a href="#privacy">Privacy policy</a></p>
       <div class="alert-msg" id="a-msg" role="status" aria-live="polite"></div>
@@ -840,7 +840,7 @@ h1,h2,.hero h1,.jp-main h1,.plan .price,.sal-big,.kpi b,.wordmark{font-stretch:1
 
 <section id="v-privacy" class="wrap doc" hidden>
   <h2>Privacy policy</h2>
-  <p class="sub">Last updated 3 November 2026</p>
+  <p class="sub">Last updated 4 November 2026</p>
   <p>This policy explains what information ControlRoles (controlroles.com) collects, why, and the choices you have. In short: you can use the whole site without telling us who you are, we don't use advertising or tracking cookies, and we never see your job applications.</p>
 
   <h3>1. Using the site without an account</h3>
@@ -850,7 +850,7 @@ h1,h2,.hero h1,.jp-main h1,.plan .price,.sal-big,.kpi b,.wordmark{font-stretch:1
   <p>Some features remember your choices on your own device, using your browser's local storage: saved roles and their status, your filters, Insights choices, followed employers, CV text you paste into the CV check, and whether you closed the launch banner. This information stays in your browser and is never sent to us. You can delete it at any time by clearing your browser's site data for controlroles.com.</p>
 
   <h3>3. Job alerts</h3>
-  <p>If you sign up for job alerts, we collect your email address and your alert choices (disciplines, region, country, seniority, and whether you want Pro alerts). We use them only to send you the alerts you asked for and, during the launch offer, to tell you before Pro stops being free. Sign-ups are processed by a form or email service that acts on our behalf. You can unsubscribe or ask us to delete your details at any time by emailing <a href="mailto:hello@controlroles.com">hello@controlroles.com</a>.</p>
+  <p>If you sign up for job alerts, we collect your email address and your alert choices (disciplines, region, country, seniority, and whether you want Pro alerts). We use them only to send you the alerts you asked for and, during the launch offer, to tell you before Pro stops being free. We send a confirmation email first, and the alert only starts after you click the link in it. Every alert email has an unsubscribe link. You can unsubscribe or ask us to delete your details at any time by emailing <a href="mailto:hello@controlroles.com">hello@controlroles.com</a>.</p>
 
   <h3>4. Applying for jobs</h3>
   <p>When you click Apply, you leave ControlRoles and go to the employer's own careers site. We don't receive your CV, application or any information you give the employer. The employer's privacy policy applies there.</p>
@@ -862,7 +862,7 @@ h1,h2,.hero h1,.jp-main h1,.plan .price,.sal-big,.kpi b,.wordmark{font-stretch:1
   <ul>
     <li><b>Hosting:</b> the site is hosted by GitHub Pages, which, like any web host, processes your IP address and basic request details to deliver the pages and keep them secure.</li>
     <li><b>Fonts:</b> the site's fonts are loaded from Google Fonts, which receives your IP address when the fonts are downloaded.</li>
-    <li><b>Alerts:</b> if you sign up, the form or email service that handles sign-ups and sends alert emails.</li>
+    <li><b>Alerts:</b> if you sign up, Cloudflare (which stores your alert details) and Resend (which sends the alert emails), both acting on our behalf.</li>
   </ul>
   <p>We don't sell or rent personal information to anyone.</p>
 
@@ -1700,7 +1700,7 @@ function openAlerts(){ /* start from the job-list filters the visitor already pi
 }
 /* Where public sign-ups go. Paste your form service's endpoint here (for example https://formspree.io/f/xxxxabcd).
    Left empty, the form opens a pre-filled email to hello@controlroles.com instead. */
-const ALERTS_FORM_URL = "";
+const ALERTS_FORM_URL = "https://api.controlroles.com/subscribe";
 $("#alert-form").addEventListener("submit",async e=>{
   e.preventDefault(); const msg=$("#a-msg"); msg.className="alert-msg";
   const email=$("#a-email").value.trim();
@@ -1710,9 +1710,9 @@ $("#alert-form").addEventListener("submit",async e=>{
     /* on the public site: send the sign-up to the form service set in ALERTS_FORM_URL (e.g. Formspree, Tally, Basin) */
     if(ALERTS_FORM_URL){
       $("#a-submit").disabled=true;
-      try{ const r=await fetch(ALERTS_FORM_URL,{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify({...p, disc:p.disc.join(", ")})}); if(!r.ok) throw new Error(r.status);
-        msg.className="alert-msg ok"; msg.textContent=`Thanks, ${email} is signed up. We'll email you new matching roles${p.pro?", including the free Pro alerts during the launch offer":""}.`; }
-      catch(err){ msg.textContent="Sorry, your alert couldn't be saved. Please try again in a minute."; }
+      try{ const r=await fetch(ALERTS_FORM_URL,{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify({...p, freq:p.pro?"daily":"weekly", website:($("#a-web")||{}).value||""})}); const res=await r.json().catch(()=>({})); if(!r.ok||!res.ok) throw new Error(res.error||r.status);
+        msg.className="alert-msg ok"; msg.textContent= res.status==="confirmed" ? `${email} already has this alert. New matching roles will keep arriving by email.` : `Almost done: we've sent a confirmation link to ${email}. Click it to switch your alert on (check your spam folder if you don't see it).`; }
+      catch(err){ msg.textContent= (err&&err.message&&!/^\d+$/.test(err.message)&&err.message!=="Failed to fetch") ? err.message : "Sorry, your alert couldn't be saved. Please try again in a minute."; }
       finally{ $("#a-submit").disabled=false; }
       return;
     }
