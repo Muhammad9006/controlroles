@@ -497,6 +497,7 @@ nav.tabs a[aria-current="page"]{background:none;color:var(--fg);box-shadow:inset
 .jmeta .tag.elig{font-size:12px}
 .btn.save.sq{width:40px;height:40px;padding:0}
 .btn.save.sq svg{width:18px;height:18px}
+.j-btns{display:inline-flex;gap:6px}
 .job .logo .ini,.logo .ini{font-family:var(--font-display);font-stretch:85%;font-weight:800;color:var(--fg)}
 .logo{background:var(--surface-2)}
 .logo:has(img){background:#fff}
@@ -1424,7 +1425,7 @@ function rowHTML(j){
     </div>
     <div class="j-side">
       <span class="age">${isNew(j)?'<span class="newm">New</span>':""}${esc(ageText(j))}</span>
-      <button class="btn sm save sq" type="button" data-save="${esc(j.id)}" aria-pressed="${s}" aria-label="${s?"Saved":"Save"}: ${esc(j.title)}">${STAR}</button>
+      <span class="j-btns"><button class="btn sm save sq" type="button" data-cshare="${esc(j.id)}" aria-label="Share: ${esc(j.title)}">${SHARE_IC}</button><button class="btn sm save sq" type="button" data-save="${esc(j.id)}" aria-pressed="${s}" aria-label="${s?"Saved":"Save"}: ${esc(j.title)}">${STAR}</button></span>
     </div>
   </article>`;
 }
@@ -1478,6 +1479,7 @@ function toggleSave(id){ const t=tracker(); if(t.some(x=>x.id===id)) saveTracker
 $("#job-list").addEventListener("click",e=>{
   if(e.target.closest("[data-clear]")) return clearFilters();
   const qb=e.target.closest("[data-q]"); if(qb){ F.q=qb.dataset.q; $("#f-q").value=F.q; return renderJobs(); }
+  const cs=e.target.closest("[data-cshare]"); if(cs){ const j=JOBS.find(x=>x.id===cs.dataset.cshare); if(!j) return; if(navigator.share){ navigator.share({title:shareText(j), url:shareUrl(j)}).catch(()=>{}); } else { navigator.clipboard.writeText(shareUrl(j)).then(()=>toast("Link copied"),()=>openJob(j.id)); } return; }
   const sv=e.target.closest("[data-save]"); if(sv){ toggleSave(sv.dataset.save); const s=saved(sv.dataset.save); if(s) toast("Saved"); sv.setAttribute("aria-pressed",s); sv.setAttribute("aria-label",(s?"Saved: ":"Save: ")+(JOBS.find(x=>x.id===sv.dataset.save)||{}).title); return; }
   const o=e.target.closest(".j-open"); if(o){ if(e.metaKey||e.ctrlKey||e.shiftKey||e.altKey) return; e.preventDefault(); openJob(o.dataset.id); }
 });
