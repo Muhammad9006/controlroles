@@ -12,6 +12,7 @@ import sys
 import json
 import os
 import re
+import urllib.parse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ELIG = {"nat": "Nationals only", "citizen": "Citizens / permanent residents only", "clearance": "Security clearance required",
@@ -31,7 +32,14 @@ h1{font-size:clamp(24px,4vw,32px);line-height:1.15;margin:0 0 6px;letter-spacing
 dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 16px;margin:18px 0}dt{font:11px ui-monospace,monospace;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}dd{margin:2px 0 0;font-weight:600}
 ul{padding-left:18px}.btn{display:inline-block;padding:12px 18px;border-radius:999px;text-decoration:none;font-weight:700;margin:6px 8px 0 0}
 .primary{background:var(--accent);color:#fff}.ghost{border:1px solid var(--line);color:var(--accent-ink)}.fine{font-size:13px;color:var(--muted)}
-@media (max-width:560px){dl{grid-template-columns:1fr}}"""
+.top{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.top nav a{color:var(--muted);font-weight:600;font-size:15px;margin-left:16px;text-decoration:none}
+.logo{display:inline-flex;align-items:center;gap:10px}.logo span{color:var(--accent-ink)}
+footer{margin-top:28px;color:var(--muted);font-size:14px;display:flex;gap:16px;flex-wrap:wrap}footer a{color:var(--muted)}
+@media (max-width:560px){dl{grid-template-columns:1fr}.top nav a{margin:0 14px 0 0}}"""
+LOGO = ('<svg width="28" height="28" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#0B5E66"/>'
+        '<path d="M22.2 10.2A8.5 8.5 0 1 0 22.2 21.8" fill="none" stroke="#fff" stroke-width="4.2" stroke-linecap="round"/>'
+        '<circle cx="23.4" cy="16" r="2.7" fill="#FF6F5B"/></svg>')
+BOTS = r"bot|crawl|spider|slurp|facebookexternalhit|whatsapp\/|skypeuripreview|lighthouse|headlesschrome"  # crawlers keep this page; people (incl. the LinkedIn/Facebook apps) go to the full board
 
 
 def esc(s):
@@ -80,7 +88,7 @@ def page(j, base, today=None, img=None):
     today = today or datetime.date.today()
     url = f"{base}/jobs/{slug(j['id'])}.html"
     img = img or f"{base}/og/{OG.get(j.get('disc'), 'default')}.png"
-    board = f"{base}/#job/{j['id']}"
+    board = f"{base}/#job/{urllib.parse.quote(str(j['id']), safe='')}"
     loc = where(j)
     desc = (f"{j['emp']} is hiring a {j['title']} in {loc}. {j.get('disc', '')} role at {j.get('level', '')} level "
             f"with a {TYPE.get(j.get('type'), j.get('type', '')).lower()}. Apply on the employer's own careers site.")
@@ -129,8 +137,9 @@ def page(j, base, today=None, img=None):
 <title>{esc(j['title'])} at {esc(j['emp'])}, {esc(loc)} | ControlRoles</title>
 <meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(url)}">
 <meta property="og:title" content="{esc(j['title'])} · {esc(j['emp'])} · {esc(loc)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(url)}"><meta property="og:type" content="website"><meta property="og:site_name" content="ControlRoles"><meta property="og:image" content="{esc(img)}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="{esc(j['title'])} at {esc(j['emp'])} · ControlRoles"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{esc(img)}">
-<script type="application/ld+json">{ld_json}</script><style>{CSS}</style></head>
-<body><div class="wrap"><header><a href="{esc(base)}/">Control<span style="color:#0A707A">Roles</span></a> <span class="fine">· project controls jobs</span></header>
+<script type="application/ld+json">{ld_json}</script>
+<script>if(!/{BOTS}/i.test(navigator.userAgent))location.replace({json.dumps(board)});</script><style>{CSS}</style></head>
+<body><div class="wrap"><header class="top"><a class="logo" href="{esc(base)}/">{LOGO}Control<span>Roles</span></a><nav><a href="{esc(base)}/#jobs">All jobs</a><a href="{esc(base)}/#employers">Employers</a><a href="{esc(base)}/#alerts">Job alerts</a></nav></header>
 <main class="card"><h1>{esc(j['title'])}</h1><div class="meta"><b>{esc(j['emp'])}</b> · {esc(loc)}</div>
 <dl>{''.join(f'<div><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>' for k, v in facts)}</dl>
 {f'<h2 style="font-size:16px">Requirements (from the posting)</h2><ul>' + ''.join(f'<li>{esc(r)}</li>' for r in req) + '</ul>' if req else ''}
@@ -138,6 +147,7 @@ def page(j, base, today=None, img=None):
 <a class="btn primary" href="{esc(j['url'] if str(j.get('url', '')).startswith('https://') else board)}" rel="noopener">Apply on {esc(j['emp'])}'s site ↗</a>
 <a class="btn ghost" href="{esc(board)}">Expected salary, benefits &amp; similar roles →</a>
 <p class="fine">Listing checked {esc(j.get('checked') or 'recently')}. You apply on the employer's own site; ControlRoles never sees your application.</p></main>
+<footer><span>© ControlRoles</span><a href="{esc(base)}/#about">About</a><a href="{esc(base)}/#contact">Contact</a><a href="{esc(base)}/#privacy">Privacy</a><a href="{esc(base)}/#terms">Terms</a></footer>
 </div></body></html>"""
 
 
