@@ -86,3 +86,5 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1800000   # GitHub sometimes takes over 10 minutes to publish thousands of job pages
