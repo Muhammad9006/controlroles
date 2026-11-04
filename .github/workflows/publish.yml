@@ -35,10 +35,19 @@ jobs:
     permissions:
       pages: write
       id-token: write
+      deployments: read
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Clear a stuck earlier publish, if any
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for sha in $(gh api "repos/${{ github.repository }}/deployments?environment=github-pages&per_page=6" --jq '.[].sha' | sort -u); do
+            [ "$sha" = "${{ github.sha }}" ] && continue
+            gh api -X POST "repos/${{ github.repository }}/pages/deployments/$sha/cancel" >/dev/null 2>&1 && echo "cancelled stuck publish $sha" || true
+          done
       - id: deployment
         uses: actions/deploy-pages@v4
         with:
