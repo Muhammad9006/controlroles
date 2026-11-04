@@ -39,6 +39,12 @@ jobs:
       - name: Build a page for every job (for Google and sharing)
         run: python -m collector.pages
 
+      - name: Send job alert emails
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python -m collector.alerts || echo "::warning::Job alert emails could not be sent this run."
+
       - name: Show run report
         if: always()
         run: cat data/run-report.md >> "$GITHUB_STEP_SUMMARY" || true
