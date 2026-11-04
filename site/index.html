@@ -660,8 +660,23 @@ h1,h2,.hero h1,.jp-main h1,.plan .price,.sal-big,.kpi b,.wordmark{font-stretch:1
 .contact-card{border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:14px 0 6px;background:var(--surface-2);max-width:420px}
 .contact-mail{margin:4px 0 0;font-size:20px;font-weight:700}
 .contact-mail a{text-decoration:none}
+.cookie{position:fixed;left:16px;right:16px;bottom:16px;z-index:60;max-width:560px;margin:0 auto;background:var(--bg);border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 30px rgba(11,29,34,.15);padding:14px 16px;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;font-size:14px}
+.cookie p{margin:0;flex:1 1 260px;color:var(--muted)}.cookie div{display:flex;gap:8px}
+@media (max-width:640px){body:has(#v-job:not([hidden])) .cookie{bottom:84px}}
 </style>
 
+<script>
+/* Google Analytics (GA4) with consent: off by default in Europe/UK until the visitor accepts; visitors who decline are not tracked */
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+(function(){var c=null;try{c=localStorage.getItem("cr-consent");}catch(e){}
+var EU=["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE","GB","CH"];
+var d={ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied",analytics_storage:"denied"};
+if(c==="yes")gtag("consent","default",Object.assign({},d,{analytics_storage:"granted"}));
+else if(c==="no")gtag("consent","default",d);
+else{gtag("consent","default",Object.assign({},d,{region:EU}));gtag("consent","default",Object.assign({},d,{analytics_storage:"granted"}));}
+gtag("js",new Date());gtag("config","G-PZ4LBBWC4J",{send_page_view:false,anonymize_ip:true});})();
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PZ4LBBWC4J"></script>
 </head>
 <body>
 <header class="top">
@@ -854,10 +869,10 @@ h1,h2,.hero h1,.jp-main h1,.plan .price,.sal-big,.kpi b,.wordmark{font-stretch:1
 <section id="v-privacy" class="wrap doc" hidden>
   <h2>Privacy policy</h2>
   <p class="sub">Last updated 4 November 2026</p>
-  <p>This policy explains what information ControlRoles (controlroles.com) collects, why, and the choices you have. In short: you can use the whole site without telling us who you are, we don't use advertising or tracking cookies, and we never see your job applications.</p>
+  <p>This policy explains what information ControlRoles (controlroles.com) collects, why, and the choices you have. In short: you can use the whole site without telling us who you are, we only use analytics cookies if you accept them, we don't use advertising cookies, and we never see your job applications.</p>
 
   <h3>1. Using the site without an account</h3>
-  <p>You don't need an account to search jobs. We don't use analytics, advertising or tracking cookies, and we don't build profiles of visitors.</p>
+  <p>You don't need an account to search jobs. If you click <b>Accept</b> on the cookie notice, we use Google Analytics to count visits and see which pages and jobs are viewed, so we can improve the site. It sets cookies and receives your IP address (shortened) and basic device and browser details. If you click <b>Decline</b>, no analytics cookies are set. You can change your choice at any time by clearing this site's data in your browser. We don't use advertising cookies and we don't sell data about visitors.</p>
 
   <h3>2. Information kept only in your browser</h3>
   <p>Some features remember your choices on your own device, using your browser's local storage: saved roles and their status, your filters, Insights choices, followed employers, CV text you paste into the CV check, and whether you closed the launch banner. This information stays in your browser and is never sent to us. You can delete it at any time by clearing your browser's site data for controlroles.com.</p>
@@ -875,6 +890,7 @@ h1,h2,.hero h1,.jp-main h1,.plan .price,.sal-big,.kpi b,.wordmark{font-stretch:1
   <ul>
     <li><b>Hosting:</b> the site is hosted by GitHub Pages, which, like any web host, processes your IP address and basic request details to deliver the pages and keep them secure.</li>
     <li><b>Fonts:</b> the site's fonts are loaded from Google Fonts, which receives your IP address when the fonts are downloaded.</li>
+    <li><b>Analytics:</b> Google Analytics (Google), only if you accept analytics cookies.</li>
     <li><b>Alerts:</b> if you sign up, Cloudflare (which stores your alert details) and Resend (which sends the alert emails), both acting on our behalf.</li>
   </ul>
   <p>We don't sell or rent personal information to anyone.</p>
@@ -1737,7 +1753,7 @@ $("#alert-form").addEventListener("submit",async e=>{
     if(ALERTS_FORM_URL){
       $("#a-submit").disabled=true;
       try{ const r=await fetch(ALERTS_FORM_URL,{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify({...p, freq:p.pro?"daily":"weekly", website:($("#a-web")||{}).value||""})}); const res=await r.json().catch(()=>({})); if(!r.ok||!res.ok) throw new Error(res.error||r.status);
-        msg.className="alert-msg ok"; msg.textContent= res.status==="confirmed" ? `${email} already has this alert. New matching roles will keep arriving by email.` : `Almost done: we've sent a confirmation link to ${email}. Click it to switch your alert on (check your spam folder if you don't see it).`; }
+        if(window.crTrack) crTrack("alert_signup",{freq:p.pro?"daily":"weekly"}); msg.className="alert-msg ok"; msg.textContent= res.status==="confirmed" ? `${email} already has this alert. New matching roles will keep arriving by email.` : `Almost done: we've sent a confirmation link to ${email}. Click it to switch your alert on (check your spam folder if you don't see it).`; }
       catch(err){ msg.textContent= (err&&err.message&&!/^\d+$/.test(err.message)&&err.message!=="Failed to fetch") ? err.message : "Sorry, your alert couldn't be saved. Please try again in a minute."; }
       finally{ $("#a-submit").disabled=false; }
       return;
@@ -1878,6 +1894,25 @@ function showActiveTab(){ const nav=document.querySelector("nav.tabs"), a=nav&&n
 window.addEventListener("hashchange",()=>setTimeout(showActiveTab,0));
 window.addEventListener("hashchange",route);
 renderBoard();renderScore();route();setTimeout(showActiveTab,0);
+</script>
+<div class="cookie" id="cookie" hidden role="region" aria-label="Cookies"><p>We use analytics cookies to see how the site is used and make it better. <a href="#privacy">Privacy policy</a></p><div><button class="btn" type="button" id="ck-no">Decline</button><button class="btn primary" type="button" id="ck-yes">Accept</button></div></div>
+<script>
+(function(){
+  var ck=null; try{ ck=localStorage.getItem("cr-consent"); }catch(e){}
+  var box=document.getElementById("cookie");
+  if(!ck&&box) box.hidden=false;
+  function set(v){ try{ localStorage.setItem("cr-consent",v); }catch(e){} gtag("consent","update",{analytics_storage:v==="yes"?"granted":"denied"}); box.hidden=true; if(v==="yes") track(); }
+  document.getElementById("ck-yes").onclick=function(){ set("yes"); };
+  document.getElementById("ck-no").onclick=function(){ set("no"); };
+  var last="";
+  function track(){ var h=location.hash.replace(/^#/,"").split("?")[0]||"jobs"; var path="/"+h; if(path===last) return; last=path;
+    gtag("event","page_view",{page_title:document.title,page_location:location.origin+path+(location.hash.indexOf("?")>0?"?"+location.hash.split("?")[1]:""),page_path:path}); }
+  window.addEventListener("hashchange",function(){ setTimeout(track,50); });
+  setTimeout(track,300);
+  document.addEventListener("click",function(e){ var a=e.target.closest("a[href^='http']"); if(a&&/Apply on/.test(a.textContent)) gtag("event","apply_click",{employer:(a.textContent.replace(/^Apply on |\u2019s site.*$|'s site.*$/g,"")).trim(), link_url:a.href});
+    var s=e.target.closest("#d-sharebox .sh,[data-cshare],#d-share2"); if(s) gtag("event","share",{method:(s.textContent||"native").trim()||"native"}); }, true);
+  window.crTrack=function(name,params){ gtag("event",name,params||{}); };
+})();
 </script>
 </body>
 </html>
