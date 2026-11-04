@@ -123,9 +123,9 @@ def page(j, base, today=None):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(j['title'])} at {esc(j['emp'])}, {esc(loc)} | ControlRoles</title>
 <meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(url)}">
-<meta property="og:title" content="{esc(j['title'])} · {esc(j['emp'])}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(url)}"><meta property="og:type" content="website">
+<meta property="og:title" content="{esc(j['title'])} · {esc(j['emp'])}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(url)}"><meta property="og:type" content="website"><meta property="og:site_name" content="ControlRoles"><meta name="twitter:card" content="summary">
 <script type="application/ld+json">{ld_json}</script><style>{CSS}</style></head>
-<body><div class="wrap"><header><a href="{esc(base)}/"><span style="font-weight:500">control</span>roles</a> <span class="fine">· project controls jobs</span></header>
+<body><div class="wrap"><header><a href="{esc(base)}/">Control<span style="color:#0A707A">Roles</span></a> <span class="fine">· project controls jobs</span></header>
 <main class="card"><h1>{esc(j['title'])}</h1><div class="meta"><b>{esc(j['emp'])}</b> · {esc(loc)}</div>
 <dl>{''.join(f'<div><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>' for k, v in facts)}</dl>
 {f'<h2 style="font-size:16px">Requirements (from the posting)</h2><ul>' + ''.join(f'<li>{esc(r)}</li>' for r in req) + '</ul>' if req else ''}

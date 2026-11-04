@@ -249,6 +249,11 @@ nav.tabs .pill{margin-left:4px;height:18px;min-width:18px}
 .jp-card{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:12px}
 .jp-emp{display:flex;gap:12px;align-items:center}.jp-emp small{display:block;color:var(--muted);font-size:12px}
 .jp-apply{justify-content:center;width:100%}
+.sharebox{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
+.sharebox .sh{font:inherit;font-size:13px;font-weight:600;color:var(--fg);background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:6px 12px;text-decoration:none;cursor:pointer}
+.sharebox .sh:hover,.sharebox .sh:focus-visible{border-color:var(--accent);color:var(--accent-ink)}
+#d-share svg,#d-share2 svg{vertical-align:-3px}
+#d-share svg{margin-right:6px}
 .jp-bar{display:none}
 @media (max-width:880px){.jp-grid{grid-template-columns:1fr}.jp-side{position:static}.jp-main{padding:18px}
  .jp-bar{display:flex;gap:8px;position:fixed;left:0;right:0;bottom:0;padding:10px 16px calc(10px + env(safe-area-inset-bottom,0px));background:var(--surface);border-top:1px solid var(--line);z-index:15}
@@ -1509,6 +1514,12 @@ function closedJob(id){
     <div class="row" style="gap:8px;flex-wrap:wrap">${e&&n?`<a class="btn primary" href="#jobs?emp=${encodeURIComponent(e.n)}">See ${n} open ${n===1?"role":"roles"} at ${esc(e.n)}</a>`:""}<a class="btn" href="#jobs">Browse all jobs</a><a class="btn" href="#alerts">Get alerts for roles like this</a></div></div>`;
   VIEWS.forEach(x=>$("#v-"+x).hidden=true); $("#v-job").hidden=false; window.scrollTo(0,0); document.title="Role closed | ControlRoles";
 }
+const SHARE_IC='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>';
+function shareUrl(j){ const live=location.protocol==="https:"&&!/claude|anthropic|usercontent|localhost/.test(location.hostname); const slug=String(j.id).toLowerCase().replace(/[^a-z0-9-]+/g,"-").replace(/^-+|-+$/g,""); return live?location.origin+location.pathname.replace(/index\.html$/,"").replace(/\/$/,"")+"/jobs/"+slug+".html":"https://controlroles.com/jobs/"+slug+".html"; }
+function shareText(j){ return `${j.title} at ${j.emp}${j.city||j.country?" – "+[j.city,j.country].filter(Boolean).join(", "):""}`; }
+function shareLinks(j){ const u=encodeURIComponent(shareUrl(j)), t=encodeURIComponent(shareText(j)), tu=encodeURIComponent(shareText(j)+" "+shareUrl(j));
+  const L=[["WhatsApp",`https://wa.me/?text=${tu}`],["LinkedIn",`https://www.linkedin.com/sharing/share-offsite/?url=${u}`],["Facebook",`https://www.facebook.com/sharer/sharer.php?u=${u}`],["X",`https://twitter.com/intent/tweet?text=${t}&url=${u}`],["Telegram",`https://t.me/share/url?url=${u}&text=${t}`],["Email",`mailto:?subject=${t}&body=${encodeURIComponent(shareText(j)+"\n\n"+shareUrl(j)+"\n\nFound on ControlRoles")}`]];
+  return L.map(([n,h])=>`<a class="sh" href="${esc(h)}" ${n==="Email"?"":'target="_blank" rel="noopener"'}>${n}</a>`).join("")+`<button class="sh" type="button" data-sh="copy">Copy link</button>`+(navigator.share?`<button class="sh" type="button" data-sh="more">More…</button>`:""); }
 function openJob(id,fromRoute){
   if(!fromRoute){ if(!location.hash.startsWith("#job/")){ listView=curView||"jobs"; listY=scrollY; } jobPushed=true; location.hash="job/"+encodeURIComponent(id); return; }
   const j=JOBS.find(x=>x.id===id); if(!j){ closedJob(id); return; }
@@ -1542,20 +1553,26 @@ function openJob(id,fromRoute){
         <div class="jp-card">
           <div class="jp-emp">${logoHTML(j.emp)}<div><b>${esc(j.emp)}</b><small>${esc(j.type==="Developer"?"Developer (client)":j.type==="PMC"?"PMC / consultant":j.type)}</small></div></div>
           <a class="btn primary jp-apply" href="${esc(safeUrl(j.url))}" target="_blank" rel="noopener">Apply on ${esc(poss(j.emp))} site ↗</a>
-          <div class="row" style="gap:8px"><button class="btn save" type="button" id="d-track" aria-pressed="${s}">${STAR}${s?"Saved":"Save"}</button><button class="btn" type="button" id="d-share">Copy link</button></div>
+          <div class="row" style="gap:8px"><button class="btn save" type="button" id="d-track" aria-pressed="${s}">${STAR}${s?"Saved":"Save"}</button><button class="btn" type="button" id="d-share" aria-expanded="false" aria-controls="d-sharebox">${SHARE_IC}Share</button></div>
+          <div class="sharebox" id="d-sharebox" hidden>${shareLinks(j)}</div>
           <p class="linkchk"><span class="ok-dot"></span><span>Link checked ${esc(j.checked)}${reqHTML(j)?"":" · full requirements are on the posting"}</span></p>
         </div>
         <div class="jp-card">${rel(`More ${esc(j.disc)} roles at ${esc(j.emp)}`, sameEmp)||'<p class="fine" style="margin:0">No other '+esc(j.disc)+' roles at '+esc(j.emp)+' right now.</p>'}</div>
         ${(elsewhere.length?elsewhere:nearby).length?`<div class="jp-card">${rel(`Similar roles at other employers`, elsewhere.length?elsewhere:nearby)}</div>`:""}
       </aside>
     </div>
-    <div class="jp-bar"><a class="btn primary" href="${esc(safeUrl(j.url))}" target="_blank" rel="noopener">Apply on ${esc(poss(j.emp))} site ↗</a><button class="btn save" type="button" id="d-track2" aria-pressed="${s}" aria-label="${s?"Saved":"Save"}: ${esc(j.title)}">${STAR}</button></div>`;
+    <div class="jp-bar"><a class="btn primary" href="${esc(safeUrl(j.url))}" target="_blank" rel="noopener">Apply on ${esc(poss(j.emp))} site ↗</a><button class="btn" type="button" id="d-share2" aria-label="Share: ${esc(j.title)}">${SHARE_IC}</button><button class="btn save" type="button" id="d-track2" aria-pressed="${s}" aria-label="${s?"Saved":"Save"}: ${esc(j.title)}">${STAR}</button></div>`;
   VIEWS.forEach(x=>$("#v-"+x).hidden=true); $("#v-job").hidden=false; window.scrollTo(0,0);
   document.querySelectorAll("nav.tabs a").forEach(a=>{ if(a.getAttribute("href")==="#jobs") a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
   document.title=j.title+" · "+j.emp+" | ControlRoles";
   $("#d-title").setAttribute("tabindex","-1"); $("#d-title").focus({preventScroll:true});
   $("#d-close").onclick=closeJob;
-  $("#d-share").onclick=async()=>{ const live=location.protocol==="https:"&&!/claude|anthropic|usercontent|localhost/.test(location.hostname); const u=live?location.origin+location.pathname.replace(/index\.html$/,"").replace(/\/$/,"")+"/jobs/"+String(j.id).toLowerCase().replace(/[^a-z0-9-]+/g,"-").replace(/^-+|-+$/g,"")+".html":location.href; let ok=false; try{ await navigator.clipboard.writeText(u); ok=true; }catch(e){} $("#d-share").textContent=ok?"Link copied":"Copy failed"; setTimeout(()=>{const b=$("#d-share"); if(b) b.textContent="Copy link"},1800); };
+  const box=$("#d-sharebox");
+  $("#d-share").onclick=()=>{ const open=box.hidden; box.hidden=!open; $("#d-share").setAttribute("aria-expanded",open); };
+  $("#d-share2").onclick=async()=>{ if(navigator.share){ try{ await navigator.share({title:shareText(j), url:shareUrl(j)}); }catch(e){} return; } box.hidden=false; $("#d-share").setAttribute("aria-expanded","true"); box.scrollIntoView({behavior:"smooth",block:"center"}); };
+  box.onclick=async e=>{ const b=e.target.closest("[data-sh]"); if(!b) return;
+    if(b.dataset.sh==="copy"){ let ok=false; try{ await navigator.clipboard.writeText(shareUrl(j)); ok=true; }catch(err){} toast(ok?"Link copied":"Couldn't copy the link"); }
+    if(b.dataset.sh==="more"&&navigator.share){ try{ await navigator.share({title:shareText(j), url:shareUrl(j)}); }catch(err){} } };
   const sv=()=>{toggleSave(id);const s=saved(id);["#d-track","#d-track2"].forEach(q=>{const b=$(q); if(!b) return; b.setAttribute("aria-pressed",s); if(q==="#d-track2") b.setAttribute("aria-label",(s?"Saved: ":"Save: ")+j.title); b.innerHTML=STAR+(q==="#d-track"?(s?"Saved":"Save"):""); if(s) toast("Saved");});};
   $("#d-track").onclick=sv; $("#d-track2").onclick=sv;
 }
