@@ -1,0 +1,435 @@
+{
+  "_help": "One entry per employer. 'system' says which careers software they use. Set enabled to false to skip an employer. Entries marked verify:true have settings that need checking on the first run - see the run report. Entries with system 'clinch', 'phenom' or 'custom' need a new connector before they can be enabled. Set \"remove\": true to take an employer (and all its roles) off the board at the next run, for example after a removal request.",
+  "employers": [
+    {
+      "name": "Aldar",
+      "type": "Developer",
+      "system": "lever",
+      "account": "aldar",
+      "enabled": true
+    },
+    {
+      "name": "WSP",
+      "type": "PMC",
+      "system": "oracle",
+      "host": "emit.fa.ca3.oraclecloud.com",
+      "site": "CX_2001",
+      "enabled": true
+    },
+    {
+      "name": "Hill International",
+      "type": "PMC",
+      "system": "oracle",
+      "host": "hcib.fa.us2.oraclecloud.com",
+      "site": "CX_1001",
+      "enabled": true
+    },
+    {
+      "name": "JASARA PMC",
+      "type": "PMC",
+      "system": "workable",
+      "account": "jasarapmc",
+      "enabled": true
+    },
+    {
+      "name": "AECOM",
+      "type": "PMC",
+      "system": "smartrecruiters",
+      "account": "AECOM2",
+      "enabled": true
+    },
+    {
+      "name": "Parsons",
+      "type": "PMC",
+      "system": "workday",
+      "tenant": "parsons",
+      "wd": "wd5",
+      "site": "Search",
+      "enabled": true,
+      "verify": true
+    },
+    {
+      "name": "KBR",
+      "type": "PMC",
+      "system": "workday",
+      "tenant": "kbr",
+      "wd": "wd5",
+      "site": "KBR_Careers",
+      "enabled": true,
+      "verify": true,
+      "note": "Settings confirmed from KBR job links"
+    },
+    {
+      "name": "Jacobs",
+      "type": "PMC",
+      "system": "directemployers",
+      "enabled": false,
+      "verify": true,
+      "note": "Jobs are on jacobs.jobs (DirectEmployers JSON feed); needs a feed connector",
+      "feed": "https://jacobs.jobs/jobs/feed/json"
+    },
+    {
+      "name": "Bechtel",
+      "type": "Contractor",
+      "system": "phenom",
+      "host": "jobs.bechtel.com",
+      "enabled": false,
+      "note": "Phenom careers site; collected by hand for now, needs a Phenom connector"
+    },
+    {
+      "name": "Turner & Townsend",
+      "type": "PMC",
+      "system": "smartrecruiters",
+      "account": "TurnerTownsend",
+      "enabled": true,
+      "note": "Confirmed from Turner & Townsend job links (about 2,200 relevant roles worldwide)"
+    },
+    {
+      "name": "Mace",
+      "type": "PMC",
+      "system": "phenom",
+      "enabled": false,
+      "verify": true,
+      "note": "Phenom careers site (careers.macegroup.com); needs a Phenom connector",
+      "host": "careers.macegroup.com"
+    },
+    {
+      "name": "Egis",
+      "type": "PMC",
+      "system": "clinch",
+      "site": "https://jobs.egis-group.com",
+      "enabled": false
+    },
+    {
+      "name": "AtkinsRéalis",
+      "type": "PMC",
+      "system": "workday",
+      "site": "Careers",
+      "enabled": true,
+      "tenant": "slihrms",
+      "wd": "wd3",
+      "note": "Settings confirmed from AtkinsRéalis job links"
+    },
+    {
+      "name": "KEO International",
+      "type": "PMC",
+      "system": "jibe",
+      "host": "careers.keo.com",
+      "enabled": true,
+      "note": "Confirmed: careers.keo.com/api/jobs"
+    },
+    {
+      "name": "EllisDon",
+      "type": "PMC",
+      "system": "custom",
+      "site": "https://www.ellisdon.com/work-with-us",
+      "enabled": false
+    },
+    {
+      "name": "Fluor",
+      "type": "Contractor",
+      "system": "eightfold",
+      "domain": "fluor.com",
+      "host": "careers.fluor.com",
+      "enabled": false,
+      "note": "Eightfold careers site; needs an Eightfold connector"
+    },
+    {
+      "name": "Mott MacDonald",
+      "type": "PMC",
+      "system": "successfactors",
+      "host": "apply.mottmac.com",
+      "enabled": false,
+      "note": "SAP SuccessFactors site (job list in /sitemap.xml); collected by hand for now, needs a connector"
+    },
+    {
+      "name": "DAMAC",
+      "type": "Developer",
+      "system": "oracle",
+      "host": "ejwe.fa.em2.oraclecloud.com",
+      "site": "CX_1",
+      "enabled": true
+    },
+    {
+      "name": "JLL",
+      "type": "PMC",
+      "system": "workday",
+      "tenant": "jll",
+      "site": "jllcareers",
+      "enabled": true,
+      "note": "Workday was in a maintenance window on 31 Oct 2026; first collection will run from GitHub",
+      "wd": "wd1"
+    },
+    {
+      "name": "Surbana Jurong",
+      "type": "PMC",
+      "system": "workday",
+      "tenant": "surbanajurong",
+      "site": "SJ_Careers",
+      "enabled": true,
+      "note": "Workday was in a maintenance window on 31 Oct 2026; first collection will run from GitHub",
+      "wd": "wd3"
+    },
+    {
+      "name": "Sobha",
+      "type": "Developer",
+      "system": "peoplestrong",
+      "host": "sobharealty-careers.peoplestrong.com",
+      "enabled": true,
+      "note": "PeopleStrong portal (connector: peoplestrong); all businesses, the classifier keeps project-controls roles"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "type": "Contractor",
+      "system": "peoplestrong",
+      "host": "larsentoubrocareers.peoplestrong.com",
+      "enabled": true,
+      "note": "PeopleStrong portal (connector: peoplestrong); all businesses, the classifier keeps project-controls roles"
+    },
+    {
+      "name": "Leighton Asia",
+      "type": "Contractor",
+      "system": "clinch",
+      "host": "career.leightonasia.com",
+      "enabled": false,
+      "note": "Clinch site (job list in /sitemap.xml, JSON-LD on each job); collected by hand, needs a connector"
+    },
+    {
+      "name": "Arup",
+      "type": "PMC",
+      "system": "avature",
+      "host": "jobs.arup.com",
+      "enabled": false,
+      "note": "Server-rendered search pages /jobs/search/<id>/pageN, no posting dates; collected by hand, needs a connector"
+    },
+    {
+      "name": "Iron Mountain",
+      "type": "Developer",
+      "system": "workday",
+      "tenant": "ironmountain",
+      "wd": "wd5",
+      "site": "iron-mountain-jobs",
+      "enabled": true
+    },
+    {
+      "name": "Cumming Group",
+      "type": "PMC",
+      "system": "workday",
+      "tenant": "cumminggroup",
+      "wd": "wd1",
+      "site": "CGC",
+      "enabled": true
+    },
+    {
+      "name": "McDermott",
+      "type": "Contractor",
+      "system": "oracle",
+      "host": "edsv.fa.us2.oraclecloud.com",
+      "site": "CX_1",
+      "enabled": true
+    },
+    {
+      "name": "Wood",
+      "type": "PMC",
+      "system": "oracle",
+      "host": "ehif.fa.em2.oraclecloud.com",
+      "site": "CX_1",
+      "enabled": true
+    },
+    {
+      "name": "PMA Consultants",
+      "type": "PMC",
+      "system": "lever",
+      "account": "pmaconsultants",
+      "enabled": true
+    },
+    {
+      "name": "Arcadis",
+      "type": "PMC",
+      "system": "eightfold",
+      "host": "jobs.arcadis.com",
+      "domain": "arcadis.com",
+      "enabled": false,
+      "note": "Eightfold careers site; collected by hand for now, needs a reader"
+    },
+    {
+      "name": "Worley",
+      "type": "PMC",
+      "system": "eightfold",
+      "host": "jobs.worley.com",
+      "domain": "worley.com",
+      "enabled": false,
+      "note": "Eightfold careers site; collected by hand for now, needs a reader"
+    },
+    {
+      "name": "HDR",
+      "type": "PMC",
+      "system": "taleo",
+      "host": "hdr.taleo.net",
+      "section": "ex",
+      "portal": "101430233",
+      "enabled": false,
+      "note": "Taleo; collected by hand for now, needs a reader"
+    },
+    {
+      "name": "Baker Construction",
+      "type": "Contractor",
+      "system": "successfactors",
+      "url": "https://bcecareers.com/bakerconstruction/go/View-All-Jobs-bakerconstruction/9571400/",
+      "enabled": false,
+      "note": "SuccessFactors career site; collected by hand for now"
+    },
+    {
+      "name": "Currie & Brown",
+      "type": "PMC",
+      "system": "custom",
+      "url": "https://careers.curriebrown.com/vacancies/vacancy-search-results.aspx",
+      "enabled": false,
+      "note": "Own vacancy site; collected by hand for now"
+    },
+    {
+      "name": "SYSTRA",
+      "type": "PMC",
+      "system": "custom",
+      "url": "https://www.systra.com/en/join-us/",
+      "enabled": false,
+      "note": "Own WordPress job list; collected by hand for now"
+    },
+    {
+      "name": "Penspen",
+      "type": "PMC",
+      "system": "none",
+      "enabled": false,
+      "note": "Vacancy page redirects; no public list found"
+    },
+    {
+      "name": "TBH",
+      "type": "PMC",
+      "system": "none",
+      "enabled": false,
+      "note": "Posts only on LinkedIn"
+    },
+    {
+      "name": "Dar",
+      "type": "PMC",
+      "system": "none",
+      "enabled": false,
+      "note": "Posts only on LinkedIn"
+    },
+    {
+      "name": "Protecnium",
+      "type": "PMC",
+      "system": "viterbit",
+      "url": "https://protecnium.viterbit.site/",
+      "enabled": false,
+      "note": "Viterbit; no project-controls roles open on 31 Oct 2026"
+    },
+    {
+      "name": "HKA",
+      "type": "PMC",
+      "system": "teamtailor",
+      "host": "careers.hka.com",
+      "enabled": true,
+      "note": "Teamtailor RSS feed /jobs.rss (claims, delay and quantum consultancy)"
+    },
+    {
+      "name": "Honeywell",
+      "type": "Contractor",
+      "system": "oracle",
+      "host": "ibqbjb.fa.ocs.oraclecloud.com",
+      "site": "CX_1",
+      "enabled": true,
+      "note": "Oracle Recruiting behind careers.honeywell.com"
+    },
+    {
+      "name": "Orascom Construction",
+      "type": "Contractor",
+      "system": "oracle",
+      "host": "fa-esco-saasfaprod1.fa.ocs.oraclecloud.com",
+      "site": "CX_1",
+      "enabled": true,
+      "note": "Oracle Recruiting linked from orascom.com/careers"
+    },
+    {
+      "name": "Gleeds",
+      "type": "PMC",
+      "system": "eploy",
+      "host": "jobs.gleeds.com",
+      "enabled": false,
+      "note": "Eploy site (same as Currie & Brown): ASP.NET postback paging, location on each job page; collected by hand, needs a connector"
+    },
+    {
+      "name": "Alstom",
+      "type": "Contractor",
+      "system": "successfactors",
+      "host": "jobsearch.alstom.com",
+      "enabled": false,
+      "note": "SAP SuccessFactors career site: /search/?q=<keyword>&startrow=<n> HTML pages (25 per page); collected by hand, needs a connector"
+    },
+    {
+      "name": "Hassan Allam Holding",
+      "type": "Contractor",
+      "system": "website",
+      "host": "www.hassanallam.com",
+      "enabled": false,
+      "note": "Jobs listed on hassanallam.com/careers (a handful, no API); most hiring is on LinkedIn/Wuzzuf; collected by hand"
+    },
+    {
+      "name": "Compass Project Consulting",
+      "type": "PMC",
+      "system": "zoho",
+      "host": "compass-pc.zohorecruit.com",
+      "enabled": false,
+      "note": "Zoho Recruit careers site (compass-pc.zohorecruit.com/jobs/Careers), embedded on compass-pc.com/careers/vacancies; checked 3 Nov 2026: one opening, posted Sep 2022, so nothing current. Needs a Zoho connector."
+    },
+    {
+      "name": "Amey",
+      "type": "Contractor",
+      "system": "",
+      "enabled": false,
+      "note": "Roles imported by hand; no connector yet"
+    },
+    {
+      "name": "Balfour Beatty",
+      "type": "Contractor",
+      "system": "",
+      "enabled": false,
+      "note": "Roles imported by hand; no connector yet"
+    },
+    {
+      "name": "Kier",
+      "type": "Contractor",
+      "system": "",
+      "enabled": false,
+      "note": "Roles imported by hand; no connector yet"
+    },
+    {
+      "name": "Kiewit",
+      "type": "Contractor",
+      "system": "",
+      "enabled": false,
+      "note": "Roles imported by hand; no connector yet"
+    },
+    {
+      "name": "VINCI",
+      "type": "Contractor",
+      "system": "",
+      "enabled": false,
+      "note": "Roles imported by hand; no connector yet"
+    },
+    {
+      "name": "Wates",
+      "type": "Contractor",
+      "system": "",
+      "enabled": false,
+      "note": "Roles imported by hand; no connector yet"
+    },
+    {
+      "name": "Webuild",
+      "type": "Contractor",
+      "system": "",
+      "enabled": false,
+      "note": "Roles imported by hand; no connector yet"
+    }
+  ]
+}

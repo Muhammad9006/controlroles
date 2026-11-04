@@ -1,0 +1,43 @@
+{
+ "https://api.smartrecruiters.com/v1/companies/AECOM2/postings": {
+  "totalFound": 4,
+  "content": [
+   {
+    "id": "744000027608747",
+    "name": "Planning Engineer",
+    "location": {
+     "city": "Riyadh",
+     "country": "sa"
+    },
+    "releasedDate": "2026-10-01T00:00:00Z"
+   },
+   {
+    "id": "744000112135124",
+    "name": "Senior Associate - Urban Planning",
+    "location": {
+     "city": "Riyadh",
+     "country": "sa"
+    },
+    "releasedDate": "2026-10-01T00:00:00Z"
+   },
+   {
+    "id": "744000000000001",
+    "name": "IT Project Manager",
+    "location": {
+     "city": "London",
+     "country": "gb"
+    },
+    "releasedDate": "2026-10-01T00:00:00Z"
+   },
+   {
+    "id": "744000000000002",
+    "name": "Project Manager - Highways",
+    "location": {
+     "city": "Manchester",
+     "country": "gb"
+    },
+    "releasedDate": "2026-10-02T00:00:00Z"
+   }
+  ]
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "https://api.lever.co/v0/postings/aldar": [
+  {
+   "id": "086358d9",
+   "text": "Senior Associate - Development Projects Scheduling",
+   "categories": {
+    "location": "Abu Dhabi",
+    "team": "Development Projects Scheduling"
+   },
+   "country": "AE",
+   "hostedUrl": "https://jobs.lever.co/aldar/086358d9-7041-4ac3-b31f-9748819d5ff5",
+   "createdAt": 1792000000000
+  },
+  {
+   "id": "4d233360",
+   "text": "Vice President \u2013 Contract Management (Building/Infrastructure)",
+   "categories": {
+    "location": "Abu Dhabi"
+   },
+   "country": "AE",
+   "hostedUrl": "https://jobs.lever.co/aldar/4d233360-098d-49b5-a351-e7b2b1d49999",
+   "createdAt": 1792000000000
+  },
+  {
+   "id": "2cbc66d6",
+   "text": "Senior Vice President - Master Planning - Projects",
+   "categories": {
+    "location": "Abu Dhabi"
+   },
+   "country": "AE",
+   "hostedUrl": "https://jobs.lever.co/aldar/2cbc66d6",
+   "createdAt": 1792000000000
+  },
+  {
+   "id": "f5340ed5",
+   "text": "Assistant Vice President \u2013 Financial Planning & Analysis",
+   "categories": {
+    "location": "Abu Dhabi"
+   },
+   "country": "AE",
+   "hostedUrl": "https://jobs.lever.co/aldar/f5340ed5",
+   "createdAt": 1792000000000
+  },
+  {
+   "id": "x1",
+   "text": "Leasing Executive",
+   "categories": {
+    "location": "Abu Dhabi"
+   },
+   "country": "AE",
+   "hostedUrl": "https://jobs.lever.co/aldar/x1",
+   "createdAt": 1792000000000
+  }
+ ]
+}

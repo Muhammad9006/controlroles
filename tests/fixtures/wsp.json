@@ -1,0 +1,38 @@
+{
+ "https://emit.fa.ca3.oraclecloud.com/hcmRestApi": {
+  "items": [
+   {
+    "requisitionList": [
+     {
+      "Id": "87165",
+      "Title": "Project Handover & Closeout Manager \u2013 Infrastructure",
+      "PrimaryLocation": "Riyadh",
+      "PrimaryLocationCountry": "SA",
+      "PostedDate": "2026-10-20"
+     },
+     {
+      "Id": "97567",
+      "Title": "Quantity Surveyor (MEP)",
+      "PrimaryLocation": "Medina",
+      "PrimaryLocationCountry": "SA",
+      "PostedDate": "2026-10-22"
+     },
+     {
+      "Id": "97001",
+      "Title": "Principal - Transport Planning & Mobility",
+      "PrimaryLocation": "Jeddah",
+      "PrimaryLocationCountry": "SA",
+      "PostedDate": "2026-10-22"
+     },
+     {
+      "Id": "95669",
+      "Title": "Senior Estimator",
+      "PrimaryLocation": "Calgary",
+      "PrimaryLocationCountry": "CA",
+      "PostedDate": "2026-10-22"
+     }
+    ]
+   }
+  ]
+ }
+}
