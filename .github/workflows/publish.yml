@@ -1,0 +1,44 @@
+name: Publish website only
+
+# Republishes the site from the saved job data in a few minutes, without collecting jobs again.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build the website from the saved job data
+        run: |
+          python -c "import json;d=json.load(open('data/jobs.json'));open('site/jobs.js','w').write('window.JOBS_DATA = '+json.dumps(d,ensure_ascii=False,separators=(',',':'))+';\n')"
+          python -m collector.pages
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 1800000
