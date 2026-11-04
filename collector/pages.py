@@ -72,6 +72,10 @@ def where(j):
     return ", ".join(dict.fromkeys(parts)) or "Location not stated"
 
 
+OG = {"Planning": "planning", "Project Controls": "project-controls", "Cost & Commercial": "cost-commercial", "Contracts": "contracts",
+      "Claims": "claims", "Risk": "risk", "Project Management": "project-management"}
+
+
 def page(j, base, today=None):
     today = today or datetime.date.today()
     url = f"{base}/jobs/{slug(j['id'])}.html"
@@ -123,7 +127,7 @@ def page(j, base, today=None):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(j['title'])} at {esc(j['emp'])}, {esc(loc)} | ControlRoles</title>
 <meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(url)}">
-<meta property="og:title" content="{esc(j['title'])} · {esc(j['emp'])}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(url)}"><meta property="og:type" content="website"><meta property="og:site_name" content="ControlRoles"><meta name="twitter:card" content="summary">
+<meta property="og:title" content="{esc(j['title'])} · {esc(j['emp'])} · {esc(loc)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(url)}"><meta property="og:type" content="website"><meta property="og:site_name" content="ControlRoles"><meta property="og:image" content="{esc(base)}/og/{OG.get(j.get('disc'), 'default')}.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="ControlRoles · {esc(j.get('disc') or 'Project controls')} role"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{esc(base)}/og/{OG.get(j.get('disc'), 'default')}.png">
 <script type="application/ld+json">{ld_json}</script><style>{CSS}</style></head>
 <body><div class="wrap"><header><a href="{esc(base)}/">Control<span style="color:#0A707A">Roles</span></a> <span class="fine">· project controls jobs</span></header>
 <main class="card"><h1>{esc(j['title'])}</h1><div class="meta"><b>{esc(j['emp'])}</b> · {esc(loc)}</div>
