@@ -374,6 +374,11 @@ select optgroup{background-color:var(--surface);color:var(--muted);font-weight:7
 .alert-side .big{font-size:40px;font-weight:800;line-height:1;font-variant-numeric:tabular-nums}
 .alert-side ul{margin:0;padding:0;list-style:none;display:grid;gap:8px;font-size:13px}
 .alert-side li{border-top:1px solid var(--line);padding-top:8px}
+.alert-side li a{display:block;color:inherit;text-decoration:none;border-radius:8px;margin:-4px -6px;padding:4px 6px}
+.alert-side li a:hover,.alert-side li a:focus-visible{background:var(--bg)}
+.alert-side li a b{color:var(--accent-ink)}
+.alert-side li a span{color:var(--muted)}
+.alert-side li a.a-all{font-weight:700;color:var(--accent-ink)}
 .alert-msg{font-size:14px;min-height:1.2em}
 .chk-one{display:flex;align-items:center;gap:8px;font-size:14px}.chk-one input{accent-color:var(--accent);width:18px;height:18px}
 .alert-msg.ok{color:var(--green)}
@@ -1512,7 +1517,7 @@ function openJob(id,fromRoute){
   const elsewhere=JOBS.filter(x=>x.emp!==j.emp&&x.disc===j.disc&&x.country===j.country&&x.level===j.level).slice(0,5);
   const nearby=elsewhere.length?[]:JOBS.filter(x=>x.emp!==j.emp&&x.disc===j.disc&&x.region===j.region&&x.id!==id).slice(0,5);
   const rel=(h,l)=>l.length?`<div class="related"><h2>${h}</h2>${l.map(x=>`<a href="#job/${encodeURIComponent(x.id)}" data-rel="${esc(x.id)}">${logoHTML(x.emp,"sm")}<div>${esc(x.title)}<span>${esc(x.emp)} · ${esc(loc(x))}</span></div></a>`).join("")}</div>`:"";
-  const backLabel={jobs:"All jobs",employers:"Employers",tracker:"Saved jobs",insights:"Insights"}[listView]||"All jobs";
+  const backLabel={jobs:"All jobs",employers:"Employers",tracker:"Saved jobs",insights:"Insights",alerts:"Job alerts"}[listView]||"All jobs";
   $("#jp").innerHTML = `
     <nav class="jp-crumb" aria-label="Breadcrumb"><button class="btn sm" type="button" id="d-close">← ${esc(backLabel)}</button><span class="crumbs"><a href="#jobs">Jobs</a> › <a href="#jobs?disc=${encodeURIComponent(j.disc)}">${esc(j.disc)}</a>${j.country?` › <a href="#jobs?country=${encodeURIComponent(j.country)}&disc=${encodeURIComponent(j.disc)}">${esc(j.country)}</a>`:""}</span></nav>
     <div class="jp-grid">
@@ -1681,7 +1686,7 @@ const A = {db:null, uid:null};
 function alertPrefs(){ return {disc:[...document.querySelectorAll('#a-disc input:checked')].map(i=>i.value), region:$("#a-region").value, country:$("#a-country").value, level:$("#a-level").value, freq:"weekly", pro:$("#a-pro").checked}; }
 function alertMatches(p){ return JOBS.filter(j=>(!p.disc.length||p.disc.includes(j.disc))&&(!p.region||inRegion(j,p.region))&&(!p.country||j.country===p.country)&&(!p.level||j.level===p.level)); }
 function alertCountries(){ const r=$("#a-region").value, cur=$("#a-country").value; const cs=[...new Set(JOBS.map(j=>j.country).filter(Boolean))].filter(c=>!r||(r==="GCC"?GCC.has(c):regionOf(c)===r)).sort(); $("#a-country").innerHTML=`<option value="">All countries</option>`+cs.map(c=>`<option>${esc(c)}</option>`).join(""); $("#a-country").value=cs.includes(cur)?cur:""; }
-function alertPreview(){ const m=alertMatches(alertPrefs()).sort((a,b)=>(b.posted||"").localeCompare(a.posted||"")); $("#a-count").textContent=m.length.toLocaleString("en"); $("#a-sample").innerHTML=m.slice(0,4).map(j=>`<li><b>${esc(j.title)}</b><br>${esc(j.emp)} · ${esc(loc(j))}</li>`).join("")||`<li>No roles match yet. We'll email you when one does.</li>`; }
+function alertPreview(){ const m=alertMatches(alertPrefs()).sort((a,b)=>(b.posted||"").localeCompare(a.posted||"")); $("#a-count").textContent=m.length.toLocaleString("en"); const p=alertPrefs(), qs=new URLSearchParams(); ["region","country","level"].forEach(k=>{ if(p[k]) qs.set(k,p[k]); }); if(p.disc.length===1) qs.set("disc",p.disc[0]); const all=(m.length>4&&p.disc.length<=1)?`<li><a class="a-all" href="#jobs${qs.toString()?"?"+qs:""}">See all ${m.length.toLocaleString("en")} roles →</a></li>`:""; $("#a-sample").innerHTML=(m.slice(0,4).map(j=>`<li><a href="#job/${encodeURIComponent(j.id)}"><b>${esc(j.title)}</b><br><span>${esc(j.emp)} · ${esc(loc(j))}</span></a></li>`).join("")+all)||`<li>No roles match yet. We'll email you when one does.</li>`; }
 function alertFill(p){ p=p||{}; $("#a-disc").querySelectorAll("input").forEach(i=>i.checked=(p.disc||[]).includes(i.value)); $("#a-region").value=p.region||""; alertCountries(); $("#a-country").value=p.country||""; $("#a-level").value=p.level||""; if(p.email) $("#a-email").value=p.email; $("#a-pro").checked=!!p.pro; alertPreview(); }
 $("#a-disc").innerHTML = DISC.map(d=>`<label><input type="checkbox" value="${esc(d)}"> ${esc(d)}</label>`).join("");
 $("#a-region").innerHTML = `<option value="">All regions</option>`+REGIONS.filter(r=>JOBS.some(j=>j.region===r)).map(r=>`<option>${esc(r)}</option>`).join("");
@@ -1835,7 +1840,7 @@ function route(){
   const before=filterQuery(), hv=hashParts()[0]; if(hv==="jobs"&&filtersFromHash()){ validateF(); if($("#f-q")) $("#f-q").value=F.q; }
   const v=VIEWS.includes(hv)?hv:"jobs";
   if(wasOpen&&v===listView){ curView=v; if(v==="jobs") renderJobs(filterQuery()===before); if(v==="tracker") renderBoard(); VIEWS.forEach(x=>$("#v-"+x).hidden=x!==v); document.querySelectorAll("nav.tabs a").forEach(a=>{if(a.getAttribute("href")==="#"+v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")}); requestAnimationFrame(()=>window.scrollTo(0,listY)); return; } // back from a job: the list stays where it was
-  curView=v;
+  curView=v; listView=v;
   VIEWS.forEach(x=>$("#v-"+x).hidden=x!==v);
   document.querySelectorAll("nav.tabs a").forEach(a=>{if(a.getAttribute("href")==="#"+v)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")});
   window.scrollTo(0,0);
