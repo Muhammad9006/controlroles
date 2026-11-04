@@ -114,7 +114,7 @@ async function confirm(url, env) {
   s.status = "confirmed";
   s.confirmedAt = new Date().toISOString();
   await env.SUBS.put("s:" + email, JSON.stringify(s));
-  const when = s.prefs.freq === "daily" ? "tomorrow morning (Riyadh time)" : "within a week";
+  const when = s.prefs.freq === "daily" ? "tomorrow" : "within a week";
   return page("Your job alert is on", `<p><b>${esc(describe(s.prefs))}</b></p><p>Your first email with new matching roles arrives ${when}. Every email has an unsubscribe link.</p><p><a href="${SITE}/#jobs">Browse roles now →</a></p>`);
 }
 
