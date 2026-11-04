@@ -105,10 +105,15 @@ You get this {'daily' if p.get('freq') == 'daily' else 'weekly'} email because y
 def plan(subs, jobs, today, cap):
     """Decide who gets what. Returns (emails, updates, deferred)."""
     emails, updates, deferred = [], {}, 0
+    waiting = [s for s in subs if s.get("status") == "confirmed" and s.get("token") and not due(s, today)]
+    if waiting:
+        print(f"  {len(waiting)} subscriber(s) not due yet (daily: once a day; weekly: every 7 days)")
     confirmed = [s for s in subs if s.get("status") == "confirmed" and s.get("token") and due(s, today)]
     confirmed.sort(key=lambda s: ((s.get("prefs") or {}).get("freq") != "daily", s.get("last") or ""))  # daily first, longest wait first
-    for s in confirmed:
+    for n, s in enumerate(confirmed, 1):
         hits = new_for(s, jobs)
+        p = s.get("prefs") or {}
+        print(f"  subscriber {n}: {p.get('freq')} · {describe(p)} · last email {s.get('last')} · {len(hits)} new matching roles")
         if hits and len(emails) >= cap:
             deferred += 1
             continue                      # keeps its old "last", so it goes out on the next run

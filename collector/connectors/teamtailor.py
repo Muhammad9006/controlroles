@@ -7,18 +7,17 @@ from .. import http
 
 NS = {"tt": "https://teamtailor.com/locations"}
 
-def _get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read().decode("utf-8")
+def _get(url, fetch=None):
+    return fetch(url) if fetch and fetch is not http.get_json else http.get_text(url)  # live runs pass the JSON helper; RSS needs plain text
 
-def _items(emp):
-    root = ET.fromstring(_get(f"https://{emp['host']}/jobs.rss"))
+
+def _items(emp, fetch=None):
+    root = ET.fromstring(_get(f"https://{emp['host']}/jobs.rss", fetch))
     return root.iter("item")
 
 def collect(emp, fetch=None):
     out = []
-    for it in _items(emp):
+    for it in _items(emp, fetch):
         link = (it.findtext("link") or "").split("?")[0]
         m = re.search(r"/jobs/(\d+)", link)
         if not m:
