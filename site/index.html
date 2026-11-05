@@ -668,6 +668,9 @@ h1,h2,.hero h1,.jp-main h1,.plan .price,.sal-big,.kpi b,.wordmark{font-stretch:1
 .cookie{position:fixed;left:16px;right:16px;bottom:16px;z-index:60;max-width:560px;margin:0 auto;background:var(--bg);border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 30px rgba(11,29,34,.15);padding:14px 16px;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;font-size:14px}
 .cookie p{margin:0;flex:1 1 260px;color:var(--muted)}.cookie div{display:flex;gap:8px}
 @media (max-width:640px){body:has(#v-job:not([hidden])) .cookie{bottom:84px}}
+.apc{display:inline-flex;align-items:center;gap:5px;color:var(--accent-ink);font-weight:600}
+.apc-big{display:flex;align-items:center;gap:8px;margin:2px 0 0;font-size:14px;color:var(--accent-ink)}.apc-big svg{width:16px;height:16px;flex:none}
+.apc-none{color:var(--muted)}
 </style>
 
 <script>
@@ -1442,7 +1445,7 @@ function rowHTML(j){
     <div style="min-width:0">
       <h3><a class="j-open" href="#job/${encodeURIComponent(j.id)}" data-id="${esc(j.id)}">${esc(j.title)}</a></h3>
       <div class="meta"><b>${esc(j.emp)}</b>, ${esc(loc(j))}</div>
-      <div class="jmeta"><span class="disc-l"><i class="sw ${dcls(j.disc)}"></i>${esc(j.disc)}</span><span>${esc(j.level)}${j.years?`, ${esc(j.years)} yrs`:""}</span>${sal?`<span class="paytxt">${esc(sal)}${j.pay?"":` <sup title="Estimate, indicative only">est.</sup>`}</span>`:""}${isFeat(j)?'<span class="featm">Featured</span>':""}${eligTags(j)}</div>
+      <div class="jmeta"><span class="disc-l"><i class="sw ${dcls(j.disc)}"></i>${esc(j.disc)}</span><span>${esc(j.level)}${j.years?`, ${esc(j.years)} yrs`:""}</span>${j.ap?`<span class="apc" title="People who clicked Apply on ControlRoles">${APC_IC}${j.ap.toLocaleString("en")} applied</span>`:""}${sal?`<span class="paytxt">${esc(sal)}${j.pay?"":` <sup title="Estimate, indicative only">est.</sup>`}</span>`:""}${isFeat(j)?'<span class="featm">Featured</span>':""}${eligTags(j)}</div>
     </div>
     <div class="j-side">
       <span class="age">${isNew(j)?'<span class="newm">New</span>':""}${esc(ageText(j))}</span>
@@ -1544,6 +1547,7 @@ function closedJob(id){
     <div class="row" style="gap:8px;flex-wrap:wrap">${e&&n?`<a class="btn primary" href="#jobs?emp=${encodeURIComponent(e.n)}">See ${n} open ${n===1?"role":"roles"} at ${esc(e.n)}</a>`:""}<a class="btn" href="#jobs">Browse all jobs</a><a class="btn" href="#alerts">Get alerts for roles like this</a></div></div>`;
   VIEWS.forEach(x=>$("#v-"+x).hidden=true); $("#v-job").hidden=false; window.scrollTo(0,0); document.title="Role closed | ControlRoles";
 }
+const APC_IC='<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.8-3.6 3.4-5.5 6.5-5.5s5.7 1.9 6.5 5.5"/><path d="M16 11l2 2 4-4"/></svg>';
 const SHARE_IC='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>';
 function shareUrl(j){ const live=location.protocol==="https:"&&!/claude|anthropic|usercontent|localhost/.test(location.hostname); const slug=String(j.id).toLowerCase().replace(/[^a-z0-9-]+/g,"-").replace(/^-+|-+$/g,""); return live?location.origin+location.pathname.replace(/index\.html$/,"").replace(/\/$/,"")+"/jobs/"+slug+".html":"https://controlroles.com/jobs/"+slug+".html"; }
 function shareText(j){ return `${j.title} at ${j.emp}${j.city||j.country?" – "+[j.city,j.country].filter(Boolean).join(", "):""}`; }
@@ -1583,6 +1587,7 @@ function openJob(id,fromRoute){
         <div class="jp-card">
           <div class="jp-emp">${logoHTML(j.emp)}<div><b>${esc(j.emp)}</b><small>${esc(j.type==="Developer"?"Developer (client)":j.type==="PMC"?"PMC / consultant":j.type)}</small></div></div>
           <a class="btn primary jp-apply" href="${esc(safeUrl(j.url))}" target="_blank" rel="noopener">Apply on ${esc(poss(j.emp))} site ↗</a>
+          ${j.ap?`<p class="apc-big">${APC_IC}<span><b>${j.ap.toLocaleString("en")} ${j.ap===1?"person has":"people have"}</b> applied via ControlRoles</span></p>`:`<p class="apc-big apc-none">${APC_IC}<span>Be one of the first to apply via ControlRoles</span></p>`}
           <div class="row" style="gap:8px"><button class="btn save" type="button" id="d-track" aria-pressed="${s}">${STAR}${s?"Saved":"Save"}</button><button class="btn" type="button" id="d-share" aria-expanded="false" aria-controls="d-sharebox">${SHARE_IC}Share</button></div>
           <div class="sharebox" id="d-sharebox" hidden>${shareLinks(j)}</div>
           <p class="linkchk"><span class="ok-dot"></span><span>Link checked ${esc(j.checked)}${reqHTML(j)?"":" · full requirements are on the posting"}</span></p>

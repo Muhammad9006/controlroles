@@ -21,6 +21,7 @@ jobs:
     timeout-minutes: 120
     permissions:
       contents: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
 
@@ -35,6 +36,21 @@ jobs:
 
       - name: Collect jobs from employer career sites
         run: python -m collector.run || echo "::warning::No employer could be read this run; publishing the last good data."
+
+      - id: google
+        name: Sign in to Google Analytics (read-only)
+        continue-on-error: true
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: projects/147126626136/locations/global/workloadIdentityPools/github/providers/controlroles-repo
+          service_account: controlroles-robot@controlroles-analytics.iam.gserviceaccount.com
+          token_format: access_token
+          access_token_scopes: https://www.googleapis.com/auth/analytics.readonly
+
+      - name: Count people who applied via ControlRoles
+        env:
+          GA_TOKEN: ${{ steps.google.outputs.access_token }}
+        run: python -m collector.applies || echo "::warning::Apply counts could not be updated this run."
 
       - name: Build a page for every job (for Google and sharing)
         run: python -m collector.pages

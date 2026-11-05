@@ -71,3 +71,12 @@ def test_morning_brief_builds():
     assert "Senior Planner · AECOM: 7 people · 9 clicks" in t and "From the job list" in h
     s2, _, _ = brief.build({}, JOBS, "2026-11-04")
     assert "0 visitors" in s2
+
+
+def test_apply_counts_merge():
+    from collector import applies
+    by = applies.merge_rows([("/job/a-1", 3), ("/job/a%2D1", 2), ("/jobs", 9), ("/job/a-3?x=1", 1)])
+    assert by == {"a-1": 5, "a-3": 1}
+    jobs = [dict(j) for j in JOBS] + [{"id": "a-9", "ap": 4}]
+    assert applies.apply_counts(jobs, by) == 2
+    assert jobs[0]["ap"] == 5 and "ap" not in jobs[-1]
