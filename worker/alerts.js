@@ -24,7 +24,7 @@ function cors(req) {
   const o = req.headers.get("Origin") || "";
   return {
     "Access-Control-Allow-Origin": ORIGINS.includes(o) ? o : SITE,
-    "Access-Control-Allow-Methods": "POST, OPTIONS",
+    "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type, Accept",
     "Vary": "Origin",
   };
@@ -131,12 +131,33 @@ async function unsubscribe(req, url, env) {
 <form method="post" action="${API}/unsubscribe?e=${encodeURIComponent(email)}&t=${esc(t)}"><button type="submit">Unsubscribe</button></form>`);
 }
 
+
+// ---- "applied via ControlRoles" counts: one per visitor per job, kept for 90 days ----
+async function applyClick(req, env) {
+  let b; try { b = await req.json(); } catch { return json(req, { ok: false }, 400); }
+  const id = clip(b.id, 120), v = clip(b.v, 40);
+  if (!id || !/^[\w-]{8,40}$/.test(v)) return json(req, { ok: false }, 400);
+  const seen = "v:" + id + ":" + v;
+  const counts = (await env.SUBS.get("applycounts", "json")) || {};
+  if (await env.SUBS.get(seen)) return json(req, { ok: true, n: counts[id] || 0 });
+  counts[id] = (counts[id] || 0) + 1;
+  await env.SUBS.put(seen, "1", { expirationTtl: 90 * 86400 });
+  await env.SUBS.put("applycounts", JSON.stringify(counts));
+  return json(req, { ok: true, n: counts[id] });
+}
+async function applyCounts(req, env) {
+  const counts = (await env.SUBS.get("applycounts", "json", { cacheTtl: 60 })) || {};
+  return new Response(JSON.stringify(counts), { headers: { "Content-Type": "application/json", "Cache-Control": "public, max-age=60", ...cors(req) } });
+}
+
 export default {
   async fetch(req, env) {
     const url = new URL(req.url);
     try {
       if (req.method === "OPTIONS") return new Response(null, { status: 204, headers: cors(req) });
       if (url.pathname === "/subscribe" && req.method === "POST") return await subscribe(req, env);
+      if (url.pathname === "/apply" && req.method === "POST") return await applyClick(req, env);
+      if (url.pathname === "/applies" && req.method === "GET") return await applyCounts(req, env);
       if (url.pathname === "/confirm" && req.method === "GET") return await confirm(url, env);
       if (url.pathname === "/unsubscribe") return await unsubscribe(req, url, env);
       if (url.pathname === "/") return Response.redirect(SITE + "/#alerts", 302);

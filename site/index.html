@@ -671,6 +671,7 @@ h1,h2,.hero h1,.jp-main h1,.plan .price,.sal-big,.kpi b,.wordmark{font-stretch:1
 .apc{display:inline-flex;align-items:center;gap:5px;color:var(--accent-ink);font-weight:600}
 .apc-big{display:flex;align-items:center;gap:8px;margin:2px 0 0;font-size:14px;color:var(--accent-ink)}.apc-big svg{width:16px;height:16px;flex:none}
 .apc-none{color:var(--muted)}
+.apc-slot{display:contents}
 </style>
 
 <script>
@@ -1445,7 +1446,7 @@ function rowHTML(j){
     <div style="min-width:0">
       <h3><a class="j-open" href="#job/${encodeURIComponent(j.id)}" data-id="${esc(j.id)}">${esc(j.title)}</a></h3>
       <div class="meta"><b>${esc(j.emp)}</b>, ${esc(loc(j))}</div>
-      <div class="jmeta"><span class="disc-l"><i class="sw ${dcls(j.disc)}"></i>${esc(j.disc)}</span><span>${esc(j.level)}${j.years?`, ${esc(j.years)} yrs`:""}</span>${j.ap?`<span class="apc" title="People who clicked Apply on ControlRoles">${APC_IC}${j.ap.toLocaleString("en")} applied</span>`:""}${sal?`<span class="paytxt">${esc(sal)}${j.pay?"":` <sup title="Estimate, indicative only">est.</sup>`}</span>`:""}${isFeat(j)?'<span class="featm">Featured</span>':""}${eligTags(j)}</div>
+      <div class="jmeta"><span class="disc-l"><i class="sw ${dcls(j.disc)}"></i>${esc(j.disc)}</span><span>${esc(j.level)}${j.years?`, ${esc(j.years)} yrs`:""}</span><span class="apc-slot" data-apc="${esc(j.id)}">${apcSmall(j.id)}</span>${sal?`<span class="paytxt">${esc(sal)}${j.pay?"":` <sup title="Estimate, indicative only">est.</sup>`}</span>`:""}${isFeat(j)?'<span class="featm">Featured</span>':""}${eligTags(j)}</div>
     </div>
     <div class="j-side">
       <span class="age">${isNew(j)?'<span class="newm">New</span>':""}${esc(ageText(j))}</span>
@@ -1548,6 +1549,16 @@ function closedJob(id){
   VIEWS.forEach(x=>$("#v-"+x).hidden=true); $("#v-job").hidden=false; window.scrollTo(0,0); document.title="Role closed | ControlRoles";
 }
 const APC_IC='<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.8-3.6 3.4-5.5 6.5-5.5s5.7 1.9 6.5 5.5"/><path d="M16 11l2 2 4-4"/></svg>';
+const LIVE_AP={};
+function apN(id){ const j=JOBS.find(x=>x.id===id)||{}; return Math.max(j.ap||0, LIVE_AP[id]||0); }
+function apcSmall(id){ const n=apN(id); return n?`<span class="apc" title="People who clicked Apply on ControlRoles">${APC_IC}${n.toLocaleString("en")} applied</span>`:""; }
+function apcBig(id){ const n=apN(id); return n?`<p class="apc-big">${APC_IC}<span><b>${n.toLocaleString("en")} ${n===1?"person has":"people have"}</b> applied via ControlRoles</span></p>`:`<p class="apc-big apc-none">${APC_IC}<span>Be one of the first to apply via ControlRoles</span></p>`; }
+function paintApplies(){ document.querySelectorAll("[data-apc]").forEach(el=>el.innerHTML=apcSmall(el.dataset.apc)); document.querySelectorAll("[data-apcbig]").forEach(el=>el.innerHTML=apcBig(el.dataset.apcbig)); }
+const AP_API="https://api.controlroles.com";
+function visitorId(){ let v=""; try{ v=localStorage.getItem("cr-vid")||""; if(!v){ v=(crypto.randomUUID?crypto.randomUUID():String(Math.random()).slice(2)+Date.now()).replace(/-/g,"").slice(0,24); localStorage.setItem("cr-vid",v); } }catch(e){ v=v||String(Date.now())+String(Math.random()).slice(2,10); } return v; }
+if(location.protocol==="https:"){ fetch(AP_API+"/applies").then(r=>r.ok?r.json():{}).then(c=>{ Object.assign(LIVE_AP,c||{}); paintApplies(); }).catch(()=>{}); }
+document.addEventListener("click",e=>{ const a=e.target.closest("a.jp-apply, .jp-bar a.btn.primary"); if(!a) return; const m=location.hash.match(/^#job\/([^?]+)/); if(!m) return; let id=m[1]; try{ id=decodeURIComponent(id); }catch(err){}
+  const before=apN(id); fetch(AP_API+"/apply",{method:"POST",keepalive:true,headers:{"Content-Type":"text/plain"},body:JSON.stringify({id,v:visitorId()})}).then(r=>r.json()).then(r=>{ if(r&&r.n){ LIVE_AP[id]=Math.max(r.n,before); paintApplies(); } }).catch(()=>{}); }, true);
 const SHARE_IC='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>';
 function shareUrl(j){ const live=location.protocol==="https:"&&!/claude|anthropic|usercontent|localhost/.test(location.hostname); const slug=String(j.id).toLowerCase().replace(/[^a-z0-9-]+/g,"-").replace(/^-+|-+$/g,""); return live?location.origin+location.pathname.replace(/index\.html$/,"").replace(/\/$/,"")+"/jobs/"+slug+".html":"https://controlroles.com/jobs/"+slug+".html"; }
 function shareText(j){ return `${j.title} at ${j.emp}${j.city||j.country?" – "+[j.city,j.country].filter(Boolean).join(", "):""}`; }
@@ -1587,7 +1598,7 @@ function openJob(id,fromRoute){
         <div class="jp-card">
           <div class="jp-emp">${logoHTML(j.emp)}<div><b>${esc(j.emp)}</b><small>${esc(j.type==="Developer"?"Developer (client)":j.type==="PMC"?"PMC / consultant":j.type)}</small></div></div>
           <a class="btn primary jp-apply" href="${esc(safeUrl(j.url))}" target="_blank" rel="noopener">Apply on ${esc(poss(j.emp))} site ↗</a>
-          ${j.ap?`<p class="apc-big">${APC_IC}<span><b>${j.ap.toLocaleString("en")} ${j.ap===1?"person has":"people have"}</b> applied via ControlRoles</span></p>`:`<p class="apc-big apc-none">${APC_IC}<span>Be one of the first to apply via ControlRoles</span></p>`}
+          <div class="apc-bigslot" data-apcbig="${esc(j.id)}">${apcBig(j.id)}</div>
           <div class="row" style="gap:8px"><button class="btn save" type="button" id="d-track" aria-pressed="${s}">${STAR}${s?"Saved":"Save"}</button><button class="btn" type="button" id="d-share" aria-expanded="false" aria-controls="d-sharebox">${SHARE_IC}Share</button></div>
           <div class="sharebox" id="d-sharebox" hidden>${shareLinks(j)}</div>
           <p class="linkchk"><span class="ok-dot"></span><span>Link checked ${esc(j.checked)}${reqHTML(j)?"":" · full requirements are on the posting"}</span></p>
