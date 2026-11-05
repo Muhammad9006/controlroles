@@ -1199,7 +1199,7 @@ const TODAY_ISO = new Date().toISOString().slice(0,10);
 /* undated jobs found on the first import have no real listing date; later ones do */
 const FIRST_IMPORT = JOBS.reduce((m,j)=>!j.posted&&j.firstSeen&&(!m||j.firstSeen<m)?j.firstSeen:m,"");
 const isFeat = j => !!j.featured && (!j.featuredUntil || j.featuredUntil >= TODAY_ISO);
-const isNew = j => { const n=daysAgo(j.posted); return n!==null && n<=7; };
+const isNew = j => { const n=daysAgo(j.posted); return n!==null && n<=3; };  // "New": posted today or in the last 3 days
 const dcls = d => "d-"+String(d||"").replace(/[^A-Za-z]+/g,"-");
 /* who can apply, sector, software, pay (read from the posting; nothing guessed) */
 const NAT = {"Saudi Arabia":"Saudi","UAE":"Emirati","Qatar":"Qatari","Oman":"Omani","Kuwait":"Kuwaiti","Bahrain":"Bahraini"};
