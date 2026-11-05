@@ -54,6 +54,12 @@ def fetch(token):
                                "metrics": m("screenPageViews"), "orderBys": [{"metric": {"metricName": "screenPageViews"}, "desc": True}], "limit": 25})
     data["events"] = ga(token, {"dateRanges": days("yesterday", "yesterday"), "dimensions": d("eventName"), "metrics": m("eventCount"),
                                 "dimensionFilter": {"filter": {"fieldName": "eventName", "inListFilter": {"values": ["apply_click", "share", "alert_signup"]}}}})
+    data["applies"] = ga(token, {"dateRanges": days("yesterday", "yesterday"), "dimensions": d("pagePath"), "metrics": m("eventCount", "totalUsers"),
+                                 "dimensionFilter": {"filter": {"fieldName": "eventName", "stringFilter": {"value": "apply_click"}}},
+                                 "orderBys": [{"metric": {"metricName": "eventCount"}, "desc": True}], "limit": 15})
+    data["applies7"] = ga(token, {"dateRanges": days("7daysAgo", "yesterday"), "dimensions": d("pagePath"), "metrics": m("eventCount", "totalUsers"),
+                                  "dimensionFilter": {"filter": {"fieldName": "eventName", "stringFilter": {"value": "apply_click"}}},
+                                  "orderBys": [{"metric": {"metricName": "eventCount"}, "desc": True}], "limit": 10})
     return data
 
 
@@ -82,6 +88,14 @@ def build(data, jobs, day):
     titles = {"/job/" + j["id"]: f"{j['title']} · {j['emp']}" for j in jobs}
     ev = {r[0]: int(r[1]) for r in data.get("events", [])}
     jobs_views = [(titles.get(urllib.parse.unquote(path), path), int(v)) for path, v in data.get("pages", []) if path.startswith("/job/")][:8]
+    def applied(rows):
+        out = []
+        for path, clicks, people in rows:
+            name = titles.get(urllib.parse.unquote(path)) or ("From the job list" if path in ("/jobs", "/") else path)
+            out.append((name, f"{int(people)} people · {int(clicks)} clicks"))
+        return out
+    apply_rows = applied(data.get("applies", []))
+    apply_rows7 = applied(data.get("applies7", []))
     new_jobs = sum(1 for j in jobs if j.get("firstSeen") == day)
     channels = [(c, int(u)) for c, u, _s in data.get("channels", [])]
     sources = [(f"{s} / {m}", int(u)) for s, m, u in data.get("sources", [])]
@@ -140,6 +154,8 @@ def build(data, jobs, day):
 {table("Countries", countries)}
 {table("Devices", sorted(devices.items(), key=lambda x: -x[1]))}
 {table("Most-viewed jobs", jobs_views, "Views")}
+{table("Apply clicks per job (yesterday)", apply_rows, "Applied") or '<h3 style="font-size:15px;margin:22px 0 6px">Apply clicks per job (yesterday)</h3><p style="margin:0;color:#6B7F84">No Apply clicks yesterday.</p>'}
+{table("Apply clicks per job (last 7 days)", apply_rows7, "Applied")}
 {table("Actions", actions, "Count")}
 {table("Visitors per day (last 7 days)", [(dt.datetime.strptime(dd, "%Y%m%d").strftime("%a %d %b"), u) for dd, u in week])}
 <p style="color:#6B7F84;font-size:12px;border-top:1px solid #CFDCDF;padding-top:10px;margin-top:22px">
@@ -147,7 +163,8 @@ From Google Analytics (visitors who accepted analytics cookies; European visitor
 <a href="https://analytics.google.com/" style="color:#6B7F84">Open Google Analytics</a> · <a href="{SITE}" style="color:#6B7F84">controlroles.com</a></p></div>"""
     text = "\n".join([f"ControlRoles morning brief, {day}", ""] + [f"- {h}" for h in hi] + ["", "Channels:"] +
                      [f"  {a}: {b}" for a, b in channels] + ["Countries:"] + [f"  {a}: {b}" for a, b in countries] +
-                     ["Most-viewed jobs:"] + [f"  {a}: {b}" for a, b in jobs_views])
+                     ["Most-viewed jobs:"] + [f"  {a}: {b}" for a, b in jobs_views] +
+                     ["Apply clicks per job (yesterday):"] + [f"  {a}: {b}" for a, b in apply_rows])
     return subject, html_body, text
 
 

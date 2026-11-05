@@ -63,10 +63,11 @@ def test_morning_brief_builds():
             "channels": [["Organic Social", 60, 70], ["Direct", 40, 50]],
             "sources": [["linkedin.com", "referral", 55]], "countries": [["Saudi Arabia", 70], ["United Arab Emirates", 20]],
             "devices": [["mobile", 90], ["desktop", 30]], "pages": [["/jobs", 300], ["/job/a-1", 25]],
-            "events": [["apply_click", 14], ["share", 3]]}
+            "events": [["apply_click", 14], ["share", 3]], "applies": [["/job/a-1", 9, 7], ["/jobs", 5, 4]]}
     s, h, t = brief.build(data, JOBS, "2026-11-04")
     assert s.startswith("ControlRoles brief · 2026-11-04: 120 visitors (+50%")
     assert "Organic Social (50%)" in h and "Senior Planner · AECOM" in h and "14 Apply clicks" in h and "75% of visitors were on a phone" in h
     assert "Saudi Arabia: 70" in t
+    assert "Senior Planner · AECOM: 7 people · 9 clicks" in t and "From the job list" in h
     s2, _, _ = brief.build({}, JOBS, "2026-11-04")
     assert "0 visitors" in s2

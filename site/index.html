@@ -1914,9 +1914,10 @@ renderBoard();renderScore();route();setTimeout(showActiveTab,0);
     gtag("event","page_view",{page_title:document.title,page_location:location.origin+path+(location.hash.indexOf("?")>0?"?"+location.hash.split("?")[1]:""),page_path:path}); }
   window.addEventListener("hashchange",function(){ setTimeout(track,50); });
   setTimeout(track,300);
-  document.addEventListener("click",function(e){ var a=e.target.closest("a[href^='http']"); if(a&&/Apply on/.test(a.textContent)) gtag("event","apply_click",{employer:(a.textContent.replace(/^Apply on |\u2019s site.*$|'s site.*$/g,"")).trim(), link_url:a.href});
-    var s=e.target.closest("#d-sharebox .sh,[data-cshare],#d-share2"); if(s) gtag("event","share",{method:(s.textContent||"native").trim()||"native"}); }, true);
-  window.crTrack=function(name,params){ gtag("event",name,params||{}); };
+  document.addEventListener("click",function(e){ var a=e.target.closest("a[href^='http']"); if(a&&/Apply on/.test(a.textContent)) gtag("event","apply_click",{page_location:here(), job_id:(location.hash.match(/^#job\/([^?]+)/)||[])[1]||"", employer:(a.textContent.replace(/^Apply on |\u2019s site.*$|'s site.*$/g,"")).trim(), link_url:a.href});
+    var s=e.target.closest("#d-sharebox .sh,[data-cshare],#d-share2"); if(s) gtag("event","share",{page_location:here(), method:(s.textContent||"native").trim()||"native"}); }, true);
+  function here(){ return location.origin+"/"+(location.hash.replace(/^#/,"").split("?")[0]||"jobs"); }
+  window.crTrack=function(name,params){ gtag("event",name,Object.assign({page_location:here()},params||{})); };
 })();
 </script>
 </body>
