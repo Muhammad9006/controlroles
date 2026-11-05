@@ -39,6 +39,37 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "wsp-98877",
+   "title": "Principal Project Manager",
+   "emp": "WSP",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98877",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "jpiaau0asr4",
+   "deg": "B",
+   "rq": [
+    "They will provide a sole point of leadership on their projects and provide mentorship and guidance to junior members of the PMO where required",
+    "Working knowledge of the planning process including, but not limited to, Development Consent Orders, Compulsory Purchase Orders, Town and Country Planning Acts or the hybrid bill processes…",
+    "An appropriate degree qualification in a relevant discipline",
+    "Membership of a Professional Institution",
+    "APM Project Management Qualification (PMQ)"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "wsp-98850",
    "title": "Senior Professional, Project Management",
    "emp": "WSP",
@@ -94,15 +125,15 @@
    "yrs": 5,
    "yrsMax": 7,
    "deg": "B:civil,construction",
+   "skChecked": "2026-11-05",
    "rq": [
     "Having basic knowledge of key building components and construction methods in construction related to Civil works",
     "Good skills on MS excel and word and ability to learn and adapt to customized software",
     "Degree in Civil Engineering",
     "Experience- Minimum 5-7 years’ experience with building projects"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -123,15 +154,15 @@
    "yrs": 8,
    "yrsMax": 10,
    "deg": "B:civil,construction",
+   "skChecked": "2026-11-05",
    "rq": [
     "Apply working knowledge of construction technologies and methods in cost planning tasks",
     "Good skills on MS excel and word and ability to learn and adapt to customized software",
     "Degree in Civil Engineering",
     "Experience- Minimum 8-10 years’ experience with building projects"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -151,6 +182,10 @@
    "sk": "ch0gu9beo",
    "yrs": 15,
    "deg": "B:engineering",
+   "skChecked": "2026-11-05",
+   "sector": [
+    "water"
+   ],
    "rq": [
     "Bachelor's degree in engineering from an accredited university",
     "Minimum 15 years experience in large-scale infrastructure or city development projects",
@@ -158,8 +193,707 @@
     "Extensive Experience in the project management of water and wastewater works",
     "Knowledge of professional project management processes and procedures"
    ],
+   "fx": 1,
+   "fxChecked": "2026-11-05",
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159912784",
+   "title": "Project Manager – Sports Arena Construction",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Tampa",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159912784",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "chckhhjwh",
+   "yrs": 6,
+   "deg": "B",
+   "rq": [
+    "Founded in 1944 in Indianapolis, Indiana, AECOM Hunt has been building for over 80 years",
+    "From iconic stadiums and arenas, next-gen transportation hubs and sustainable healthcare and academic buildings, AECOM Hunt’s expertise, leadership and dedication are unparalleled",
+    "Bachelor’s degree with a minimum of 6 years of relevant experience, or an equivalent combination of education and professional experience",
+    "Ability to manage multiple project priorities while maintaining attention to detail and accountability",
+    "Experience with professional sports stadiums, arenas, entertainment venues, convention centers, or other large public assembly facilities preferred"
+   ],
    "sector": [
     "water"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159910631",
+   "title": "Senior Project Manager -Leeding Builders Group",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "New York",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159910631",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "ch8dkvdvk",
+   "yrs": 8,
+   "deg": "B:civil,construction,architecture",
+   "rq": [
+    "Bachelor’s degree in construction management, Civil Engineering, Architecture, or a related field + 8 years of relevant experience or demonstrated equivalency of experience and/or education",
+    "Knowledge of construction contracts, drawings, specifications, building codes, and industry practices",
+    "Qualified applicants who are offered a position must pass a pre-employment substance abuse test"
+   ],
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159904899",
+   "title": "Associate: Project Manager",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Cork",
+   "country": "Ireland",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159904899",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "sbe5jy0w",
+   "deg": "B:qs,construction,architecture",
+   "rq": [
+    "This is an excellent opportunity for an experienced project management professional with a track record of delivering complex capital projects, ideally within the public sector",
+    "As the successful candidate, you will have proven experience managing the delivery of complex construction projects and will possess the following qualifications, skills, and experience",
+    "Degree qualification in Construction Management, Engineering, Quantity Surveying, Architecture, or a related discipline",
+    "Professional membership of a recognised institution, such as Chartered Engineer, Chartered Surveyor, Chartered Builder, or equivalent",
+    "Significant experience in project management and the delivery of complex capital projects, preferably within a construction consultancy environment"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159902300",
+   "title": "Senior Infrastructure Project Manager - Aviation",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Dublin",
+   "country": "Ireland",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159902300",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "aviation"
+   ],
+   "sk": "8xqz4lc",
+   "yrs": 15,
+   "deg": "B",
+   "rq": [
+    "This role is primarily site-based, with attendance on site required four days per week and one day per week available for remote working",
+    "We are seeking a Senior Infrastructure Project Manager with 15+ years' experience delivering major commercial, building, and civil infrastructure projects across the full project lifecycle",
+    "Extensive experience working with the NEC Suite of Contracts in a client, contractor, or consultancy environment",
+    "As the successful candidate, you will bring the following qualifications and experience",
+    "Over 15 years of experience leading the delivery of major infrastructure and capital investment programmes, with particular expertise in large-scale civil engineering, drainage…"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159902574",
+   "title": "Senior Estimator (Estimator IV)",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Senior",
+   "city": "Houston",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159902574",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "18y68",
+   "yrs": 10,
+   "deg": "B",
+   "rq": [
+    "This position will provide technical knowledge, advancing AECOM's excellence in conveyance infrastructure, treatment…",
+    "Possesses a working knowledge of planning and scheduling",
+    "Initiates the preparation of an Estimate Plan (approach, techniques, level of effort, cost, schedule), Basis of Estimate and qualifications",
+    "BA/BS in Civil Engineering, Mechanical Engineering, Hydraulic Engineering, Environmental Engineering or related field + 6 years of related experience or demonstrated equivalency…",
+    "Proven ability to communicate complex technical concepts to clients, executive leadership, and multidisciplinary teams"
+   ],
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159900768",
+   "title": "Program Manager – DOE National Laboratory Capital Building Programs",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Philadelphia",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159900768",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "buildings"
+   ],
+   "sk": "14i8z11c",
+   "deg": "B",
+   "rq": [
+    "Our DOE clients expect us to bring the best people, ideas, technical expertise, and digital solutions to complex scientific and research facilities",
+    "AECOM's approach integrates engineering excellence, nuclear safety, operational continuity, and innovative project delivery to advance critical national research missions",
+    "The candidate may work within the cities listed in the posting but will be expected to travel to DOE facilities periodically…",
+    "Demonstrating working knowledge of DOE nuclear safety requirements, including NQA-1 quality assurance standards and Documented Safety Analysis (DSA) requirements",
+    "Establish and maintain qualified Key Personnel and designated alternates throughout the contract period"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159898490",
+   "title": "Program Manager – DOE National Laboratory Capital Building Programs",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Bloomfield",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159898490",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "buildings"
+   ],
+   "sk": "14i8z11c",
+   "deg": "B",
+   "rq": [
+    "Our DOE clients expect us to bring the best people, ideas, technical expertise, and digital solutions to complex scientific and research facilities",
+    "AECOM's approach integrates engineering excellence, nuclear safety, operational continuity, and innovative project delivery to advance critical national research missions",
+    "The candidate may work within the cities listed in the posting but will be expected to travel to DOE facilities periodically…",
+    "Demonstrating working knowledge of DOE nuclear safety requirements, including NQA-1 quality assurance standards and Documented Safety Analysis (DSA) requirements",
+    "Establish and maintain qualified Key Personnel and designated alternates throughout the contract period"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159899479",
+   "title": "Program Manager – DOE National Laboratory Capital Building Programs",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Boston",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159899479",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "buildings"
+   ],
+   "sk": "14i8z11c",
+   "deg": "B",
+   "rq": [
+    "Our DOE clients expect us to bring the best people, ideas, technical expertise, and digital solutions to complex scientific and research facilities",
+    "AECOM's approach integrates engineering excellence, nuclear safety, operational continuity, and innovative project delivery to advance critical national research missions",
+    "The candidate may work within the cities listed in the posting but will be expected to travel to DOE facilities periodically…",
+    "Demonstrating working knowledge of DOE nuclear safety requirements, including NQA-1 quality assurance standards and Documented Safety Analysis (DSA) requirements",
+    "Establish and maintain qualified Key Personnel and designated alternates throughout the contract period"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159898359",
+   "title": "Program Manager – DOE National Laboratory Capital Building Programs",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "New York",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159898359",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "buildings"
+   ],
+   "sk": "14i8z11c",
+   "deg": "B",
+   "rq": [
+    "Our DOE clients expect us to bring the best people, ideas, technical expertise, and digital solutions to complex scientific and research facilities",
+    "AECOM's approach integrates engineering excellence, nuclear safety, operational continuity, and innovative project delivery to advance critical national research missions",
+    "The candidate may work within the cities listed in the posting but will be expected to travel to DOE facilities periodically…",
+    "Demonstrating working knowledge of DOE nuclear safety requirements, including NQA-1 quality assurance standards and Documented Safety Analysis (DSA) requirements",
+    "Establish and maintain qualified Key Personnel and designated alternates throughout the contract period"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159887829",
+   "title": "Project Manager:Civil Infrastructure",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Dublin",
+   "country": "Ireland",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159887829",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "awhqy2o",
+   "yrs": 7,
+   "deg": "B",
+   "rq": [
+    "This role is primarily site-based, with attendance on site required four days per week and one day per week available for remote working",
+    "We are seeking a Project Manager:Civil Infrastructure with 7 + years' experience delivering major civil infrastructure projects across the full project lifecycle",
+    "Extensive experience working with the NEC Suite of Contracts in a client, contractor, or consultancy environment",
+    "A minimum of 7 years’ experience within the construction and infrastructure sector, including the successful delivery of aviation and/or other major projects of comparable scale…",
+    "Extensive experience in developing, documenting, and implementing construction project management frameworks, policies, procedures, and best-practice standards"
+   ],
+   "sector": [
+    "aviation",
+    "water"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159885892",
+   "title": "Infrastructure Project Manager - Aviation",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Dublin",
+   "country": "Ireland",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159885892",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "aviation"
+   ],
+   "sk": "b5dfcw0",
+   "yrs": 7,
+   "deg": "B",
+   "rq": [
+    "This role is primarily site-based, with attendance on site required four days per week and one day per week available for remote working",
+    "We are seeking an Infrastructure Project Manager with 7+ years' experience delivering commercial, building, and civil infrastructure projects across the full project lifecycle",
+    "Experience working with the NEC Suite of Contracts in a client, contractor, or subcontractor role",
+    "As the successful candidate, you will bring the following qualifications and experience",
+    "Minimum of 7 years’ experience within the construction and infrastructure sector, including involvement in aviation and/or other comparable projects of similar scale and complexity"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159885549",
+   "title": "Project Planning & Scheduling Specialist",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Planning",
+   "level": "Mid",
+   "city": "Coral Gables",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159885549",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "oxz6zowzl",
+   "deg": "B:civil,construction",
+   "rq": [
+    "Expert ability to develop CPM schedule logic for engineering, procurement and construction as well as command of cornerstone scheduling system",
+    "Familiar with construction contracting and the scheduling implications of contract terms",
+    "Knowledgeable of scope control and change management and has demonstrated ability to incorporate directed changes into schedule baseline",
+    "Familiar with basic cost analysis and forecasting as it relates to planning and scheduling",
+    "Master's in Civil Engineering, Construction Management or similar"
+   ],
+   "sector": [
+    "rail",
+    "water"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159858250",
+   "title": "Senior Resident Quantity Surveyor",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Senior",
+   "city": "Jeddah",
+   "country": "Saudi Arabia",
+   "region": "GCC",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159858250",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "co028scu8",
+   "yrs": 15,
+   "deg": "B:civil,mechanical,electrical",
+   "rq": [
+    "A highly experienced professional with 15+ years of relevant experience in quantity surveying, cost management, commercial management, estimation, tendering, or construction…",
+    "The ideal candidate should have an engineering degree and a background in cost planning, cost control, contract administration, tender preparation, and commercial operations",
+    "Professional accreditation such as MRICS or RICS is preferred for relevant positions",
+    "Handle complex commercial and cost-related problems and provide recommendations based on professional expertise",
+    "Bachelor's degree in Civil Engineering, Mechanical Engineering, or Electrical Engineering"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159855731",
+   "title": "Data Center Senior Construction Manager",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Atlanta",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159855731",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "datacentre"
+   ],
+   "sk": "ch8cypjb4",
+   "deg": "B:construction,architecture",
+   "rq": [
+    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
+    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159855510",
+   "title": "Data Center Senior Construction Manager",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Bloomfield",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159855510",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "datacentre"
+   ],
+   "sk": "ch8cypjb4",
+   "deg": "B:construction,architecture",
+   "rq": [
+    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
+    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159853420",
+   "title": "Data Center Senior Construction Manager",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Cleveland",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159853420",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "datacentre"
+   ],
+   "sk": "ch8cypjb4",
+   "deg": "B:construction,architecture",
+   "rq": [
+    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
+    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159855389",
+   "title": "Data Center Senior Construction Manager",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "New York",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159855389",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "datacentre"
+   ],
+   "sk": "ch8cypjb4",
+   "deg": "B:construction,architecture",
+   "rq": [
+    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
+    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159855229",
+   "title": "Data Center Senior Construction Manager",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Buffalo",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159855229",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "datacentre"
+   ],
+   "sk": "ch8cypjb4",
+   "deg": "B:construction,architecture",
+   "rq": [
+    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
+    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "aecom-744000159850019",
+   "title": "Project Quantity Surveyor-Buildings",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Mid",
+   "city": "Dublin",
+   "country": "Ireland",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000159850019",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "buildings"
+   ],
+   "sk": "zjkadzwg",
+   "deg": "B:qs",
+   "rq": [
+    "As the successful candidate, you will have experience working across a range of sectors and will possess the following qualifications, skills, and experience",
+    "Degree qualified in Quantity Surveying or a related discipline",
+    "Membership of, or working towards membership of, the Royal Institution of Chartered Surveyors (RICS) or an equivalent professional body",
+    "Experience in measurement and quantification, including the use of CostX software",
+    "Experience in the preparation of Bills of Quantities and cost planning"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
    ],
    "skChecked": "2026-11-05",
    "fxChecked": "2026-11-05",
@@ -185,13 +919,7 @@
    ],
    "sk": "sa3y4b9c",
    "deg": "B",
-   "rq": [
-    "Our specialists provide analytical and strategic expertise for every stage of a project",
-    "Degree or equivalent in a relevant discipline",
-    "Chartered Engineer and/or Project Manager (or working towards accreditation)",
-    "Must be able to travel and visit sites if required",
-    "You will help us foster a safe and respectful workplace, where we invite everyone to bring their whole selves to work using their unique talents…"
-   ],
+   "skChecked": "2026-11-05",
    "elig": [
     "chartered"
    ],
@@ -199,9 +927,15 @@
     "hybrid",
     "training"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
+   "rq": [
+    "Our specialists provide analytical and strategic expertise for every stage of a project",
+    "Degree or equivalent in a relevant discipline",
+    "Chartered Engineer and/or Project Manager (or working towards accreditation)",
+    "Must be able to travel and visit sites if required",
+    "You will help us foster a safe and respectful workplace, where we invite everyone to bring their whole selves to work using their unique talents…"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -223,13 +957,7 @@
    ],
    "sk": "sa3y4b9c",
    "deg": "B",
-   "rq": [
-    "Our specialists provide analytical and strategic expertise for every stage of a project",
-    "Degree or equivalent in a relevant discipline",
-    "Chartered Engineer and/or Project Manager (or working towards accreditation)",
-    "Must be able to travel and visit sites if required",
-    "You will help us foster a safe and respectful workplace, where we invite everyone to bring their whole selves to work using their unique talents…"
-   ],
+   "skChecked": "2026-11-05",
    "elig": [
     "chartered"
    ],
@@ -237,9 +965,15 @@
     "hybrid",
     "training"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
+   "rq": [
+    "Our specialists provide analytical and strategic expertise for every stage of a project",
+    "Degree or equivalent in a relevant discipline",
+    "Chartered Engineer and/or Project Manager (or working towards accreditation)",
+    "Must be able to travel and visit sites if required",
+    "You will help us foster a safe and respectful workplace, where we invite everyone to bring their whole selves to work using their unique talents…"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -262,13 +996,7 @@
    "sk": "5w0sck8em8",
    "yrs": 10,
    "deg": "B:civil",
-   "rq": [
-    "A degree in Civil Engineering or another relevant engineering discipline",
-    "Significant experience, ideally at least 10 years, in project management",
-    "Professional fluency in English and Spanish",
-    "Strong knowledge of project controls, risk, change and commercial management",
-    "The ability to lead multidisciplinary teams and manage complex interfaces"
-   ],
+   "skChecked": "2026-11-05",
    "ben": [
     "medical",
     "pension",
@@ -276,9 +1004,15 @@
     "training",
     "shares"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
+   "rq": [
+    "A degree in Civil Engineering or another relevant engineering discipline",
+    "Significant experience, ideally at least 10 years, in project management",
+    "Professional fluency in English and Spanish",
+    "Strong knowledge of project controls, risk, change and commercial management",
+    "The ability to lead multidisciplinary teams and manage complex interfaces"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -301,13 +1035,7 @@
    "sk": "5w0sck8em8",
    "yrs": 10,
    "deg": "B:civil",
-   "rq": [
-    "A degree in Civil Engineering or another relevant engineering discipline",
-    "Significant experience, ideally at least 10 years, in project management",
-    "Professional fluency in English and Spanish",
-    "Strong knowledge of project controls, risk, change and commercial management",
-    "The ability to lead multidisciplinary teams and manage complex interfaces"
-   ],
+   "skChecked": "2026-11-05",
    "ben": [
     "medical",
     "pension",
@@ -315,9 +1043,15 @@
     "training",
     "shares"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
+   "rq": [
+    "A degree in Civil Engineering or another relevant engineering discipline",
+    "Significant experience, ideally at least 10 years, in project management",
+    "Professional fluency in English and Spanish",
+    "Strong knowledge of project controls, risk, change and commercial management",
+    "The ability to lead multidisciplinary teams and manage complex interfaces"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -362,8 +1096,222 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "turner-and-townsend-744000159826222",
-   "title": "Senior Contract Manager - Data Centre Program",
+   "id": "kbr-r2131601",
+   "title": "Construction Manager (Civil, Infrastructure, Mixed use)",
+   "emp": "KBR",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Abu Dhabi",
+   "country": "UAE",
+   "region": "GCC",
+   "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Construction-Manager_R2131601",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "buildings"
+   ],
+   "sk": "jwptmt05c",
+   "yrs": 12,
+   "deg": "B:civil,construction,architecture",
+   "rq": [
+    "These include world-class licensed process technologies, differentiated advisory services, deep technical domain expertise, energy transition solutions…",
+    "Bachelor's degree in Construction Management, Civil Engineering, Architecture or a related discipline",
+    "Professional membership or certification such as PMI-PMP, Chartered Construction Manager (MCIOB), Professional Engineer, Member of the Institution of Civil Engineers…",
+    "Minimum 12 years of relevant professional experience, including substantial site-based construction management experience on major civil, infrastructure or mixed-use development projects",
+    "At least 3 years in a Construction Manager position with responsibility for contractor oversight and multidisciplinary interfaces"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159926909",
+   "title": "Cost Manager - Health, Science & Education",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159926909",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "7p8jud4w",
+   "deg": "B",
+   "rq": [
+    "Knowledge of, and experience within, the healthcare and/or education sectors",
+    "Experience administering JCT and NEC contracts",
+    "Knowledge of the risks, challenges and opportunities facing public-sector healthcare organisations",
+    "Experience managing procurement activities, including pre-qualification, tender enquiry, analysis, selection and contract preparation",
+    "Knowledge of contract administration, value engineering and lifecycle costing"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159923384",
+   "title": "Senior Cost Manager - Data Centre",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159923384",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "datacentre"
+   ],
+   "sk": "7p8l648w",
+   "deg": "B:qs",
+   "rq": [
+    "Degree qualified in Quantity Surveying",
+    "MRICS qualified or working towards",
+    "UK Cost Management experience within the Real Estate/Property sector",
+    "Excellent communication skills and client facing"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159925029",
+   "title": "Senior Cost Manager - Hi-Tech & Manufacturing",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159925029",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "industrial"
+   ],
+   "sk": "7hcgpwcg",
+   "deg": "B:qs",
+   "rq": [
+    "Our clients value our proactive approach, depth of expertise, integrity and the quality we deliver",
+    "Degree-qualified in Quantity Surveying",
+    "MRICS qualified, or committed to working towards chartership",
+    "UK Cost Management experience within the Real Estate/Property sector, ideally residential",
+    "Ability to undertake and hold a suitable level of UK government security clearance for wider real estate projects"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159923678",
+   "title": "Cost Manager - Hi-Tech & Manufacturing",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159923678",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "industrial"
+   ],
+   "sk": "7hcr0q9s",
+   "deg": "B",
+   "rq": [
+    "Our clients value our proactive approach, depth of expertise, integrity and the quality we deliver",
+    "Ideally Degree qualified in one of the following fields: construction, cost management or Quantity surveying",
+    "MRICS Qualification preferred and/or relevant experience",
+    "Good knowledge of construction industry technical matters, such as different procurement routes, value management and value engineering",
+    "Experience of working in Education sector projects would be advantageous"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159910937",
+   "title": "Assistant Cost Manager - Urban Development Construction Projects",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Mid",
+   "city": "Mexico City",
+   "country": "Mexico",
+   "region": "Latin America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159910937",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "zitxgky8",
+   "deg": "B:qs,architecture",
+   "rq": [
+    "Degree-qualified or equivalent in Quantity Surveyor, Engineering, Architecture",
+    "Minimum 3 years of experience in similar roles",
+    "Ability to analyse and interpret commercial and technical project documentation",
+    "Ability to use a range of IT packages including Microsoft Office",
+    "Excellent communication skills, both oral & written"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159913059",
+   "title": "Senior Pre-Construction Contract Manager - Data Centre Program",
    "emp": "Turner & Townsend",
    "type": "PMC",
    "disc": "Contracts",
@@ -371,7 +1319,7 @@
    "city": "Paris",
    "country": "France",
    "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159826222",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159913059",
    "posted": "2026-11-05",
    "checked": "2026-11-05",
    "sector": [
@@ -396,6 +1344,267 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "turner-and-townsend-744000159912939",
+   "title": "Senior Cost Manager, Construction Projects",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "Mexico City",
+   "country": "Mexico",
+   "region": "Latin America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159912939",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "5wbqs2enm8",
+   "deg": "B:civil,qs,architecture",
+   "rq": [
+    "Managing the procurement process, implementing procurement, and contracting strategies and participate in negotiations ensuring that all stages including pre-qualification, enquiry…",
+    "Travel from the office to various site locations when or if required or be willing to be based on site",
+    "The Candidate is required to carry out all tasks and obligations in accordance with their professional level and to Turner & Townsend’s quality standards",
+    "8- 12 years professional experience related to Cost Management",
+    "Bachelor’s degree in Quantity Surveying, Civil Engineering, Architecture , or any degree relevant to the position"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159908449",
+   "title": "Cost Manager - Life Sciences Construction",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "Radnor",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159908449",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "coor8bh8g",
+   "yrs": 3,
+   "yrsMax": 5,
+   "deg": "B:qs,construction",
+   "rq": [
+    "Bachelor’s degree in construction management, cost management, quantity surveying, engineering or field related to construction",
+    "Minimum 3-5 years of relevant experience working in a cost management role in the construction industry",
+    "RICS accredited or working towards it is valuable",
+    "Good knowledge of construction industry technical matters, such as different procurement routes, value management, and value engineering"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159884174",
+   "title": "Senior Construction Project Manager- Ground-Up Projects",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Nashville",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159884174",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "chg9x4jdc",
+   "yrs": 5,
+   "yrsMax": 7,
+   "deg": "B:civil,construction,business",
+   "rq": [
+    "Production of formal project status reports and other reports as required",
+    "Bachelor’s degree in construction management, civil engineering, or applicable bachelor’s degree and or equivalent experience",
+    "Minimum 5-7 years of relevant project management experience",
+    "The ability to work effectively and collaboratively with the broader team",
+    "Proficiency in Excel, Word, PowerPoint, Outlook, Procore, and construction project management tools"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159877591",
+   "title": "【Project Management】Electrical - Senior Professional",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Senior",
+   "city": "Hiroshima",
+   "country": "Japan",
+   "region": "Asia Pacific",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159877591",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "1omja4z",
+   "deg": "B",
+   "rq": [
+    "Prepare and manage project schedules using appropriate tools such as Microsoft Project, Primavera P6, or Excel, including baseline setting, critical path analysis, and progress tracking",
+    "Microsoft Project、Primavera P6、Excel などのツールを使用し、ベースライン設定、クリティカルパス分析、進捗管理を含むプロジェクトスケジュールを作成・管理する。"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159869040",
+   "title": "Senior Consultant, Infrastructure Cost & Commercial (Senior Estimator/QS)",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Senior",
+   "city": "Toronto",
+   "country": "Canada",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159869040",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "bffs5r0k",
+   "yrs": 8,
+   "yrsMax": 10,
+   "deg": "B",
+   "rq": [
+    "With 8-10+ years of postgraduate experience, you have developed a reputation for delivering high-quality cost estimates on major capital infrastructure projects and are comfortable…",
+    "They require strategic thinking, commercial insight, stakeholder engagement, and the ability to influence decision-making",
+    "The ideal candidate combines technical excellence with consulting, communication, and relationship management skills",
+    "Minimum 8-10 years' professional experience in cost estimating/QS, including substantial experience within a consultancy, professional services, advisory…",
+    "Proven ability to engage effectively with client stakeholders and communicate complex technical or commercial aspects of construction cost estimating clearly and confidently"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "pay": [
+    125000,
+    150000,
+    "USD",
+    "year"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "hybrid",
+    "training"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159869359",
+   "title": "Associate Director - Cost Manager / Quantity Surveyor - Data Center Construction",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Director",
+   "city": "St Louis",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159869359",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "datacentre"
+   ],
+   "sk": "co11n9lhc",
+   "yrs": 8,
+   "deg": "B:qs,construction,business",
+   "rq": [
+    "The ideal candidate is a confident, client-facing professional with communication skills, a proactive mindset…",
+    "Display excellence in leadership and service delivery on commissions is in line with the conditions of appointment",
+    "Undertake internal BMS audits, and coordinate and represent the office for external audits undertaken by the external certification authority",
+    "Ability to work onsite 3x per week in the St",
+    "Bachelor’s degree in construction management, cost management, quantity surveying, engineering or field related to construction"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159868479",
+   "title": "Senior Cost Manager - Central & Local Government",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159868479",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "7hcgpwcg",
+   "deg": "B:qs",
+   "rq": [
+    "Our clients value our proactive approach, depth of expertise, integrity and the quality we deliver",
+    "Manage tendering and procurement activities, including pre-qualification, tender lists, tender documentation, tender analysis, and tender reporting",
+    "Degree-qualified in Quantity Surveying",
+    "MRICS qualified, or committed to working towards chartership",
+    "UK Cost Management experience within the Real Estate/Property sector, ideally residential"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "turner-and-townsend-744000159848204",
+   "title": "Junior Cost Manager (m/w/d) Hochbauprojekte",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Mid",
+   "city": "Frankfurt am Main",
+   "country": "Germany",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159848204",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "4zsoy",
+   "deg": "B",
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "turner-and-townsend-744000159824559",
    "title": "Assistant Project Management - UAE National",
    "emp": "Turner & Townsend",
@@ -413,6 +1622,7 @@
    ],
    "sk": "ch0ii6vps",
    "deg": "B:civil,mechanical,electrical",
+   "skChecked": "2026-11-05",
    "rq": [
     "This position offers an excellent opportunity to develop your project management expertise while contributing to the success of our organization",
     "Bachelor's degree in Engineering",
@@ -420,9 +1630,8 @@
     "Proficiency with Microsoft Office Suite (Excel, Word, PowerPoint)",
     "Demonstrated ability to manage multiple tasks and priorities simultaneously"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -441,13 +1650,7 @@
    "checked": "2026-11-05",
    "sk": "jpia9rf5wr0",
    "deg": "B",
-   "rq": [
-    "Familiarity with web-based database/reporting tools",
-    "It is essential that you have experience in a risk delivery role on major projects/programmes or blue-chip clients",
-    "Project experience within energy, renewables, defence, rail and utilities will be an advantage",
-    "Attainment or working towards IRM / APM risk certified candidates preferred",
-    "Candidates are expected to have excellent communication skills (oral and written) and be genuinely committed to developing new and more effective ways of working"
-   ],
+   "skChecked": "2026-11-05",
    "sector": [
     "rail",
     "energy"
@@ -455,9 +1658,15 @@
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
+   "rq": [
+    "Familiarity with web-based database/reporting tools",
+    "It is essential that you have experience in a risk delivery role on major projects/programmes or blue-chip clients",
+    "Project experience within energy, renewables, defence, rail and utilities will be an advantage",
+    "Attainment or working towards IRM / APM risk certified candidates preferred",
+    "Candidates are expected to have excellent communication skills (oral and written) and be genuinely committed to developing new and more effective ways of working"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -476,12 +1685,12 @@
    "checked": "2026-11-05",
    "sk": "2rrvtmnqio",
    "deg": "B",
+   "skChecked": "2026-11-05",
    "rq": [
     "Nos domaines d’expertise couvrent"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -501,8 +1710,8 @@
    "sk": "b33k9m7kzm",
    "deg": "B",
    "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -522,8 +1731,8 @@
    "sk": "b33k9m7kzm",
    "deg": "B",
    "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -543,8 +1752,8 @@
    "sk": "b33k9m7kzm",
    "deg": "B",
    "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -564,8 +1773,8 @@
    "sk": "b33k9m7kzm",
    "deg": "B",
    "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -585,8 +1794,8 @@
    "sk": "b33k9m7kzm",
    "deg": "B",
    "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -605,6 +1814,10 @@
    "checked": "2026-11-05",
    "sk": "8xg8uf8",
    "deg": "B",
+   "skChecked": "2026-11-05",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Tertiary qualification in Project Management, Construction Management, Engineering or a related discipline",
     "Proven ability to manage multiple projects simultaneously within a fast-paced environment",
@@ -612,12 +1825,8 @@
     "Ability to influence and negotiate with a broad range of stakeholders",
     "Ability to work collaboratively within national and state-based project teams"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -1047,6 +2256,17 @@
    "checked": "2026-11-05",
    "sk": "jpvcbvpowlc",
    "deg": "B:pm",
+   "skChecked": "2026-11-05",
+   "elig": [
+    "clearance"
+   ],
+   "sector": [
+    "energy"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
    "rq": [
     "Based in a vibrant waterfront city with excellent connections across the South Coast, Southampton offers an outstanding place to build a career",
     "This is an excellent opportunity for a motivated project management professional looking to further develop their career within a collaborative…",
@@ -1054,11 +2274,85 @@
     "Working towards or interested in achieving professional accreditation (APM, RICS, CIOB, or equivalent)",
     "Degree in Project Management, Construction, Engineering, Real Estate, or a related discipline"
    ],
+   "fx": 1,
+   "fxChecked": "2026-11-05",
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "atkinsrealis-r-171060",
+   "title": "MEP Project Manager (PMC) - Al Ain location",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "AE.Abu Dhabi.Site Office",
+   "country": "UAE",
+   "region": "GCC",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/AEAbu-DhabiSite-Office/MEP-Project-Manager--PMC----Al-Ain-location_R-171060",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "jpvl1xb2znk",
+   "yrs": 12,
+   "deg": "B:mechanical,electrical,pm",
+   "rq": [
+    "The individual must possess excellent stakeholder management skills, programme awareness, and the ability to engage confidently with clients, consultants, contractors…",
+    "Bachelor's Degree in Mechanical Engineering or Electrical Engineering from an accredited institution",
+    "Master's Degree in Project Management or Engineering Management is advantageous",
+    "Minimum 12 years of experience in MEP project delivery",
+    "Subsequent experience within a PMC, engineering consultancy or project management consultancy environment"
+   ],
    "elig": [
-    "clearance"
+    "chartered"
    ],
    "sector": [
+    "aviation",
     "energy"
+   ],
+   "ben": [
+    "housing",
+    "flights",
+    "medical",
+    "bonus",
+    "eosb",
+    "leave",
+    "life"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "atkinsrealis-r-170768",
+   "title": "Project Director",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Director",
+   "city": "GB.Epsom.Woodcote Grove",
+   "country": "",
+   "region": "Other",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBEpsomWoodcote-Grove/Project-Director_R-170768",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "s38x1d6o",
+   "deg": "B",
+   "rq": [
+    "The AtkinsRéalis UK Infrastructure Project Delivery Practice (PDP) is the centre of excellence for the delivery of infrastructure projects and the home unit for our project management staff",
+    "Chartered Engineer/Architect with experience of working on design commissions for large infrastructure projects with market sector experience in Water Infrastructure, Stations, Aviation…",
+    "Familiarity with Scope Definition papers, Project Execution Plans, Risk Registers, Change Control Logs and Client & Stakeholder Management plans",
+    "Experience of managing small and medium sized design projects to time, cost and quality objectives and familiar with programming and earned value techniques",
+    "Familiar with BIM and has an understanding of 3D modelling tools for design and coordination purposes and the associated Information attributes that can be assigned and managed…"
+   ],
+   "elig": [
+    "clearance",
+    "chartered"
+   ],
+   "sector": [
+    "aviation",
+    "water"
    ],
    "ben": [
     "hybrid",
@@ -1087,13 +2381,7 @@
    "yrs": 2,
    "yrsMax": 4,
    "deg": "D:construction,business",
-   "rq": [
-    "Daily inspection of premises for cleanliness and hygiene and take corrective actions as and when required",
-    "Ensuring the visitor enter required details in VMS",
-    "And required amenities should be provided to each employee as per the Atkins norms",
-    "Co-ordinate with vendor to procure required First aid item in stock",
-    "Bachelor’s degree in any discipline (preferred: Hospitality, Business Administration, or Office)"
-   ],
+   "skChecked": "2026-11-05",
    "sector": [
     "energy"
    ],
@@ -1101,9 +2389,15 @@
     "hybrid",
     "training"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
+   "rq": [
+    "Daily inspection of premises for cleanliness and hygiene and take corrective actions as and when required",
+    "Ensuring the visitor enter required details in VMS",
+    "And required amenities should be provided to each employee as per the Atkins norms",
+    "Co-ordinate with vendor to procure required First aid item in stock",
+    "Bachelor’s degree in any discipline (preferred: Hospitality, Business Administration, or Office)"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -1126,6 +2420,10 @@
    "sk": "dab3pm0ao",
    "yrs": 10,
    "deg": "B:mechanical,electrical,construction",
+   "skChecked": "2026-11-05",
+   "elig": [
+    "chartered"
+   ],
    "rq": [
     "Bachelor's degree in Mechanical, Electrical or Building Services Engineering",
     "10+ years managing MEP works on large-scale commercial, industrial or data centre projects",
@@ -1133,12 +2431,8 @@
     "Solid commercial awareness and familiarity with FIDIC or similar contract forms",
     "Excellent leadership, communication and problem-solving skills"
    ],
-   "elig": [
-    "chartered"
-   ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -1207,6 +2501,30 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "jll-req536790",
+   "title": "Strategic Occupancy Planner",
+   "emp": "JLL",
+   "type": "PMC",
+   "disc": "Planning",
+   "level": "Mid",
+   "city": "Gurugram",
+   "country": "India",
+   "region": "Asia Pacific",
+   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Strategic-Occupancy-Planner_REQ536790",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "eze2o",
+   "rq": [
+    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
+    "Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific…"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "jll-req517206",
    "title": "Senior Space Planner / Interior Design Director 시니어 공간 기획자 / 인테리어 디자인 디렉터 (부장 이상)",
    "emp": "JLL",
@@ -1222,12 +2540,49 @@
    "sk": "ch0gu9bf4",
    "yrs": 15,
    "deg": "B:architecture",
+   "skChecked": "2026-11-05",
    "rq": [
     "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "AutoCAD, MS Excel, Word 및 프레젠테이션 툴 활용 능력",
     "Design Leaders with 15+ years who are experienced in leading all aspects of the Design process from ideation to implementation guiding clients to innovative and successful outcomes",
     "Develop comprehensive space planning strategies with knowledge of space planning principles, ergonomics, and workplace strategy",
     "Knowledge of profit in design process, delivery and resource management"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-05",
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "jll-req546810",
+   "title": "Senior Project Manager, Construction",
+   "emp": "JLL",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Chicago",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Chicago-IL/Senior-Project-Manager--Construction_REQ546810",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "chw1dxmac",
+   "yrs": 7,
+   "deg": "B:construction,architecture",
+   "rq": [
+    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
+    "Bachelor's degree in a related field (Engineering, Architecture, Construction Management, etc.)",
+    "PMP certification or equivalent project management certification",
+    "Minimum of 7 years of experience in project management, preferably in the commercial real estate industry",
+    "Master's degree in a related field"
+   ],
+   "elig": [
+    "nosponsor"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave"
    ],
    "skChecked": "2026-11-05",
    "fxChecked": "2026-11-05",
@@ -1251,6 +2606,10 @@
    "sk": "co3zccf7k",
    "yrs": 5,
    "deg": "B:civil,mechanical,electrical",
+   "skChecked": "2026-11-05",
+   "elig": [
+    "chartered"
+   ],
    "rq": [
     "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "The successful candidates will be responsible for supporting managers in achieving service excellence and positive outcomes for our clients",
@@ -1258,8 +2617,32 @@
     "Demonstrate the ability to take ownership of small / medium sized projects or significant components of larger Cost Management assignments",
     "Be a team player but demonstrate the ability to take a leadership role as part of personal development planning"
    ],
-   "elig": [
-    "chartered"
+   "fx": 1,
+   "fxChecked": "2026-11-05",
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "jll-req539499",
+   "title": "Food & Beverage Program Manager",
+   "emp": "JLL",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Bengaluru",
+   "country": "India",
+   "region": "Asia Pacific",
+   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Bengaluru-KA/Food---Beverage-Program-Manager_REQ539499",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "4zsow",
+   "deg": "B",
+   "rq": [
+    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
+    "Bringing excellence to the table",
+    "Thus, your ability to provide high-quality catering services will be essential to succeed in this fast-paced yet exciting field",
+    "This position is a perfect opportunity for you to bring in your operational expertise, as you generate well thought out policies and strategies",
+    "Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific…"
    ],
    "skChecked": "2026-11-05",
    "fxChecked": "2026-11-05",
@@ -1283,6 +2666,11 @@
    "sk": "71jppp8g",
    "yrs": 8,
    "deg": "B:business",
+   "skChecked": "2026-11-05",
+   "ben": [
+    "hybrid",
+    "training"
+   ],
    "rq": [
     "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "The successful candidate will have experience in delivering projects to a variety of client groups, managing key client projects and providing advice / guidance to multi-disciplinary teams…",
@@ -1290,10 +2678,47 @@
     "Demonstrate the ability to take ownership of medium / large sized projects for Cost Management assignments",
     "The ideal candidate will have a technical and experience-based QS/CM background, with minimum experience of 8 years"
    ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
+   "fx": 1,
+   "fxChecked": "2026-11-05",
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "larsen-and-toubro-lnt_sce_1917244",
+   "title": "SUB CONTRACTS ENGINEER",
+   "emp": "Larsen & Toubro",
+   "type": "Contractor",
+   "disc": "Contracts",
+   "level": "Mid",
+   "city": "",
+   "country": "Saudi Arabia",
+   "region": "GCC",
+   "url": "https://larsentoubrocareers.peoplestrong.com/job/detail/LNT_SCE_1917244",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "yrs": 5,
+   "yrsMax": 7,
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "larsen-and-toubro-lnt_pcm_1903751",
+   "title": "Project Control Manager",
+   "emp": "Larsen & Toubro",
+   "type": "Contractor",
+   "disc": "Project Controls",
+   "level": "Manager",
+   "city": "Jabeli Ali",
+   "country": "UAE",
+   "region": "GCC",
+   "url": "https://larsentoubrocareers.peoplestrong.com/job/detail/LNT_PCM_1903751",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "yrs": 15,
+   "yrsMax": 20,
    "skChecked": "2026-11-05",
    "fxChecked": "2026-11-05",
    "fx": 1,
@@ -1316,6 +2741,11 @@
    "sk": "29pof7n",
    "yrs": 10,
    "deg": "B:mechanical,electrical",
+   "skChecked": "2026-11-05",
+   "sector": [
+    "datacentre",
+    "energy"
+   ],
    "rq": [
     "10+ years of project management experience, with at least 3 years specifically managing mechanical and electrical infrastructure projects in data center or similar critical infrastructure…",
     "Strong knowledge of mechanical systems (heating, ventilation, and air conditioning)",
@@ -1323,9 +2753,43 @@
     "A degree or background in mechanical or electrical engineering (or a related technical field), with professional certifications…",
     "Professional, expertise in"
    ],
-   "sector": [
-    "datacentre",
-    "energy"
+   "fx": 1,
+   "fxChecked": "2026-11-05",
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "cumming-group-jr103912",
+   "title": "Senior Project Manager",
+   "emp": "Cumming Group",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Redmond",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://cumminggroup.wd1.myworkdayjobs.com/en-US/CGC/job/Redmond-WA/Senior-Project-Manager_JR103912",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "vky17uo",
+   "yrs": 8,
+   "rq": [
+    "Knowledge & Skills Required",
+    "Ability to distinguish between cause and effect of problems",
+    "Experience: 8+ years of experience in Project Management, engineering, or construction management",
+    "Preferred Certification: CCM, PMP, PE, AIA, LEED",
+    "All such decisions are based on (1) individual merit, qualifications, and competence as they relate to the particular position…"
+   ],
+   "pay": [
+    138600,
+    194066,
+    "USD",
+    "year"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave"
    ],
    "skChecked": "2026-11-05",
    "fxChecked": "2026-11-05",
@@ -1349,6 +2813,7 @@
    "sk": "cgzhr0mbk",
    "yrs": 3,
    "deg": "B:engineering",
+   "skChecked": "2026-11-05",
    "rq": [
     "They receive instruction, guidance, and direction from others within the team, and they will leverage their conceptual knowledge of theories, practices…",
     "Escalate disputes and issues as required",
@@ -1356,9 +2821,8 @@
     "0-3 years of relevant experience with a bachelor's degree (or equivalent) in Engineering, Supply Chain Management (or a relevant discipline)",
     "4 years minimum relevant experience in absence of the bachelor's degree"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -1395,6 +2859,119 @@
    "fx": 1,
    "fxChecked": "2026-11-05",
    "fxV": 4,
+   "firstSeen": "2026-11-05",
+   "ap": 1
+  },
+  {
+   "id": "wood-33440",
+   "title": "Senior Project Manager",
+   "emp": "Wood",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Santiago",
+   "country": "Chile",
+   "region": "Latin America",
+   "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33440",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "jpustq72znk",
+   "yrs": 25,
+   "deg": "B:pm",
+   "rq": [
+    "From feasibility study to execution, Wood's Minerals & Metals business has helped design and deliver mining projects globally for over 60 years",
+    "University degree in relevant discipline",
+    "Project Management Professional (PMP), Associate in Project Management (APM) or equivalent certification is preferred",
+    "Typically requires 25 years of pertinent experience including minimum 15 years of mining project management experience, mastering their area and knowledgeable about impacts on other areas",
+    "Good level of experience in the related field, industry, and locations of the work"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "wood-33439",
+   "title": "Project Director -Mining and Minerals",
+   "emp": "Wood",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Director",
+   "city": "Santiago",
+   "country": "Chile",
+   "region": "Latin America",
+   "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33439",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sector": [
+    "industrial"
+   ],
+   "sk": "4xq1s2ub11c",
+   "yrs": 15,
+   "deg": "D:pm",
+   "rq": [
+    "They will possess proven leadership skills, and specific knowledge and experience with lithium, gold, copper and other precious metals",
+    "From feasibility study to execution, Wood's Minerals & Metals business has helped design and deliver mining projects globally for over 60 years",
+    "**ALL CV's in English is preferred",
+    "Ensure project requirements for permits, licenses and regulatory agency approvals are met and up to date",
+    "Undergraduate or Graduate Degree in Engineering from a recognized university"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "wood-33503",
+   "title": "Project Manager",
+   "emp": "Wood",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Abu Dhabi",
+   "country": "UAE",
+   "region": "GCC",
+   "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33503",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "gg69r94w0",
+   "yrs": 20,
+   "deg": "B:construction,pm,business",
+   "rq": [
+    "Bachelor’s degree in Engineering, Project Management, Construction Management, Business Administration, or a related discipline",
+    "Typically 20+ years of experience in project execution, with significant experience managing large-scale Oil & Gas, LNG, Petrochemical, Energy, Infrastructure, or Industrial projects",
+    "Strong knowledge of project management principles, contract administration, risk management, cost control, and scheduling",
+    "Excellent stakeholder management, negotiation, communication, and decision-making skills",
+    "Proficiency in project management tools and reporting systems"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "sector": [
+    "energy",
+    "oilgas"
+   ],
+   "ben": [
+    "medical",
+    "eosb",
+    "training",
+    "life",
+    "shares"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
    "firstSeen": "2026-11-05"
   },
   {
@@ -1413,13 +2990,7 @@
    "sk": "11g34pkem8",
    "yrs": 20,
    "deg": "B:construction,pm",
-   "rq": [
-    "Wood has a deep history pioneering technical expertise globally for more than 160 years, from the North Sea to the Gulf of Thailand",
-    "Building on more than four decades of engineering excellence in Thailand, we continue to support some of the world's most complex and technically demanding projects",
-    "Ideally you will be degree qualified in Engineering, Construction Management, Project Management or a related discipline with 20+ years of relevant industry experience…",
-    "Bachelor's degree in Engineering or similar technical field preferred",
-    "Professional certification such as: MBA, PMP, PE desired"
-   ],
+   "skChecked": "2026-11-05",
    "sector": [
     "datacentre",
     "oilgas"
@@ -1427,9 +2998,15 @@
    "ben": [
     "medical"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
+   "rq": [
+    "Wood has a deep history pioneering technical expertise globally for more than 160 years, from the North Sea to the Gulf of Thailand",
+    "Building on more than four decades of engineering excellence in Thailand, we continue to support some of the world's most complex and technically demanding projects",
+    "Ideally you will be degree qualified in Engineering, Construction Management, Project Management or a related discipline with 20+ years of relevant industry experience…",
+    "Bachelor's degree in Engineering or similar technical field preferred",
+    "Professional certification such as: MBA, PMP, PE desired"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -1448,6 +3025,7 @@
    "checked": "2026-11-05",
    "sk": "1qcydg46ww",
    "deg": "B",
+   "skChecked": "2026-11-05",
    "rq": [
     "You must hold legal working rights for Philippines and have a bachelor's degree in nursing",
     "Current and valid Philippine PRC Registered Nurse licence",
@@ -1455,9 +3033,8 @@
     "Knowledge of Philippine occupational health and workplace health regulations",
     "Excellent organisational and administrative capabilities"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -1616,6 +3193,39 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "parsons-r186924",
+   "title": "Project Director",
+   "emp": "Parsons",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Director",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/SA---Riyadh/Project-Director_R186924",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "1rdkf396v4",
+   "yrs": 20,
+   "deg": "B:construction,architecture,pm",
+   "rq": [
+    "Own the overall project scope, schedule, budget, cash flow, risk profile, quality objectives, and performance targets, taking timely corrective action when required",
+    "Bachelor's degree in Engineering, Construction Management, Architecture, Project Management, or a related discipline from a recognized institution",
+    "Over 20 years of progressive experience in the delivery of major infrastructure, buildings, mixed-use, or large-scale development projects…",
+    "Strong knowledge of project management principles covering scope, schedule, cost, risk, quality, procurement, contracts, construction, commissioning, and stakeholder management",
+    "Proficiency in project reporting and common digital collaboration, document management, scheduling, and project controls platforms"
+   ],
+   "elig": [
+    "clearance",
+    "chartered"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "parsons-r188232",
    "title": "Assistant Project Manager",
    "emp": "Parsons",
@@ -1660,6 +3270,36 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "parsons-r183001",
+   "title": "Reporting/Controls Manager",
+   "emp": "Parsons",
+   "type": "PMC",
+   "disc": "Project Controls",
+   "level": "Manager",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/SA---Riyadh/Project-Controls-Data-Analyst_R183001",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "cgzr1b4ez",
+   "yrs": 3,
+   "yrsMax": 7,
+   "deg": "B",
+   "rq": [
+    "Relocation to the project site may be required during construction and start-up activities",
+    "Design, develop, and maintain interactive dashboards and reporting solutions using Power BI",
+    "What Required Skills You'll Bring",
+    "Bachelor’s degree in information systems, Data Analytics, Computer Science, Statistics, or a related field",
+    "3–7 years of experience in project controls, data analytics, business intelligence, or a related discipline"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "parsons-r185851",
    "title": "Managing Quantity Surveyor / Contract Administrator",
    "emp": "Parsons",
@@ -1675,6 +3315,7 @@
    "sk": "1qd6ab2vpc",
    "yrs": 5,
    "deg": "B:qs",
+   "skChecked": "2026-11-05",
    "rq": [
     "The successful candidate will be expected to operate with a high degree of autonomy and coordinate multidisciplinary inputs through the procurement process",
     "Undertake detailed commercial evaluations and tender normalization, including review of qualifications, exclusions, assumptions, proposed amendments, provisional sums, rates…",
@@ -1682,9 +3323,8 @@
     "More than 5 years' demonstrable experience in Quantity Surveying, procurement, commercial management or contract administration within the engineering, construction or infrastructure sectors",
     "Demonstrable experience in the pre-contract procurement, including tender preparation, administration, commercial evaluation and recommendation for award"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -1734,6 +3374,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "parsons-r188202",
+   "title": "Quantity Surveyor- Marine & Infra Structure",
+   "emp": "Parsons",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Mid",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/AE---Abu-Dhabi/Quantity-Surveyor--Marine---Infra-Structure_R188202",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "1qk6towxz4",
+   "yrs": 7,
+   "deg": "B:civil,qs",
+   "rq": [
+    "Review contractor payment applications and support preparation of interim payment certificates",
+    "What Required Skills You'll Bring",
+    "Bachelor’s degree in Quantity Surveying or Civil Engineering or related discipline",
+    "Minimum 7 years experience in quantity surveying and contract administration, preferably on major infrastructure projects, including marine and roads",
+    "Strong knowledge of contractual/commercial processes, measurement, payment certification, variations and claims"
+   ],
+   "skChecked": "2026-11-05",
+   "fxChecked": "2026-11-05",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "parsons-r187405",
    "title": "Contracts Administration Manager",
    "emp": "Parsons",
@@ -1750,6 +3419,7 @@
    "yrs": 15,
    "yrsMax": 20,
    "deg": "B:engineering",
+   "skChecked": "2026-11-05",
    "rq": [
     "Prepares letters to client requesting approvals and interpretations required to comply with the provisions of the contract",
     "What Required Skills You'll Bring",
@@ -1757,9 +3427,8 @@
     "Minimum 15-20 years of experience is required",
     "Strong experience with FIDIC or similar forms of contract, including claims, variations, and dispute resolution"
    ],
-   "skChecked": "2026-11-05",
-   "fxChecked": "2026-11-05",
    "fx": 1,
+   "fxChecked": "2026-11-05",
    "fxV": 4,
    "firstSeen": "2026-11-05"
   },
@@ -1823,6 +3492,31 @@
     "Minimum of 10 years of relevant experience in designing and managing electrical systems for infrastructure fit-out projects",
     "In-depth knowledge of electrical engineering principles, codes, standards, and practices for infrastructure fit-out projects",
     "Proficiency in electrical design software and tools (e.g., AutoCAD, ETAP, SKM, Revit)"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-04",
+   "fxV": 4,
+   "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "jll-req493830",
+   "title": "Projektleiter / Projektmanagement (m/w/d)",
+   "emp": "JLL",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Zurich",
+   "country": "Switzerland",
+   "region": "Europe",
+   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Zurich-CHE/Projektmanager--m-w-d-_REQ493830",
+   "posted": "2026-11-05",
+   "checked": "2026-11-05",
+   "sk": "4zsow",
+   "deg": "B",
+   "skChecked": "2026-11-04",
+   "rq": [
+    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
+    "Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific…"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -2978,7 +4672,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "aecom-744000159554979",
@@ -3016,7 +4711,7 @@
    "fxChecked": "2026-11-04",
    "fxV": 4,
    "firstSeen": "2026-11-04",
-   "ap": 14
+   "ap": 22
   },
   {
    "id": "kbr-r2131484-1",
@@ -3115,7 +4810,7 @@
    "fxChecked": "2026-11-04",
    "fxV": 4,
    "firstSeen": "2026-11-04",
-   "ap": 7
+   "ap": 9
   },
   {
    "id": "kbr-r2131498",
@@ -4887,7 +6582,7 @@
    "fxChecked": "2026-11-04",
    "fxV": 4,
    "firstSeen": "2026-11-04",
-   "ap": 5
+   "ap": 6
   },
   {
    "id": "atkinsrealis-r-170698",
@@ -5537,7 +7232,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 2
   },
   {
    "id": "jll-req546341",
@@ -6052,31 +7748,6 @@
     "Bachelor's degree in engineering, environmental science, or a related field",
     "5+ years of experience in energy efficiency engineering",
     "Experience with energy audits, energy efficiency projects, and energy data analysis"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "jll-req493830",
-   "title": "Projektleiter / Projektmanagement (m/w/d)",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Zurich",
-   "country": "Switzerland",
-   "region": "Europe",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Zurich-CHE/Projektmanager--m-w-d-_REQ493830",
-   "posted": "2026-11-04",
-   "checked": "2026-11-05",
-   "sk": "4zsow",
-   "deg": "B",
-   "skChecked": "2026-11-04",
-   "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
-    "Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific…"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -7175,7 +8846,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "kbr-r2131541",
@@ -8391,43 +10063,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "turner-and-townsend-744000159450397",
-   "title": "Senior Cost Manager - Data Centre",
-   "emp": "Turner & Townsend",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Manager",
-   "city": "London",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159450397",
-   "posted": "2026-11-03",
-   "checked": "2026-11-05",
-   "sector": [
-    "datacentre"
-   ],
-   "sk": "7gcy5vcw",
-   "deg": "B:qs",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "Manage tendering, pre-qualification, tender list, preliminaries, analysis, and reports",
-    "Degree qualified in Quantity Surveying",
-    "MRICS qualified or working towards",
-    "UK Cost Management experience within the Real Estate/Property sector",
-    "Excellent communication skills and client facing"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
    "id": "turner-and-townsend-744000159448017",
    "title": "Senior Cost Manager - Commercial Developer",
    "emp": "Turner & Townsend",
@@ -8631,40 +10266,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "turner-and-townsend-744000159448112",
-   "title": "Senior Cost Manager - Central & Local Government",
-   "emp": "Turner & Townsend",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Manager",
-   "city": "London",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159448112",
-   "posted": "2026-11-03",
-   "checked": "2026-11-05",
-   "sk": "4xds1t9ro5c",
-   "deg": "D",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "Experience in Cost Management, Contract Management (JCT and NEC), Procurement, and Risk Management",
-    "Knowledge of cost planning, estimating, valuation, reporting, and change control processes",
-    "A collaborative approach with the ability to build effective working relationships",
-    "The ability to identify efficiencies and drive improvements throughout the project lifecycle",
-    "Degree or HNC level qualification"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
    "id": "turner-and-townsend-744000159442435",
    "title": "Cost Manager - Commercial Developer",
    "emp": "Turner & Townsend",
@@ -8726,40 +10327,6 @@
     "Experience of working with JCT and NEC contracts",
     "Demonstrable experience of interfacing with key stakeholders and being “client-facing” in the role of Senior Cost Manager",
     "The candidate will be required to demonstrate knowledge of the risks, challenges and opportunities facing public-sector healthcare bodies"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "turner-and-townsend-744000159442761",
-   "title": "Cost Manager - Health, Science & Education",
-   "emp": "Turner & Townsend",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Manager",
-   "city": "London",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159442761",
-   "posted": "2026-11-03",
-   "checked": "2026-11-05",
-   "sk": "7p8jud4w",
-   "deg": "B",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "Knowledge of, and experience within, the healthcare and/or education sectors",
-    "Experience administering JCT and NEC contracts",
-    "Knowledge of the risks, challenges and opportunities facing public-sector healthcare organisations",
-    "Experience managing procurement activities, including pre-qualification, tender enquiry, analysis, selection and contract preparation",
-    "Knowledge of contract administration, value engineering and lifecycle costing"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -9598,7 +11165,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "atkinsrealis-r-170743",
@@ -10588,7 +12156,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "larsen-and-toubro-lnt_fp_1900779",
@@ -10801,7 +12370,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Knowledge & Skills Required",
     "Strong ability to compile, analyze, interpret, and integrate complex project and development information",
     "Ability to delegate effectively, provide clear direction, and deliver ongoing feedback",
@@ -10842,7 +12410,6 @@
    ],
    "rq": [
     "The ideal candidate will bring construction estimating expertise, subcontractor and vendor knowledge, and the ability to identify cost risks and opportunities while ensuring estimates are…",
-    "Essential Duties & Responsibilities",
     "Organize the utilization of project control tools such as Company tools, Prolog, Expedition, and Primavera software",
     "Experience utilizing project controls tools such as Prolog, Expedition and Primavera software",
     "Proficient in Microsoft Office Suite, Expedition, Prologue, Microsoft Project"
@@ -10881,7 +12448,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Knowledge & Skills Required",
     "Demonstrated ability to monitor scope throughout the project and recommend adjustments when necessary",
     "Ability to prepare and communicate cost and revenue projections",
@@ -10921,7 +12487,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Knowledge & Skills Required",
     "Demonstrated ability to monitor scope throughout the project and recommend adjustments when necessary",
     "Ability to prepare and communicate cost and revenue projections",
@@ -11063,7 +12628,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "honeywell-160597",
@@ -14596,7 +16162,6 @@
     "hybrid"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Travel occasionally to client sites as required",
     "Knowledge & Skills Required",
     "Proficiency with Microsoft Office Suite, including Excel, Word, and PowerPoint",
@@ -14637,7 +16202,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Knowledge of public agency construction administration procedures and requirements",
     "Bachelor's degree in Construction Management, Engineering, Architecture, or a related field",
     "Minimum 7-10 years of construction management experience",
@@ -14825,7 +16389,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "wood-32808",
@@ -15046,48 +16611,6 @@
    ],
    "rq": [
     "A highly experienced professional with 10+ years of relevant experience in quantity surveying, cost management, commercial management, estimation, tendering, or construction…",
-    "The ideal candidate should have an engineering degree and a background in cost planning, cost control, contract administration, tender preparation, and commercial operations",
-    "Professional accreditation such as MRICS or RICS is preferred for relevant positions",
-    "Handle complex commercial and cost-related problems and provide recommendations based on professional expertise",
-    "Bachelor's degree in Civil Engineering, Mechanical Engineering, or Electrical Engineering"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "aecom-744000158968419",
-   "title": "Senior Resident Quantity Surveyor",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Senior",
-   "city": "Jeddah",
-   "country": "Saudi Arabia",
-   "region": "GCC",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000158968419",
-   "posted": "2026-11-01",
-   "checked": "2026-11-05",
-   "sk": "co028scu8",
-   "yrs": 15,
-   "deg": "B:civil,mechanical,electrical",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "chartered"
-   ],
-   "sector": [
-    "water"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "A highly experienced professional with 15+ years of relevant experience in quantity surveying, cost management, commercial management, estimation, tendering, or construction…",
     "The ideal candidate should have an engineering degree and a background in cost planning, cost control, contract administration, tender preparation, and commercial operations",
     "Professional accreditation such as MRICS or RICS is preferred for relevant positions",
     "Handle complex commercial and cost-related problems and provide recommendations based on professional expertise",
@@ -15422,7 +16945,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "turner-and-townsend-744000158896079",
@@ -16913,7 +18437,7 @@
    "fxChecked": "2026-11-04",
    "fxV": 4,
    "firstSeen": "2026-11-04",
-   "ap": 1
+   "ap": 2
   },
   {
    "id": "kbr-r2131486",
@@ -16945,7 +18469,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "kbr-r2131487",
@@ -17420,39 +18945,6 @@
     "A clear understanding of, and ability to work with, construction contract commercial documents, drawings and specifications",
     "Strong experience of delivering technically complex and high value projects",
     "Experience of working in a comparable consultancy environment, or with a client or contractor organisation"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "turner-and-townsend-744000158811319",
-   "title": "Senior Construction Project Manager- Ground-Up Projects",
-   "emp": "Turner & Townsend",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Nashville",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000158811319",
-   "posted": "2026-10-30",
-   "checked": "2026-11-05",
-   "sk": "chg9x4jdc",
-   "yrs": 5,
-   "yrsMax": 7,
-   "deg": "B:civil,construction,business",
-   "skChecked": "2026-11-04",
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "Production of formal project status reports and other reports as required",
-    "Bachelor’s degree in construction management, civil engineering, or applicable bachelor’s degree and or equivalent experience",
-    "Minimum 5-7 years of relevant project management experience",
-    "The ability to work effectively and collaboratively with the broader team",
-    "Proficiency in Excel, Word, PowerPoint, Outlook, Procore, and construction project management tools"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -19082,7 +20574,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Knowledge & Skills Required",
     "Strong ability to compile, analyze, interpret, and integrate complex project and development information",
     "Bachelor’s degree required in Construction Management, Engineering, Architecture, Real Estate, Urban Planning, or a related field",
@@ -21971,7 +23462,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "turner-and-townsend-744000158469021",
@@ -27199,7 +28691,8 @@
    "fx": 1,
    "fxChecked": "2026-11-04",
    "fxV": 4,
-   "firstSeen": "2026-11-04"
+   "firstSeen": "2026-11-04",
+   "ap": 1
   },
   {
    "id": "atkinsrealis-r-165950",
@@ -27893,51 +29386,6 @@
     "Ability to travel at least 10% of the time",
     "A valid driver's license is required, along with the ability to pass a Motor Vehicle Records (MVR) check in accordance with company policy",
     "Ability to successfully obtain a DBIDs pass to gain access to any required federal military installation site locations"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "turner-and-townsend-744000157570530",
-   "title": "Senior Consultant, Infrastructure Cost & Commercial (Senior Estimator/QS)",
-   "emp": "Turner & Townsend",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Senior",
-   "city": "Toronto",
-   "country": "Canada",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000157570530",
-   "posted": "2026-10-23",
-   "checked": "2026-11-05",
-   "sk": "bffs5r0k",
-   "yrs": 8,
-   "yrsMax": 10,
-   "deg": "B",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "chartered"
-   ],
-   "pay": [
-    125000,
-    150000,
-    "USD",
-    "year"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "With 8-10+ years of postgraduate experience, you have developed a reputation for delivering high-quality cost estimates on major capital infrastructure projects and are comfortable…",
-    "They require strategic thinking, commercial insight, stakeholder engagement, and the ability to influence decision-making",
-    "The ideal candidate combines technical excellence with consulting, communication, and relationship management skills",
-    "Minimum 8-10 years' professional experience in cost estimating/QS, including substantial experience within a consultancy, professional services, advisory…",
-    "Proven ability to engage effectively with client stakeholders and communicate complex technical or commercial aspects of construction cost estimating clearly and confidently"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -47062,46 +48510,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "jll-req539258",
-   "title": "Project Manager",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Charlotte-NC/Project-Manager_REQ539258",
-   "posted": "2026-10-12",
-   "checked": "2026-11-05",
-   "sk": "chv2ngy68",
-   "deg": "B:construction,architecture",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "nosponsor"
-   ],
-   "sector": [
-    "energy"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "hybrid"
-   ],
-   "rq": [
-    "Five or more years of relevant experience in project management, construction management, or real estate",
-    "Associate or bachelor’s degree from an accredited institution in Construction Management, Engineering, Architecture, Business, Accounting, or equivalent experience",
-    "Demonstrated ability to prepare, track, and manage comprehensive project budgets and financials",
-    "Strong organizational and analytical skills, with a proven ability to identify priorities and multi-task in a fast-paced environment",
-    "Proficiency in using project management technology tools and a willingness to continually develop technical skills"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
    "id": "jll-req541164",
    "title": "Program Controls Lead",
    "emp": "JLL",
@@ -48927,11 +50335,11 @@
   },
   {
    "id": "larsen-and-toubro-lnt_-m_1887216",
-   "title": "Construction Manager",
+   "title": "RCF Project Manager / Project Head / Construction Manager",
    "emp": "Larsen & Toubro",
    "type": "Contractor",
    "disc": "Project Management",
-   "level": "Manager",
+   "level": "Director",
    "city": "Chennai",
    "country": "India",
    "region": "Asia Pacific",
@@ -79844,54 +81252,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "parsons-r187837",
-   "title": "Program Director - TS/SCI",
-   "emp": "Parsons",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Director",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---Remote-Any-Location/Program-Director---TS-SCI_R187837",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "ch0h98phc",
-   "yrs": 20,
-   "deg": "B:business",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "clearance"
-   ],
-   "sector": [
-    "oilgas"
-   ],
-   "pay": [
-    157500,
-    283500,
-    "USD",
-    "year"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "life",
-    "shares"
-   ],
-   "rq": [
-    "Identify, qualify, and advance new business opportunities aligned with Parsons’ capabilities and corporate growth priorities",
-    "Identify and qualify local, regional, and international partners to support the development of compliant teaming, technical solutions and subcontracting strategies",
-    "Bachelor’s degree in business, engineering, international relations, government, defense studies, public policy…",
-    "Minimum of 10 years of experience in business development, capture management, program management, defense contracting, government services, technology, infrastructure or a related field",
-    "Minimum of 10 years of experience in the engineering, fielding, modernization and sustainment…"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
    "id": "parsons-r188035",
    "title": "Project Controls Manager",
    "emp": "Parsons",
@@ -82188,35 +83548,6 @@
     "Experience with Independent Cost Estimates, Rough Order of Magnitude estimates, parametric estimates, historical cost analysis, and market research",
     "Working knowledge of construction means and methods, pricing structures, productivity, subcontractor pricing, escalation, and general conditions",
     "Proficiency with Microsoft Office and the ability to prepare clear cost reports, technical narratives, spreadsheets, and presentations"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "parsons-r188204",
-   "title": "Associate Estimating Engineer",
-   "emp": "Parsons",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Mid",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/AE---Abu-Dhabi/Associate-Estimating-Engineer_R188204",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "13hfvfrn6eip",
-   "yrs": 3,
-   "deg": "B:civil",
-   "skChecked": "2026-11-04",
-   "rq": [
-    "What Required Skills You'll Bring",
-    "Bachelor's Degree in Engineering",
-    "Minimum 3 years of related work experience involving typical estimating activities in related infrastructure projects and pre-contracts experience is preferred",
-    "Ideally with experience in Abu Dhabi or UAE",
-    "Familiarity with typical project controls software such as Primavera scheduling software, Estimate/Schedule Transfer tools, Contract Manager, and DMCS (Document and Materials Control System)"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -86352,38 +87683,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "jll-req528992",
-   "title": "Workplace Events Planner",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Planning",
-   "level": "Mid",
-   "city": "Tokyo",
-   "country": "Japan",
-   "region": "Asia Pacific",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Tokyo-Japan/Workplace-Events-Planner_REQ528992",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "107j0g0",
-   "yrs": 4,
-   "deg": "B",
-   "skChecked": "2026-11-04",
-   "ben": [
-    "bonus"
-   ],
-   "rq": [
-    "Select and coordinate event spaces, arrange catering, coordinate vendors and manage logistics for office-based events as required",
-    "4+ years of experience in event planning, meeting coordination, workplace operations, hospitality, facilities, property management or a comparable customer-facing operations role",
-    "Proven ability to manage multiple projects, concurrent events, stakeholders and competing priorities with exceptional attention to detail",
-    "Excellent organizational, communication, process management and people-management skills across email, Slack, in-person interactions and stakeholder updates",
-    "Experience with Google Workspace, Jira and event or registration platforms, with the initiative to create printed and digital organizational tools for on-site events"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
    "id": "jll-req534479",
    "title": "Occupancy Planner",
    "emp": "JLL",
@@ -88535,7 +89834,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Knowledge & Skills Required",
     "Demonstrated ability to monitor scope throughout the project and recommend adjustments when necessary",
     "Ability to prepare and communicate cost and revenue projections",
@@ -88614,7 +89912,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Ability to run larger, more complex projects",
     "Knowledge & Skills Required",
     "Experience with Value Engineering",
@@ -88655,7 +89952,6 @@
    ],
    "rq": [
     "The ideal candidate brings experience delivering public works or capital improvement projects, a understanding of public contracting and procurement processes…",
-    "Essential Duties & Responsibilities",
     "Knowledge & Skills Required",
     "Ability to distinguish between cause and effect of problems",
     "Experience: 8+ years of experience in Project Management, engineering, or construction management"
@@ -88736,7 +90032,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Review Contractor P6 initial Baseline Construction Schedules and identify missing scope, logic or milestones",
     "Review multiple Contractor P6 Monthly schedule updates and provide written schedule review comments that document milestone schedule slippage, critical path activity slippage…",
     "Create various activity schedule filters, layouts, and bar-charts utilizing P6 Primavera Schedule Software to assist the project management team in analyzing critical path construction…",
@@ -88776,7 +90071,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Review multiple Contractor P6 Monthly schedule updates and provide written schedule review comments that document milestone schedule slippage, critical path activity slippage, and provide",
     "Provide and analyze Key Performance Indicators from P6 Primavera Schedules and Excel Earned Value Curves based on LAUSD structured templates",
     "Graduation from a recognized college or university with a bachelor’s degree in construction management, engineering, architecture or any related field",
@@ -88817,7 +90111,6 @@
    "rq": [
     "We are seeking a Senior Project Manager to support a local university client in Oakland, CA. This is an excellent opportunity for an experienced construction professional to lead complex…",
     "The ideal candidate brings leadership, client management, and project delivery experience, with the ability to drive projects forward in a collaborative and fast-paced campus setting",
-    "Essential Duties & Responsibilities",
     "Knowledge & Skills Required",
     "Ability to distinguish between cause and effect of problems"
    ],
@@ -88854,7 +90147,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Assist the scheduling team in creating and populating various schedule related reports in Excel and P6 software",
     "Perform QA/QC on P6 program schedules and validate logic ties to ensure conformance with scheduling guidelines for various project types",
     "Required Education and Experience",
@@ -88894,7 +90186,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Knowledge & Skills Required",
     "Ability to distinguish between cause and effect of problems",
     "Education: Bachelor's Degree in Construction Management, Engineering, QS, Architecture, or related field",
@@ -89054,7 +90345,6 @@
     "leave"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Evaluate changes and subcontractor change order estimates and provide expertise in all phases of construction work",
     "Knowledge & Skills Required",
     "Possess a working knowledge of the different roles and services Cumming provides and how the cost management team fits in the project",
@@ -91284,51 +92574,6 @@
     "Minimum of 20 years of experience in construction and design management, with a focus on luxury hospitality projects",
     "Thorough knowledge of program management, capabilities, and skills in engineering principles, and have a strategic mindset of industry best practices and regulations",
     "Excellent verbal and written communication skills and be able to effectively communicate with client, corporate, and their project managers on technical and non-technical subjects"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "parsons-r187342",
-   "title": "Senior Program Director, Transportation Engineering",
-   "emp": "Parsons",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Director",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---TX-Richardson/Senior-Program-Director--Transportation-Engineering_R187342",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "ch0hf67sw",
-   "yrs": 20,
-   "deg": "B:construction,business",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "clearance"
-   ],
-   "pay": [
-    157500,
-    283500,
-    "USD",
-    "year"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "life",
-    "shares"
-   ],
-   "rq": [
-    "Ability to communicate effectively, orally and in writing",
-    "Experience in preparing correspondence, written reports, presentations, for the Government and in briefing senior personnel",
-    "Ability to manage interdisciplinary teams of professionals",
-    "Experience and familiarity with TxDOT and Local Government infrastructure projects, and related procedural, review, and approval requirements",
-    "4-year degree in Engineering or related technical/business field and 20+ years of related work experience is required"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -95495,35 +96740,6 @@
    "firstSeen": "2026-11-02"
   },
   {
-   "id": "parsons-r187478",
-   "title": "Project Manager - MEP",
-   "emp": "Parsons",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/AE---Abu-Dhabi/Project-Manager---MEP_R187478",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "1qd1c60bgg",
-   "yrs": 15,
-   "deg": "B:mechanical",
-   "skChecked": "2026-11-04",
-   "rq": [
-    "Ensures that the services of subcontractors and major construction equipment required by the project will be available at the appropriate time to ensure maximum efficiency and productivity",
-    "Ensures the use of sound construction practices to attain required quality control at the maximum efficiency and minimum cost",
-    "Bachelor's degree from an accredited institution in mechanical engineering or a relevant field of engineering",
-    "Minimum 15 years of experience in large scale building construction projects",
-    "Requires extensive knowledge of construction related processes, as well as a thorough knowledge of industry practices"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
    "id": "parsons-r187957",
    "title": "Scheduler",
    "emp": "Parsons",
@@ -97905,41 +99121,6 @@
     "You will also demonstrate an ability to think and act strategically",
     "As a key member of the leadership team, you will be required…",
     "To succeed in this opportunity the skills and experience required are"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "kbr-r2126205",
-   "title": "Lead Contracts Engineer – Offshore Island Project",
-   "emp": "KBR",
-   "type": "PMC",
-   "disc": "Contracts",
-   "level": "Manager",
-   "city": "Abu Dhabi",
-   "country": "UAE",
-   "region": "GCC",
-   "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Lead-Contracts-Engineer---Offshore-Island-Project_R2126205",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sector": [
-    "oilgas"
-   ],
-   "sk": "11n3hhcyrk",
-   "yrs": 18,
-   "deg": "B:engineering",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "chartered"
-   ],
-   "rq": [
-    "Bachelor s Degree in Engineering is a MUST",
-    "Master's degree or MBA is advantageous",
-    "Professional certifications such as MRICS, MCIPS, CCM, PMP, or equivalent are preferred",
-    "Minimum 18 years of contract management experience in major infrastructure, marine, offshore, energy, or oil gas projects",
-    "Proven experience with offshore island developments, dredging, reclamation, marine works, ports, or large-scale civil infrastructure projects"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -103346,90 +104527,6 @@
    "firstSeen": "2026-11-02"
   },
   {
-   "id": "atkinsrealis-r-149148",
-   "title": "Senior Project Manager – Port and Resource Infrastructure",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/CABCVancouver-733-Seymour-St/Senior-Project-Manager---Port-and-Resource-Infrastructure_R-149148",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "chv1ti60w",
-   "yrs": 15,
-   "deg": "B:pm",
-   "skChecked": "2026-11-02",
-   "sector": [
-    "energy"
-   ],
-   "pay": [
-    175000,
-    215000,
-    "USD",
-    "year"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "Contribute to staffing decisions, performance reviews, and career development for assigned staff and colleagues, as required",
-    "Bachelor's degree in a relevant field (graduate degree preferred). 15 years of experience, with at least 5 years in a senior project management role involving infrastructure projects…",
-    "Professional registration with an appropriate body recognized in Canada (e.g., P. Eng., P.E., PMP, or CCM)",
-    "Ability to manage multiple projects and travel as needed",
-    "Experience with industrial buildings and transportation infrastructure, with a preference for experience on port and resource related projects"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "atkinsrealis-r-157538",
-   "title": "Senior Project Manager – Airport Infrastructure",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/CABCVancouver-733-Seymour-St/Senior-Project-Manager---Airport-Infrastructure_R-157538",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sector": [
-    "aviation"
-   ],
-   "sk": "chv1ti60w",
-   "yrs": 15,
-   "deg": "B:pm",
-   "skChecked": "2026-11-02",
-   "pay": [
-    140000,
-    180000,
-    "USD",
-    "year"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "Contribute to staffing decisions, performance reviews, and career development for assigned staff and colleagues, as required",
-    "Bachelor's degree in a relevant field (graduate degree preferred). 15 years of proven related experience in a senior project management role with 5 years of recent experience supporting…",
-    "Canada e.g., P. Eng., P.E., PMP, or CCM Strong leadership, technical, financial management, and interpersonal skills",
-    "Ability to manage multiple projects and travel as needed",
-    "Proven previous experience within airport and transportation infrastructure"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
    "id": "atkinsrealis-r-141890",
    "title": "Quantity Surveyor",
    "emp": "AtkinsRéalis",
@@ -103634,6 +104731,90 @@
    "firstSeen": "2026-11-02"
   },
   {
+   "id": "atkinsrealis-r-149148",
+   "title": "Senior Project Manager – Port and Resource Infrastructure",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/CABCVancouver-733-Seymour-St/Senior-Project-Manager---Port-and-Resource-Infrastructure_R-149148",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "chv1ti60w",
+   "yrs": 15,
+   "deg": "B:pm",
+   "skChecked": "2026-11-02",
+   "sector": [
+    "energy"
+   ],
+   "pay": [
+    175000,
+    215000,
+    "USD",
+    "year"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "rq": [
+    "Contribute to staffing decisions, performance reviews, and career development for assigned staff and colleagues, as required",
+    "Bachelor's degree in a relevant field (graduate degree preferred). 15 years of experience, with at least 5 years in a senior project management role involving infrastructure projects…",
+    "Professional registration with an appropriate body recognized in Canada (e.g., P. Eng., P.E., PMP, or CCM)",
+    "Ability to manage multiple projects and travel as needed",
+    "Experience with industrial buildings and transportation infrastructure, with a preference for experience on port and resource related projects"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "atkinsrealis-r-157538",
+   "title": "Senior Project Manager – Airport Infrastructure",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/CABCVancouver-733-Seymour-St/Senior-Project-Manager---Airport-Infrastructure_R-157538",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sector": [
+    "aviation"
+   ],
+   "sk": "chv1ti60w",
+   "yrs": 15,
+   "deg": "B:pm",
+   "skChecked": "2026-11-02",
+   "pay": [
+    140000,
+    180000,
+    "USD",
+    "year"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "rq": [
+    "Contribute to staffing decisions, performance reviews, and career development for assigned staff and colleagues, as required",
+    "Bachelor's degree in a relevant field (graduate degree preferred). 15 years of proven related experience in a senior project management role with 5 years of recent experience supporting…",
+    "Canada e.g., P. Eng., P.E., PMP, or CCM Strong leadership, technical, financial management, and interpersonal skills",
+    "Ability to manage multiple projects and travel as needed",
+    "Proven previous experience within airport and transportation infrastructure"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
    "id": "atkinsrealis-r-150883-1",
    "title": "Project Controls Manager",
    "emp": "AtkinsRéalis",
@@ -103779,121 +104960,6 @@
     "Demonstrated experience in managing teams to deliver complex projects and programs",
     "Familiarity of working in collaborative project environments and a working knowledge and experience of progressive contracting models incl",
     "Demonstrable experience in managing stakeholder relationships and providing reporting to enable effective decision making"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "atkinsrealis-r-122119",
-   "title": "Cost Manager",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Manager",
-   "city": "HK.Kowloon_Harbour City",
-   "country": "",
-   "region": "Other",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/HKKowloon_Harbour-City/Cost-Manager_R-122119",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "dg29z0u80",
-   "yrs": 5,
-   "yrsMax": 10,
-   "deg": "B:qs",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "It s thanks to our talented people and their diverse thinking, expertise and knowledge",
-    "Join us and you ll be part of our genuinely collaborative environment, where everyone is supported to make the most of their talents and expertise",
-    "An ideal candidate should have the following qualifications: Degree in Quantity Surveying or a related engineering discipline",
-    "Be a Chartered professional member with a recognised",
-    "Quantity Surveying professional institute (HKIS, RICS)"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "atkinsrealis-r-152637",
-   "title": "Construction Manager",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "CA.ON.Toronto.191 The West Mall",
-   "country": "Canada",
-   "region": "North America",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/CAONToronto191-The-West-Mall/Construction-Manager_R-152637",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "2rrwt08o3k",
-   "yrs": 15,
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "sector": [
-    "energy"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "A minimum of 15 years of professional experience in construction management",
-    "Minimum 10 years of professional experience in large power transmission projects or equivalent infrastructure programs, including on-site experience working in highly regulated…",
-    "Demonstrated experience in managing teams to deliver complex projects and programs",
-    "Familiarity of working in collaborative project environments and a working knowledge and experience of progressive contracting models incl",
-    "Demonstrable experience in managing stakeholder relationships and providing reporting to enable effective decision making"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "atkinsrealis-r-155298",
-   "title": "Mechanical Engineer / Project Manager",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "CA.BC.Vancouver. 733 Seymour St.",
-   "country": "Canada",
-   "region": "North America",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/CABCVancouver-733-Seymour-St/Mechanical-Engineer---Project-Manager_R-155298",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "chw1c27es",
-   "yrs": 10,
-   "deg": "B:mechanical,pm",
-   "skChecked": "2026-11-02",
-   "sector": [
-    "rail",
-    "energy"
-   ],
-   "pay": [
-    100000,
-    130000,
-    "USD",
-    "year"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "Technical knowledge of mechanical systems, experience with proposal writing, and experience with consulting engineering are necessary for this role",
-    "Use software tools such as AutoCAD, Revit, Bluebeam, and Microsoft Office to prepare deliverables as required",
-    "Bachelor s Degree in Mechanical Engineering",
-    "PMP designation or CAPM certification or willingness to obtain within 6 months of hiring",
-    "Minimum 10 years’ of relevant experience in Engineering consulting with progressive responsibilities"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -104330,6 +105396,121 @@
    "firstSeen": "2026-11-02"
   },
   {
+   "id": "atkinsrealis-r-122119",
+   "title": "Cost Manager",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "HK.Kowloon_Harbour City",
+   "country": "",
+   "region": "Other",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/HKKowloon_Harbour-City/Cost-Manager_R-122119",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "dg29z0u80",
+   "yrs": 5,
+   "yrsMax": 10,
+   "deg": "B:qs",
+   "skChecked": "2026-11-02",
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "rq": [
+    "It s thanks to our talented people and their diverse thinking, expertise and knowledge",
+    "Join us and you ll be part of our genuinely collaborative environment, where everyone is supported to make the most of their talents and expertise",
+    "An ideal candidate should have the following qualifications: Degree in Quantity Surveying or a related engineering discipline",
+    "Be a Chartered professional member with a recognised",
+    "Quantity Surveying professional institute (HKIS, RICS)"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "atkinsrealis-r-152637",
+   "title": "Construction Manager",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "CA.ON.Toronto.191 The West Mall",
+   "country": "Canada",
+   "region": "North America",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/CAONToronto191-The-West-Mall/Construction-Manager_R-152637",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "2rrwt08o3k",
+   "yrs": 15,
+   "deg": "B",
+   "skChecked": "2026-11-02",
+   "sector": [
+    "energy"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "rq": [
+    "A minimum of 15 years of professional experience in construction management",
+    "Minimum 10 years of professional experience in large power transmission projects or equivalent infrastructure programs, including on-site experience working in highly regulated…",
+    "Demonstrated experience in managing teams to deliver complex projects and programs",
+    "Familiarity of working in collaborative project environments and a working knowledge and experience of progressive contracting models incl",
+    "Demonstrable experience in managing stakeholder relationships and providing reporting to enable effective decision making"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "atkinsrealis-r-155298",
+   "title": "Mechanical Engineer / Project Manager",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "CA.BC.Vancouver. 733 Seymour St.",
+   "country": "Canada",
+   "region": "North America",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/CABCVancouver-733-Seymour-St/Mechanical-Engineer---Project-Manager_R-155298",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "chw1c27es",
+   "yrs": 10,
+   "deg": "B:mechanical,pm",
+   "skChecked": "2026-11-02",
+   "sector": [
+    "rail",
+    "energy"
+   ],
+   "pay": [
+    100000,
+    130000,
+    "USD",
+    "year"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "rq": [
+    "Technical knowledge of mechanical systems, experience with proposal writing, and experience with consulting engineering are necessary for this role",
+    "Use software tools such as AutoCAD, Revit, Bluebeam, and Microsoft Office to prepare deliverables as required",
+    "Bachelor s Degree in Mechanical Engineering",
+    "PMP designation or CAPM certification or willingness to obtain within 6 months of hiring",
+    "Minimum 10 years’ of relevant experience in Engineering consulting with progressive responsibilities"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
    "id": "atkinsrealis-r-163247",
    "title": "Contract Administrator",
    "emp": "AtkinsRéalis",
@@ -104362,162 +105543,6 @@
     "Qualifications Bachelor s Degree in Quantity Surveying, Commercial Management, Civil Engineering, Construction Management, or a related discipline",
     "Master s Degree in Construction Law, Commercial Management, or Project Management is desirable",
     "Professional membership with RICS, CIArb, ICE, AACE, or equivalent professional institutions is preferred"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "atkinsrealis-r-150835",
-   "title": "Project Manager - Rail Vehicles",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "US.CA.Los Angeles.801 S. Grand Avenue",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/USCALos-Angeles801-S-Grand-Avenue/Project-Manager---Rail-Vehicles_R-150835",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sector": [
-    "rail"
-   ],
-   "sk": "11eyg5cm4g",
-   "yrs": 15,
-   "deg": "B:business",
-   "skChecked": "2026-11-02",
-   "pay": [
-    160000,
-    220000,
-    "USD",
-    "year"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "shares"
-   ],
-   "rq": [
-    "Bachelor's degree in Business, Engineering or related discipline",
-    "PE licensure in California or demonstrated progress toward obtaining licensure preferred",
-    "Minimum 15 years of experience supporting rail vehicle procurement programs in a technical and/or project management role",
-    "Demonstrated technical knowledge of rail vehicle procurement and/or refurbishment programs required, including but not limited to design, manufacture, production, testing…",
-    "Business vision, excellent communication skills, and be able to represent the firm effectively to clients, potential partners, and the community in general"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "atkinsrealis-r-158362-1",
-   "title": "Risk Manager/ Senior Risk Manager",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Risk",
-   "level": "Manager",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBLondonNova-North/Risk-Manager--Senior-Risk-Manager_R-158362-1",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "4xdkkgk2p6t",
-   "deg": "D",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "clearance"
-   ],
-   "sector": [
-    "energy"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "A recognised diploma or degree or be qualified by experience with a qualification in risk management",
-    "Experience of working on major infrastructure projects in at least one of the following sectors: Transportation, Energy, or Infrastructure",
-    "Awareness of industry risk management tools such as: ARM, Xactium, Primavera Risk Analysis, SafranRisk, Risk…"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "atkinsrealis-r-159430-1",
-   "title": "Commercial Manager",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Manager",
-   "city": "GB.Buckinghamshire Council Offices",
-   "country": "",
-   "region": "Other",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBBuckinghamshire-Council-Offices/Commercial-Manager_R-159430-1",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "l2o3slq8",
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "clearance"
-   ],
-   "sector": [
-    "energy"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "Ensure compliance with NEC contractual obligations, procedures, timescales, and communication requirements",
-    "Administer contracts on behalf of the client where required, including instructing works, assessing quotations, and managing change",
-    "Operate in accordance with the NEC principle of mutual trust and cooperation",
-    "Desirable Qualification Experience in commercial management, quantity surveying, or contract administration",
-    "Professional membership of RICS, CIOB, ICES, or equivalent"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "atkinsrealis-r-162122",
-   "title": "Managing Quantity Surveyor",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Mid",
-   "city": "GB.Epsom.Woodcote Grove",
-   "country": "",
-   "region": "Other",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBEpsomWoodcote-Grove/Managing-Quantity-Surveyor_R-162122",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "71jnalts",
-   "deg": "B:qs",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "clearance"
-   ],
-   "sector": [
-    "energy"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "Join us as a Managing Quantity Surveyor, and you ll be part of a team that delivers high-quality expertise and is driven",
-    "Apply commercial and contractual understanding—particularly of the NEC suite—to ensure projects are delivered with rigour, clarity, and commercial discipline",
-    "Proactive involvement in the development of our services through not only enhancing the relationships we currently have but also nurturing new one About you Degree qualified in Quantity…",
-    "Extensive experience with common forms of UK Construction contracts",
-    "Experience in cost planning, estimating, benchmarking and commercial management within infrastructure, construction or related sectors"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -104632,6 +105657,44 @@
     "Extensive NEC contract experience, including change management, payment, risk, forecasting, and final account processes",
     "Strong technical knowledge of cost management, procurement, contract administration, reporting, and commercial governance",
     "Ability to provide trusted commercial and contractual advice to project teams, clients, and stakeholders"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "atkinsrealis-r-162122",
+   "title": "Managing Quantity Surveyor",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Mid",
+   "city": "GB.Epsom.Woodcote Grove",
+   "country": "",
+   "region": "Other",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBEpsomWoodcote-Grove/Managing-Quantity-Surveyor_R-162122",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "71jnalts",
+   "deg": "B:qs",
+   "skChecked": "2026-11-02",
+   "elig": [
+    "clearance"
+   ],
+   "sector": [
+    "energy"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "rq": [
+    "Join us as a Managing Quantity Surveyor, and you ll be part of a team that delivers high-quality expertise and is driven",
+    "Apply commercial and contractual understanding—particularly of the NEC suite—to ensure projects are delivered with rigour, clarity, and commercial discipline",
+    "Proactive involvement in the development of our services through not only enhancing the relationships we currently have but also nurturing new one About you Degree qualified in Quantity…",
+    "Extensive experience with common forms of UK Construction contracts",
+    "Experience in cost planning, estimating, benchmarking and commercial management within infrastructure, construction or related sectors"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -104905,6 +105968,124 @@
     "The ideal candidate, is a team player, has growing leadership qualities and possess the softer consulting skillset required to thrive in a client environment",
     "A Senior Quantity Surveyor with 5 years’ experience in major programmes and complex infrastructure within, construction, engineering, manufacturing…",
     "Degree qualified in Quantity Surveying or a related commercial/construction discipline, or able to demonstrate equivalent knowledge and experience gained through practice"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "atkinsrealis-r-150835",
+   "title": "Project Manager - Rail Vehicles",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "US.CA.Los Angeles.801 S. Grand Avenue",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/USCALos-Angeles801-S-Grand-Avenue/Project-Manager---Rail-Vehicles_R-150835",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sector": [
+    "rail"
+   ],
+   "sk": "11eyg5cm4g",
+   "yrs": 15,
+   "deg": "B:business",
+   "skChecked": "2026-11-02",
+   "pay": [
+    160000,
+    220000,
+    "USD",
+    "year"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "shares"
+   ],
+   "rq": [
+    "Bachelor's degree in Business, Engineering or related discipline",
+    "PE licensure in California or demonstrated progress toward obtaining licensure preferred",
+    "Minimum 15 years of experience supporting rail vehicle procurement programs in a technical and/or project management role",
+    "Demonstrated technical knowledge of rail vehicle procurement and/or refurbishment programs required, including but not limited to design, manufacture, production, testing…",
+    "Business vision, excellent communication skills, and be able to represent the firm effectively to clients, potential partners, and the community in general"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "atkinsrealis-r-158362-1",
+   "title": "Risk Manager/ Senior Risk Manager",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Risk",
+   "level": "Manager",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBLondonNova-North/Risk-Manager--Senior-Risk-Manager_R-158362-1",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "4xdkkgk2p6t",
+   "deg": "D",
+   "skChecked": "2026-11-02",
+   "elig": [
+    "clearance"
+   ],
+   "sector": [
+    "energy"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "rq": [
+    "A recognised diploma or degree or be qualified by experience with a qualification in risk management",
+    "Experience of working on major infrastructure projects in at least one of the following sectors: Transportation, Energy, or Infrastructure",
+    "Awareness of industry risk management tools such as: ARM, Xactium, Primavera Risk Analysis, SafranRisk, Risk…"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "atkinsrealis-r-159430-1",
+   "title": "Commercial Manager",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "GB.Buckinghamshire Council Offices",
+   "country": "",
+   "region": "Other",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBBuckinghamshire-Council-Offices/Commercial-Manager_R-159430-1",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "l2o3slq8",
+   "deg": "B",
+   "skChecked": "2026-11-02",
+   "elig": [
+    "clearance"
+   ],
+   "sector": [
+    "energy"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "rq": [
+    "Ensure compliance with NEC contractual obligations, procedures, timescales, and communication requirements",
+    "Administer contracts on behalf of the client where required, including instructing works, assessing quotations, and managing change",
+    "Operate in accordance with the NEC principle of mutual trust and cooperation",
+    "Desirable Qualification Experience in commercial management, quantity surveying, or contract administration",
+    "Professional membership of RICS, CIOB, ICES, or equivalent"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -106002,46 +107183,6 @@
    "firstSeen": "2026-11-02"
   },
   {
-   "id": "atkinsrealis-r-156822-1",
-   "title": "Project Manager/Associate Director",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Director",
-   "city": "GB.London.Nova North",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBLondonNova-North/Project-Manager-Associate-Director_R-156822-1",
-   "posted": "",
-   "checked": "2026-11-05",
-   "sk": "s38x1d6o",
-   "deg": "B",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "clearance",
-    "chartered"
-   ],
-   "sector": [
-    "aviation",
-    "water"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "The AtkinsRéalis UK Infrastructure Project Delivery Practice (PDP) is the centre of excellence for the delivery of infrastructure projects and the home unit for our project management staff",
-    "Chartered Engineer/Architect with experience of working on design commissions for large infrastructure projects with market sector experience in Water Infrastructure, Stations, Aviation…",
-    "Familiarity with Scope Definition papers, Project Execution Plans, Risk Registers, Change Control Logs and Client & Stakeholder Management plans",
-    "Experience of managing small and medium sized design projects to time, cost and quality objectives and familiar with programming and earned value techniques",
-    "Familiar with BIM and has an understanding of 3D modelling tools for design and coordination purposes and the associated Information attributes that can be assigned and managed…"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
    "id": "atkinsrealis-r-143665",
    "title": "PMO Reporting Manager (Saudi National)",
    "emp": "AtkinsRéalis",
@@ -106080,6 +107221,46 @@
     "Solid understanding of PMO design / setup and excellence, process value chains, development phases, dependencies, decision stage gates, and cross-functional inputs",
     "High proficiency in process design, workflow mapping, operational modeling, and documentation standards",
     "Ability to design and deliver high-quality presentations that communicate key messages with clarity and impact with proper storytelling & communication to present complex information…"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-04",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "atkinsrealis-r-156822-1",
+   "title": "Project Manager/Associate Director",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Director",
+   "city": "GB.London.Nova North",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBLondonNova-North/Project-Manager-Associate-Director_R-156822-1",
+   "posted": "",
+   "checked": "2026-11-05",
+   "sk": "s38x1d6o",
+   "deg": "B",
+   "skChecked": "2026-11-04",
+   "elig": [
+    "clearance",
+    "chartered"
+   ],
+   "sector": [
+    "aviation",
+    "water"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "rq": [
+    "The AtkinsRéalis UK Infrastructure Project Delivery Practice (PDP) is the centre of excellence for the delivery of infrastructure projects and the home unit for our project management staff",
+    "Chartered Engineer/Architect with experience of working on design commissions for large infrastructure projects with market sector experience in Water Infrastructure, Stations, Aviation…",
+    "Familiarity with Scope Definition papers, Project Execution Plans, Risk Registers, Change Control Logs and Client & Stakeholder Management plans",
+    "Experience of managing small and medium sized design projects to time, cost and quality objectives and familiar with programming and earned value techniques",
+    "Familiar with BIM and has an understanding of 3D modelling tools for design and coordination purposes and the associated Information attributes that can be assigned and managed…"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -108836,7 +110017,7 @@
    "posted": "",
    "checked": "2026-11-02",
    "firstSeen": "2026-11-02",
-   "ap": 1
+   "ap": 2
   },
   {
    "id": "currie-and-brown-20761",
@@ -110458,7 +111639,8 @@
    "checked": "2026-11-02",
    "firstSeen": "2026-11-02",
    "sk": "1qdu6tjdvn",
-   "yrs": 12
+   "yrs": 12,
+   "ap": 1
   },
   {
    "id": "egis-8751",
@@ -116941,7 +118123,6 @@
     "hybrid"
    ],
    "rq": [
-    "Essential Duties & Responsibilities",
     "Knowledge & Skills Required",
     "Ability to travel semi-locally a couple days/week",
     "Demonstrated ability to monitor scope throughout the project and recommend adjustments when necessary",
@@ -117325,37 +118506,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "jll-req545847",
-   "title": "Senior Program Manager, PDS Projects",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Atlanta-GA/Senior-Program-Manager--PDS-Projects_REQ545847",
-   "posted": "2026-10-30",
-   "checked": "2026-11-05",
-   "sk": "chw287myu",
-   "deg": "B:construction,architecture,pm",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "nosponsor"
-   ],
-   "rq": [
-    "Bachelor's degree in architecture, construction management, business management, finance, or related engineering field",
-    "7 years of real estate, project management, or program management experience",
-    "PMP (Project Management Professional), LEED AP certification or equivalent project management credential preferred",
-    "Comprehensive knowledge of the real estate development lifecycle, approval processes and regulations, including procurement and contract management…",
-    "Strong working knowledge of architectural drawings and furniture and space planning concepts"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "jll-req546109",
    "title": "Construction Senior Project Manager",
    "emp": "JLL",
@@ -117463,7 +118613,7 @@
   },
   {
    "id": "larsen-and-toubro-lnt_-_1911179",
-   "title": "Contract Administration",
+   "title": "RCF Contracts Admin",
    "emp": "Larsen & Toubro",
    "type": "Contractor",
    "disc": "Contracts",
@@ -119494,7 +120644,8 @@
    "fx": 1,
    "fxChecked": "2026-11-02",
    "fxV": 4,
-   "firstSeen": "2026-10-29"
+   "firstSeen": "2026-10-29",
+   "ap": 1
   },
   {
    "id": "atkinsrealis-r-167525",
@@ -120441,7 +121592,8 @@
    "firstSeen": "2026-10-29",
    "sector": [
     "industrial"
-   ]
+   ],
+   "ap": 1
   },
   {
    "id": "alstom-1432448133",
@@ -120621,7 +121773,7 @@
    "fxV": 4,
    "fxChecked": "2026-11-02",
    "skChecked": "2026-11-02",
-   "ap": 13
+   "ap": 23
   },
   {
    "id": "bechtel-300714",
@@ -120680,7 +121832,7 @@
    "fxV": 4,
    "fxChecked": "2026-11-02",
    "skChecked": "2026-11-02",
-   "ap": 1
+   "ap": 2
   },
   {
    "id": "bechtel-294247",
@@ -122338,7 +123490,8 @@
    "sk": "cncivjrb9",
    "fxV": 4,
    "fxChecked": "2026-11-02",
-   "skChecked": "2026-11-02"
+   "skChecked": "2026-11-02",
+   "ap": 1
   },
   {
    "id": "worley-1133916629763",
@@ -123112,7 +124265,8 @@
    "fx": 1,
    "fxChecked": "2026-11-02",
    "fxV": 4,
-   "firstSeen": "2026-10-28"
+   "firstSeen": "2026-10-28",
+   "ap": 1
   },
   {
    "id": "kbr-r2130905",
@@ -123195,7 +124349,8 @@
    "fx": 1,
    "fxChecked": "2026-11-02",
    "fxV": 4,
-   "firstSeen": "2026-10-28"
+   "firstSeen": "2026-10-28",
+   "ap": 1
   },
   {
    "id": "atkinsrealis-r-167321",
@@ -123412,7 +124567,8 @@
    "fx": 1,
    "fxChecked": "2026-11-02",
    "fxV": 4,
-   "firstSeen": "2026-10-28"
+   "firstSeen": "2026-10-28",
+   "ap": 1
   },
   {
    "id": "atkinsrealis-r-166860-1",
@@ -124774,7 +125930,8 @@
    "sk": "cgzi681r83",
    "fxV": 4,
    "fxChecked": "2026-11-02",
-   "skChecked": "2026-11-02"
+   "skChecked": "2026-11-02",
+   "ap": 1
   },
   {
    "id": "mace-46145",
@@ -125116,7 +126273,8 @@
    "fx": 1,
    "fxV": 4,
    "fxChecked": "2026-11-02",
-   "skChecked": "2026-11-02"
+   "skChecked": "2026-11-02",
+   "ap": 1
   },
   {
    "id": "mace-47828",
@@ -125876,7 +127034,8 @@
    "sk": "91i0o3n",
    "fxV": 4,
    "fxChecked": "2026-11-02",
-   "skChecked": "2026-11-02"
+   "skChecked": "2026-11-02",
+   "ap": 1
   },
   {
    "id": "worley-1133913617136",
@@ -135016,109 +136175,6 @@
    "firstSeen": "2026-10-23"
   },
   {
-   "id": "aecom-744000157465890",
-   "title": "Project Manager:Civil Infrastructure",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Dublin",
-   "country": "Ireland",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000157465890",
-   "posted": "2026-10-23",
-   "checked": "2026-11-05",
-   "sk": "awhqy2o",
-   "yrs": 7,
-   "skChecked": "2026-11-02",
-   "sector": [
-    "aviation"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "This role is primarily site-based, with attendance on site required four days per week and one day per week available for remote working",
-    "We are seeking a Project Manager:Civil Infrastructure with 7 + years' experience delivering major civil infrastructure projects across the full project lifecycle",
-    "We encourage applications from candidates with: Extensive experience working with the NEC Suite of Contracts in a client, contractor, or consultancy environment",
-    "Here’s what you’ll do: Programme Requirements, Standards Performance Oversee and monitor project delivery, ensuring effective management of schedule, interfaces, costs, variations…",
-    "A minimum of 7 years’ experience within the construction and infrastructure sector, including the successful delivery of aviation and/or other major projects of comparable scale…"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-23"
-  },
-  {
-   "id": "aecom-744000157469439",
-   "title": "Infrastructure Project Manager - Aviation",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Dublin",
-   "country": "Ireland",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000157469439",
-   "posted": "2026-10-23",
-   "checked": "2026-11-05",
-   "sector": [
-    "aviation"
-   ],
-   "sk": "b5ddybk",
-   "yrs": 7,
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "This role is primarily site-based, with attendance on site required four days per week and one day per week available for remote working",
-    "We are seeking an Infrastructure Project Manager with 7+ years' experience delivering commercial, building, and civil infrastructure projects across the full project lifecycle",
-    "We encourage applications from candidates with: Experience working with the NEC Suite of Contracts in a client, contractor, or subcontractor role",
-    "What you’ll do Programme Requirements, Standards Performance Oversee and monitor project delivery across all key areas including schedule, interfaces, cost, variations, contracts, and risk…",
-    "As the successful candidate, you will bring the following qualifications and experience: Minimum of 7 years’ experience within the construction and infrastructure sector…"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-23"
-  },
-  {
-   "id": "aecom-744000157468249",
-   "title": "Senior Infrastructure Project Manager - Aviation",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Dublin",
-   "country": "Ireland",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000157468249",
-   "posted": "2026-10-23",
-   "checked": "2026-11-05",
-   "sector": [
-    "aviation"
-   ],
-   "sk": "8xqz4lc",
-   "yrs": 15,
-   "skChecked": "2026-11-02",
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "This role is primarily site-based, with attendance on site required four days per week and one day per week available for remote working",
-    "We are seeking a Senior Infrastructure Project Manager with 15+ years' experience delivering major commercial, building, and civil infrastructure projects across the full project lifecycle",
-    "We encourage applications from candidates with: Extensive experience working with the NEC Suite of Contracts in a client, contractor, or consultancy environment",
-    "As the successful candidate, you will bring the following qualifications and experience: Over 15 years of experience leading the delivery of major infrastructure and capital investment…",
-    "Extensive knowledge of project and contract management, with a proven track record of delivering complex projects safely, on schedule, and within budget"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-23"
-  },
-  {
    "id": "aecom-744000157455199",
    "title": "Senior Water/Wastewater Project Manager",
    "emp": "AECOM",
@@ -135426,38 +136482,6 @@
     "[18] years of progressive project controls experience on major EPC or EPCM capital projects, including [8] years leading integrated project controls functions on complex projects…",
     "Sector experience in [oil gas / LNG / chemical / Nuclear / power renewables / pharmaceutical / semiconductor / data center]",
     "Professional credentials: AACE, PMI, or equivalent"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-23"
-  },
-  {
-   "id": "kbr-r2131346",
-   "title": "Sr. Quantity Surveyor",
-   "emp": "KBR",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Senior",
-   "city": "Abu Dhabi",
-   "country": "UAE",
-   "region": "GCC",
-   "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Sr-Quantity-Surveyor_R2131346",
-   "posted": "2026-10-23",
-   "checked": "2026-11-05",
-   "sk": "1wsvhr1o9d",
-   "yrs": 15,
-   "deg": "B:qs",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "chartered"
-   ],
-   "rq": [
-    "MRICS Membership an advantage",
-    "Minimum 15 years overall experience",
-    "Minimum 10 years of experience in similar role",
-    "Minimum 5 years of experience working in Middle East",
-    "Sound knowledge of all engineering and commercial aspects of buildings and civil infrastructure projects including schools, mosques, parks, roads, bridges and utilities"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -137422,171 +138446,6 @@
    "firstSeen": "2026-10-22"
   },
   {
-   "id": "aecom-744000157116159",
-   "title": "Senior Construction Manager",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Cleveland",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000157116159",
-   "posted": "2026-10-22",
-   "checked": "2026-11-05",
-   "sk": "ch0gu9beo",
-   "deg": "B:construction,architecture",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
-    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field",
-    "Must be open to relocate Potential up to 90% travel anywhere in US THIS POSTING IS FOR A CURRENT VACANCY, AND AECOM INTENDS TO FILL THIS POSITION BY JANUARY 31, 2027"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-22"
-  },
-  {
-   "id": "aecom-744000157114411",
-   "title": "Senior Construction Manager",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Atlanta",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000157114411",
-   "posted": "2026-10-22",
-   "checked": "2026-11-05",
-   "sk": "ch0gu9beo",
-   "deg": "B:construction,architecture",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
-    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field",
-    "Must be open to relocate Potential up to 90% travel anywhere in US THIS POSTING IS FOR A CURRENT VACANCY, AND AECOM INTENDS TO FILL THIS POSITION BY JANUARY 31, 2027"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-22"
-  },
-  {
-   "id": "aecom-744000157108414",
-   "title": "Senior Construction Manager",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Boston",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000157108414",
-   "posted": "2026-10-22",
-   "checked": "2026-11-05",
-   "sk": "ch0gu9beo",
-   "deg": "B:construction,architecture",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
-    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field",
-    "Must be open to relocate Potential up to 90% travel anywhere in US THIS POSTING IS FOR A CURRENT VACANCY, AND AECOM INTENDS TO FILL THIS POSITION BY JANUARY 31, 2027"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-22"
-  },
-  {
-   "id": "aecom-744000157110859",
-   "title": "Senior Construction Manager",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Bloomfield",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000157110859",
-   "posted": "2026-10-22",
-   "checked": "2026-11-05",
-   "sk": "ch0gu9beo",
-   "deg": "B:construction,architecture",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
-    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field",
-    "Must be open to relocate Potential up to 90% travel anywhere in US THIS POSTING IS FOR A CURRENT VACANCY, AND AECOM INTENDS TO FILL THIS POSITION BY JANUARY 31, 2027"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-22"
-  },
-  {
-   "id": "aecom-744000157109508",
-   "title": "Senior Construction Manager",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "New York",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000157109508",
-   "posted": "2026-10-22",
-   "checked": "2026-11-05",
-   "sk": "ch0gu9beo",
-   "deg": "B:construction,architecture",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
-    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field",
-    "Must be open to relocate Potential up to 90% travel anywhere in US THIS POSTING IS FOR A CURRENT VACANCY, AND AECOM INTENDS TO FILL THIS POSITION BY JANUARY 31, 2027"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-22"
-  },
-  {
    "id": "aecom-744000157063220",
    "title": "Project Controller - Cost Management",
    "emp": "AECOM",
@@ -137610,42 +138469,6 @@
     "leave",
     "training",
     "shares"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-22"
-  },
-  {
-   "id": "aecom-744000157063989",
-   "title": "Construction Manager - PMC (Depots)",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Abu Dhabi",
-   "country": "UAE",
-   "region": "GCC",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000157063989",
-   "posted": "2026-10-22",
-   "checked": "2026-11-05",
-   "sk": "1dwbr876dc",
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "sector": [
-    "rail",
-    "energy"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "Experience The following are the mandatory minimum requirements for this position: Not less than fifteen (15) years’ experience in construction of rail projects…",
-    "Experience in the implementation of High Speed Rail (HSR) projects is highly preferable"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -142542,38 +143365,6 @@
    "firstSeen": "2026-10-20"
   },
   {
-   "id": "aecom-744000156633305",
-   "title": "Senior Construction Manager",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Buffalo",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000156633305",
-   "posted": "2026-10-20",
-   "checked": "2026-11-05",
-   "sk": "ch0gu9beo",
-   "deg": "B:construction,architecture",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "Understands and has working knowledge of scheduling and critical milestone activities, understands logic of the schedule and basic construction means and methods",
-    "Bachelor's degree in architecture, engineering, urban planning, construction management or related field"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-20"
-  },
-  {
    "id": "aecom-744000156610769",
    "title": "Construction Estimator - Leeding Builders Group",
    "emp": "AECOM",
@@ -144290,46 +145081,6 @@
    "firstSeen": "2026-10-19"
   },
   {
-   "id": "wsp-97879",
-   "title": "Project Manager (Power & Energy)",
-   "emp": "WSP",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Dayton",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97879",
-   "posted": "2026-10-19",
-   "checked": "2026-11-05",
-   "sector": [
-    "energy"
-   ],
-   "sk": "vtoofeo",
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "pay": [
-    102200,
-    165000,
-    "USD",
-    "year"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave"
-   ],
-   "rq": [
-    "Ability to work schedules conducive to project-specific requirements that may extend beyond the typical workweek",
-    "Occasional travel may be required depending on project-specific requirements",
-    "PMP Certification WSP Benefits: WSP provides a comprehensive suite of benefits focused on providing health and financial stability throughout the employee’s career"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-19"
-  },
-  {
    "id": "wsp-97880",
    "title": "Geotechnical and Construction Materials Project Manager",
    "emp": "WSP",
@@ -144942,35 +145693,6 @@
     "Minimum of 7 years of project management experience supporting critical environments, mission-critical facilities, or data center infrastructure projects",
     "Minimum of 2 years of experience leading, supervising, or mentoring project teams",
     "Proficiency with project management software and Microsoft Office applications"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-19"
-  },
-  {
-   "id": "jll-req539524",
-   "title": "Junior Cost Manager (Civil / MEP)",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Mid",
-   "city": "Bengaluru",
-   "country": "India",
-   "region": "Asia Pacific",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Bengaluru-KA/Junior-Cost-Manager--Civil---MEP-_REQ539524",
-   "posted": "2026-10-19",
-   "checked": "2026-11-05",
-   "sk": "4xq1jwq9fk0",
-   "yrs": 3,
-   "deg": "D:civil,mechanical,electrical",
-   "skChecked": "2026-11-02",
-   "rq": [
-    "Carry day to day delivery responsibility and demonstrate the ability to take on tasks with minimal supervision",
-    "Demonstrate the ability to work as team player to deliver Cost Management assignments",
-    "Be a team player but demonstrate the ability to take a advanced role as part of personal development planning",
-    "Approx. 0-3 years of experience",
-    "Working knowledge of CostX would be an advantage"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -146902,42 +147624,6 @@
     "Proven experience in quantity take-off, quantity verification, remeasurement, and assessment of scope changes based on approved drawings",
     "Extensive experience in reviewing and certifying interim payment applications and assessing variations under both Lump Sum and Re-measurable contracts",
     "Practical hands-on experience in MEP Quantity Surveying and post-contract commercial management activities is essential"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-16"
-  },
-  {
-   "id": "aecom-744000156084294",
-   "title": "Scheduling Manager",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Planning",
-   "level": "Manager",
-   "city": "Mississauga",
-   "country": "Canada",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000156084294",
-   "posted": "2026-10-16",
-   "checked": "2026-11-05",
-   "sk": "cgzoa1nod",
-   "yrs": 8,
-   "deg": "B:civil,construction,pm",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "Familiar with engineering workflows and basis construction methodology",
-    "Familiar with the concept of Earned Value Management and Progress Measurement Collects data and produces productivity analysis on manpower, labor hour…",
-    "Civil Engineering/ Construction management or a related field, with a minimum of 8 years of experience in road , highway, or municipal infrastructure projects . Strongly",
-    "12 years of experience in road, highway, or municipal projects",
-    "Excellent communication and interpersonal skills"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -156895,42 +157581,6 @@
    "firstSeen": "2026-10-12"
   },
   {
-   "id": "jll-req533995",
-   "title": "Senior Cost Estimator",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Senior",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Raleigh-NC/Senior-Cost-Estimator_REQ533995",
-   "posted": "2026-10-12",
-   "checked": "2026-11-05",
-   "sk": "ch0hzgn4g",
-   "deg": "B:architecture",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "nosponsor"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave"
-   ],
-   "rq": [
-    "Essential Duties and Responsibilities",
-    "7 years as an Estimator, Cost Manager or similar role",
-    "Ability to work and communicate effectively within cross-functional teams and interact with internal and external clients and stakeholders",
-    "Demonstrated ability to analyze construction documents and extract relevant cost information",
-    "Ability to work collaboratively, independently and through ambiguity to create structure and consensus"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-12"
-  },
-  {
    "id": "larsen-and-toubro-lnt_cacm_1891931",
    "title": "Contracts and Claims Manager",
    "emp": "Larsen & Toubro",
@@ -159260,6 +159910,44 @@
    "firstSeen": "2026-10-09"
   },
   {
+   "id": "atkinsrealis-r-166163",
+   "title": "Quantity Surveyor",
+   "emp": "AtkinsRéalis",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Mid",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBExeterAperture-West/Quantity-Surveyor_R-166163",
+   "posted": "2026-10-09",
+   "checked": "2026-11-05",
+   "sk": "102m0w0",
+   "deg": "B:qs",
+   "skChecked": "2026-11-02",
+   "elig": [
+    "clearance"
+   ],
+   "sector": [
+    "energy"
+   ],
+   "ben": [
+    "hybrid",
+    "training"
+   ],
+   "rq": [
+    "If you believe you have the experience of a senior quantity surveyor and want to develop your skills by delivering projects for our clients and adding value through best practise…",
+    "Your role Have a quantity surveying / commercial degree or equivalent qualification . Have/are working towards a recognised Chartership",
+    "Experience in administering the NEC suite of contracts . Experience in commercially managing Infrastructure projects. i.e. within at least one sector",
+    "Highways and CESMM. Understand procurement documents required in the preparation of an ITT. Have a good understanding of construction techniques and technology",
+    "Experience in the use of the full suite on Microsoft software"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-10-09"
+  },
+  {
    "id": "atkinsrealis-r-165493",
    "title": "Quantity Surveyor",
    "emp": "AtkinsRéalis",
@@ -159292,44 +159980,6 @@
     "Qualified to degree level in Quantity Surveying or equivalent by experience",
     "Knowledge of standard methods of measurement",
     "Ability to present well with good literacy and numeracy skills"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-09"
-  },
-  {
-   "id": "atkinsrealis-r-166163",
-   "title": "Quantity Surveyor",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Mid",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBExeterAperture-West/Quantity-Surveyor_R-166163",
-   "posted": "2026-10-09",
-   "checked": "2026-11-05",
-   "sk": "102m0w0",
-   "deg": "B:qs",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "clearance"
-   ],
-   "sector": [
-    "energy"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "If you believe you have the experience of a senior quantity surveyor and want to develop your skills by delivering projects for our clients and adding value through best practise…",
-    "Your role Have a quantity surveying / commercial degree or equivalent qualification . Have/are working towards a recognised Chartership",
-    "Experience in administering the NEC suite of contracts . Experience in commercially managing Infrastructure projects. i.e. within at least one sector",
-    "Highways and CESMM. Understand procurement documents required in the preparation of an ITT. Have a good understanding of construction techniques and technology",
-    "Experience in the use of the full suite on Microsoft software"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -162850,7 +163500,7 @@
   },
   {
    "id": "larsen-and-toubro-lnt_-s_1887347",
-   "title": "Quantity Surveyor",
+   "title": "RCF Quantity Surveyor",
    "emp": "Larsen & Toubro",
    "type": "Contractor",
    "disc": "Cost & Commercial",
@@ -162863,27 +163513,6 @@
    "checked": "2026-11-05",
    "yrs": 4,
    "yrsMax": 10,
-   "skChecked": "2026-11-04",
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-10-08"
-  },
-  {
-   "id": "larsen-and-toubro-lnt_-p-s_1887269",
-   "title": "Engineer - Planning - Site",
-   "emp": "Larsen & Toubro",
-   "type": "Contractor",
-   "disc": "Planning",
-   "level": "Mid",
-   "city": "Hyderabad",
-   "country": "India",
-   "region": "Asia Pacific",
-   "url": "https://larsentoubrocareers.peoplestrong.com/job/detail/LNT_-P-S_1887269",
-   "posted": "2026-10-08",
-   "checked": "2026-11-05",
-   "yrs": 3,
-   "yrsMax": 6,
    "skChecked": "2026-11-04",
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -165786,25 +166415,6 @@
    "firstSeen": "2026-10-07"
   },
   {
-   "id": "larsen-and-toubro-lnt_cee_1882215",
-   "title": "Composite Estimation Engineer",
-   "emp": "Larsen & Toubro",
-   "type": "Contractor",
-   "disc": "Cost & Commercial",
-   "level": "Mid",
-   "city": "Coimbatore Campus",
-   "country": "India",
-   "region": "Asia Pacific",
-   "url": "https://larsentoubrocareers.peoplestrong.com/job/detail/LNT_CEE_1882215",
-   "posted": "2026-10-07",
-   "checked": "2026-11-05",
-   "skChecked": "2026-11-04",
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-10-07"
-  },
-  {
    "id": "larsen-and-toubro-lnt_-e-p_1882212",
    "title": "SUB-CONTRACT ENGINEER (TOOLING & PRECISION COMPONENTS)",
    "emp": "Larsen & Toubro",
@@ -167124,44 +167734,6 @@
     "Strong knowledge of geotechnical engineering practice in BC (site characterization, groundwater, soils/rock, analysis and design, seismic considerations, construction support)",
     "Proven ability to manage clients, budgets, and schedules in a consulting environment",
     "Master’s degree in Geotechnical Engineering"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-06"
-  },
-  {
-   "id": "aecom-744000153793919",
-   "title": "Construction Scheduler- Highway project",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Planning",
-   "level": "Mid",
-   "city": "Mississauga",
-   "country": "Canada",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000153793919",
-   "posted": "2026-10-06",
-   "checked": "2026-11-05",
-   "sector": [
-    "roads"
-   ],
-   "sk": "ch0la2tj5",
-   "yrs": 4,
-   "deg": "B:civil,construction",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "shares"
-   ],
-   "rq": [
-    "University degree in Civil Engineering/ Construction management or a related field, with a minimum of 4 years of experience in road , highway, or municipal infrastructure projects…",
-    "Proficiency in Primavera P6",
-    "Excellent communication and interpersonal skills",
-    "Detail-oriented with the ability to manage multiple tasks and deadlines"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -171571,87 +172143,6 @@
    "firstSeen": "2026-10-02"
   },
   {
-   "id": "aecom-744000153212879",
-   "title": "Rail Programme Director",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Director",
-   "city": "Belfast",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000153212879",
-   "posted": "2026-10-02",
-   "checked": "2026-11-05",
-   "sector": [
-    "rail"
-   ],
-   "sk": "9zldw",
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "hybrid"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-02"
-  },
-  {
-   "id": "aecom-744000153211774",
-   "title": "Rail Programme Director",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Director",
-   "city": "Cork",
-   "country": "Ireland",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000153211774",
-   "posted": "2026-10-02",
-   "checked": "2026-11-05",
-   "sector": [
-    "rail"
-   ],
-   "sk": "9zldw",
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "hybrid"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-02"
-  },
-  {
-   "id": "aecom-744000153212508",
-   "title": "Rail Programme Director",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Director",
-   "city": "Dublin",
-   "country": "Ireland",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000153212508",
-   "posted": "2026-10-02",
-   "checked": "2026-11-05",
-   "sector": [
-    "rail"
-   ],
-   "sk": "9zldw",
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "hybrid"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-02"
-  },
-  {
    "id": "aecom-744000153209889",
    "title": "Cost Estimator",
    "emp": "AECOM",
@@ -172701,7 +173192,8 @@
    "fx": 1,
    "fxV": 4,
    "fxChecked": "2026-11-02",
-   "skChecked": "2026-11-02"
+   "skChecked": "2026-11-02",
+   "ap": 1
   },
   {
    "id": "mace-47838",
@@ -178546,37 +179038,6 @@
    "firstSeen": "2026-09-25"
   },
   {
-   "id": "aecom-744000151783865",
-   "title": "Associate: Project Manager",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Cork",
-   "country": "Ireland",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000151783865",
-   "posted": "2026-09-25",
-   "checked": "2026-11-05",
-   "sk": "sbe5jy0w",
-   "deg": "B:qs,construction,architecture",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "chartered"
-   ],
-   "rq": [
-    "This is an excellent opportunity for an experienced project management professional with a track record of delivering complex capital projects, ideally within the public sector",
-    "As the successful candidate, you will have proven experience managing the delivery of complex construction projects and will possess the following qualifications, skills…",
-    "Professional membership of a recognised institution, such as Chartered Engineer, Chartered Surveyor, Chartered Builder, or equivalent",
-    "Significant experience in project management and the delivery of complex capital projects, preferably within a construction consultancy environment",
-    "Strong knowledge of project governance, programme management, procurement, contract administration, cost management, and risk management"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-09-25"
-  },
-  {
    "id": "aecom-744000151784509",
    "title": "Associate Project Manager:Data Centers",
    "emp": "AECOM",
@@ -179705,42 +180166,6 @@
     "Experience and technical knowledge of healthcare within the built environment or construction industry",
     "Strong communication and organisational skills, with the ability to manage multiple projects, workstreams and stakeholders",
     "Be proactive, solution-oriented and adaptable to changing circumstances Professional accreditation (e.g. RICS, CIOB, APM) achieved or commitment to achieve one"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-09-24"
-  },
-  {
-   "id": "aecom-744000151582170",
-   "title": "Project Quantity Surveyor-Buildings",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Mid",
-   "city": "Dublin",
-   "country": "Ireland",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000151582170",
-   "posted": "2026-09-24",
-   "checked": "2026-11-05",
-   "sector": [
-    "buildings"
-   ],
-   "sk": "zjk4591c",
-   "deg": "B:qs",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "As the successful candidate, you will have experience working across a range of sectors and will possess the following qualifications, skills, and experience: Degree qualified…",
-    "Membership of, or working towards membership of, the Royal Institution of Chartered Surveyors (RICS) or an equivalent professional body",
-    "Experience administering and working with RIAI and GCCC contracts Experience in measurement and quantification, including the use of CostX software",
-    "Experience in the preparation…"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -183436,49 +183861,6 @@
    "firstSeen": "2026-09-16"
   },
   {
-   "id": "cumming-group-jr103740",
-   "title": "Senior Project Controls Manager (Data Center)",
-   "emp": "Cumming Group",
-   "type": "PMC",
-   "disc": "Project Controls",
-   "level": "Manager",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://cumminggroup.wd1.myworkdayjobs.com/en-US/CGC/job/Atlanta-GA/Senior-Project-Controls-Manager--Data-Center-_JR103740",
-   "posted": "2026-09-16",
-   "checked": "2026-11-05",
-   "sector": [
-    "datacentre"
-   ],
-   "sk": "2gp3p0lzytw",
-   "yrs": 5,
-   "yrsMax": 7,
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "chartered"
-   ],
-   "pay": [
-    104600,
-    139466,
-    "USD",
-    "year"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave"
-   ],
-   "rq": [
-    "Demonstrated knowledge of developing and maintaining project risk assessments (qualitative and quantitative)"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-09-16"
-  },
-  {
    "id": "cumming-group-jr103757",
    "title": "Senior Scheduler",
    "emp": "Cumming Group",
@@ -184429,43 +184811,6 @@
     "Bachelor’s degree in Engineering, Architecture, Project…",
     "Construction Management + 12 years of relevant experience or demonstrated equivalency of experience and/or education",
     "Experience with alternative delivery methods, especially…"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-09-14"
-  },
-  {
-   "id": "aecom-744000149420709",
-   "title": "Senior Estimator (Estimator IV)",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Senior",
-   "city": "Houston",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000149420709",
-   "posted": "2026-09-14",
-   "checked": "2026-11-05",
-   "sk": "18y68",
-   "yrs": 6,
-   "skChecked": "2026-11-02",
-   "sector": [
-    "water"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "shares"
-   ],
-   "rq": [
-    "Estimator (Estimator IV) to join our organization and make a positive impact from the start! This position will provide technical knowledge…",
-    "Possesses a working knowledge of planning and scheduling",
-    "Initiates the preparation of an Estimate Plan (approach, techniques, level of effort, cost, schedule), Basis of Estimate and qualifications",
-    "Civil Engineering, Mechanical Engineering, Hydraulic Engineering, Environmental Engineering or related field + 6 years of related experience or demonstrated equivalency of experience and/or…",
-    "Proven ability to communicate complex technical concepts to clients, executive leadership, and multidisciplinary teams PREFERRED QUALIFICATIONS: 10+ years of experience leading complex…"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -187464,40 +187809,6 @@
     "Strong understanding of FIDIC / EPC / GCC contract frameworks",
     "Expertise in claims, variations, and dispute resolution",
     "Excellent negotiation and communication skills"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-09-07"
-  },
-  {
-   "id": "aecom-744000147968629",
-   "title": "Project Manager",
-   "emp": "AECOM",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Leeds",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000147968629",
-   "posted": "2026-09-07",
-   "checked": "2026-11-05",
-   "sk": "jpjnmho5gqo",
-   "deg": "D:construction",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "In recent years, our project delivery within the transport, buildings, and infrastructure sectors has experienced sustained growth…",
-    "Experience of the NEC suite of contracts, ideally…",
-    "The ability to work collaboratively as part of a high performing, integrated, multi-organisational, team",
-    "Excellent communication and organisational skills",
-    "Highly motivated with a growing industry network and the ability to build relationships with clients and other stakeholders…"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -196297,6 +196608,44 @@
    "firstSeen": "2026-08-12"
   },
   {
+   "id": "wsp-93134",
+   "title": "Senior Water & Wastewater Process Engineer/Project Manager",
+   "emp": "WSP",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Winnipeg",
+   "country": "Canada",
+   "region": "North America",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93134",
+   "posted": "2026-08-12",
+   "checked": "2026-11-05",
+   "sector": [
+    "water"
+   ],
+   "sk": "ch7dvg4xs",
+   "yrs": 10,
+   "deg": "B:civil,mechanical,business",
+   "skChecked": "2026-11-02",
+   "pay": [
+    114600,
+    151800,
+    "USD",
+    "year"
+   ],
+   "rq": [
+    "The Skills That Set You Apart 10+ years of technical expertise in water/wastewater treatment design and project delivery",
+    "Bachelor’s degree in civil, environmental, or mechanical engineering",
+    "Master’s degree is an asset",
+    "Proven ability to lead projects independently and manage complex, multi-disciplinary teams",
+    "Experience in business development and client relationship building"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-08-12"
+  },
+  {
    "id": "wsp-92544",
    "title": "Senior Project Manager (Building Services)",
    "emp": "WSP",
@@ -196355,44 +196704,6 @@
    "rq": [
     "You have experience in detailed design, procurement, contract administration, and commissioning . You’re skilled in preparing reports, delivering presentations…",
     "You hold a valid driver’s licence and are ready to make an impact where it matters most"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-08-12"
-  },
-  {
-   "id": "wsp-93134",
-   "title": "Senior Water & Wastewater Process Engineer/Project Manager",
-   "emp": "WSP",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Winnipeg",
-   "country": "Canada",
-   "region": "North America",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93134",
-   "posted": "2026-08-12",
-   "checked": "2026-11-05",
-   "sector": [
-    "water"
-   ],
-   "sk": "ch7dvg4xs",
-   "yrs": 10,
-   "deg": "B:civil,mechanical,business",
-   "skChecked": "2026-11-02",
-   "pay": [
-    114600,
-    151800,
-    "USD",
-    "year"
-   ],
-   "rq": [
-    "The Skills That Set You Apart 10+ years of technical expertise in water/wastewater treatment design and project delivery",
-    "Bachelor’s degree in civil, environmental, or mechanical engineering",
-    "Master’s degree is an asset",
-    "Proven ability to lead projects independently and manage complex, multi-disciplinary teams",
-    "Experience in business development and client relationship building"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
