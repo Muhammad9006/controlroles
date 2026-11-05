@@ -54,3 +54,19 @@ def test_no_keys_means_no_sending(monkeypatch, capsys):
     monkeypatch.delenv("RESEND_API_KEY", raising=False)
     assert alerts.main([]) == 0
     assert "not set up yet" in capsys.readouterr().out
+
+
+def test_morning_brief_builds():
+    from collector import brief
+    data = {"totals": [["date_range_0", 120, 90, 150, 600, 0.62, 95.0], ["date_range_1", 80, 60, 100, 400, 0.5, 80.0]],
+            "week": [["20261029", 10], ["20261104", 120]],
+            "channels": [["Organic Social", 60, 70], ["Direct", 40, 50]],
+            "sources": [["linkedin.com", "referral", 55]], "countries": [["Saudi Arabia", 70], ["United Arab Emirates", 20]],
+            "devices": [["mobile", 90], ["desktop", 30]], "pages": [["/jobs", 300], ["/job/a-1", 25]],
+            "events": [["apply_click", 14], ["share", 3]]}
+    s, h, t = brief.build(data, JOBS, "2026-11-04")
+    assert s.startswith("ControlRoles brief · 2026-11-04: 120 visitors (+50%")
+    assert "Organic Social (50%)" in h and "Senior Planner · AECOM" in h and "14 Apply clicks" in h and "75% of visitors were on a phone" in h
+    assert "Saudi Arabia: 70" in t
+    s2, _, _ = brief.build({}, JOBS, "2026-11-04")
+    assert "0 visitors" in s2

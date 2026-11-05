@@ -1,0 +1,38 @@
+name: Morning brief
+
+# Every morning: yesterday's visitors and traffic sources from Google Analytics, emailed to the owner.
+# Signs in to Google with Workload Identity (no stored key). Needs the RESEND_API_KEY secret to send.
+on:
+  schedule:
+    - cron: "5 4 * * *"   # 07:05 Riyadh time
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - id: google
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: projects/147126626136/locations/global/workloadIdentityPools/github/providers/controlroles-repo
+          service_account: controlroles-robot@controlroles-analytics.iam.gserviceaccount.com
+          token_format: access_token
+          access_token_scopes: https://www.googleapis.com/auth/analytics.readonly
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Send the morning brief
+        env:
+          GA_TOKEN: ${{ steps.google.outputs.access_token }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          BRIEF_TO: hello@controlroles.com
+        run: python -m collector.brief
