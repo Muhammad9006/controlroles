@@ -72,7 +72,7 @@ jobs:
           git add data/jobs.json data/state.json
           if ! git diff --cached --quiet; then
             git commit -m "Update jobs $(date -u +'%Y-%m-%d %H:%M')"
-            if git pull --rebase --autostash; then
+            if git pull --rebase --autostash -X theirs; then
               git push || echo "::warning::Could not save data to the repository; the website is still published."
             else
               git rebase --abort || true
