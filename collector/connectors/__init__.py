@@ -2,7 +2,7 @@
 {"id", "title", "location", "country_hint", "url", "posted"}  (posted = ISO date or "")
 `fetch` is injected so tests can replay saved responses instead of calling the internet.
 """
-from . import lever, oracle, smartrecruiters, workday, workable, greenhouse, jibe, peoplestrong, teamtailor
+from . import lever, oracle, smartrecruiters, workday, workable, greenhouse, jibe, peoplestrong, teamtailor, successfactors
 
 SYSTEMS = {
     "lever": lever.collect,
@@ -14,8 +14,9 @@ SYSTEMS = {
     "jibe": jibe.collect,
     "peoplestrong": peoplestrong.collect,
     "teamtailor": teamtailor.collect,
+    "successfactors": successfactors.collect,
 }
 
 # Optional: fetch one posting's full text so its requirements can be read (collector/skills.py)
 DESCRIBE = {name: mod.describe for name, mod in
-            {"lever": lever, "oracle": oracle, "smartrecruiters": smartrecruiters, "workday": workday, "workable": workable, "jibe": jibe, "peoplestrong": peoplestrong, "teamtailor": teamtailor}.items()}
+            {"lever": lever, "oracle": oracle, "smartrecruiters": smartrecruiters, "workday": workday, "workable": workable, "jibe": jibe, "peoplestrong": peoplestrong, "teamtailor": teamtailor, "successfactors": successfactors}.items()}

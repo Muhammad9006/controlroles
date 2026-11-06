@@ -432,6 +432,28 @@
       "system": "",
       "enabled": false,
       "note": "Roles imported by hand; no connector yet"
+    },
+    {
+      "name": "Khatib & Alami",
+      "type": "PMC",
+      "system": "successfactors",
+      "host": "careers.khatibalami.com",
+      "enabled": true
+    },
+    {
+      "name": "ROSHN",
+      "type": "Developer",
+      "system": "oracle",
+      "host": "fa-epph-saasfaprod1.fa.ocs.oraclecloud.com",
+      "site": "CX_1",
+      "enabled": true
+    },
+    {
+      "name": "Qiddiya",
+      "type": "Developer",
+      "system": "workable",
+      "account": "qiddiya-investment-company-1",
+      "enabled": true
     }
   ]
 }

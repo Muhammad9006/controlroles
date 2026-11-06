@@ -138,7 +138,7 @@ def page(j, base, today=None, img=None):
 <meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(url)}">
 <meta property="og:title" content="{esc(j['title'])} · {esc(j['emp'])} · {esc(loc)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(url)}"><link rel="icon" href="{esc(base)}/favicon.ico" sizes="48x48"><link rel="icon" href="{esc(base)}/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="{esc(base)}/apple-touch-icon.png"><meta property="og:type" content="website"><meta property="og:site_name" content="ControlRoles"><meta property="og:image" content="{esc(img)}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="{esc(j['title'])} at {esc(j['emp'])} · ControlRoles"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{esc(img)}">
 <script type="application/ld+json">{ld_json}</script>
-<script>if(!/{BOTS}/i.test(navigator.userAgent))location.replace({json.dumps(board)});</script><style>{CSS}</style></head>
+<script>if(!/{BOTS}/i.test(navigator.userAgent))location.replace({json.dumps(base + "/")}+location.search+{json.dumps(board[len(base) + 1:])});</script><style>{CSS}</style></head>
 <body><div class="wrap"><header class="top"><a class="logo" href="{esc(base)}/">{LOGO}Control<span>Roles</span></a><nav><a href="{esc(base)}/#jobs">All jobs</a><a href="{esc(base)}/#employers">Employers</a><a href="{esc(base)}/#alerts">Job alerts</a></nav></header>
 <main class="card"><h1>{esc(j['title'])}</h1><div class="meta"><b>{esc(j['emp'])}</b> · {esc(loc)}</div>
 <dl>{''.join(f'<div><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>' for k, v in facts)}</dl>
