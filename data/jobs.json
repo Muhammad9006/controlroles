@@ -2,6 +2,84 @@
  "generated": "6 Nov 2026",
  "jobs": [
   {
+   "id": "wsp-98818",
+   "title": "Senior Planner, Project Manager",
+   "emp": "WSP",
+   "type": "PMC",
+   "disc": "Planning",
+   "level": "Manager",
+   "city": "Ottawa",
+   "country": "Canada",
+   "region": "North America",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98818",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "ch0gu9beo",
+   "yrs": 10,
+   "deg": "B:business",
+   "rq": [
+    "With an unmatched breadth and depth of engineering, advisory and science‑based expertise, our global minds unite to power local solutions",
+    "Practice . The successful candidate will bring demonstrated expertise in municipal policy planning and land development, providing expert advice and innovative…",
+    "This role requires a highly organized, client-focused professional with a understanding of planning principles, legislation, and best practices…",
+    "University degree in Planning",
+    "A minimum of 10 years of progressive experience in a municipal or consulting environment"
+   ],
+   "pay": [
+    106800,
+    141400,
+    "USD",
+    "year"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "wsp-98989",
+   "title": "Program Director (Power & Energy) - Remote",
+   "emp": "WSP",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Director",
+   "city": "Freeport",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98989",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sector": [
+    "energy"
+   ],
+   "sk": "clm8tnw9g",
+   "yrs": 12,
+   "deg": "B:pm",
+   "rq": [
+    "Help develop, maintain, and update Project Initiation and governance documentation, including Risk Registers (REF/RMP), Project Management Plans (PMP), Project Quality Plans (QP)…",
+    "Bachelor’s degree in engineering, science, or a related major, or equivalent experience in a technical or engineering firm",
+    "12+ years of relevant post education experience in a project management role within our industry",
+    "Highly proficient understanding of project delivery process within the A/E/C industry and background and experience in project management",
+    "Advanced proficiency with analytical and organizational skills, with business acumen to bridge the business and project management"
+   ],
+   "pay": [
+    145400,
+    259100,
+    "USD",
+    "year"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "wsp-98890",
    "title": "Assistant Project Manager (Building Services)",
    "emp": "WSP",
@@ -19,6 +97,7 @@
    ],
    "sk": "btroxs",
    "deg": "B:construction",
+   "skChecked": "2026-11-06",
    "rq": [
     "Your role will be at the heart of our high performing team, using your skills and expertise to help us continue driving forward in terms of both technical quality and service efficiency",
     "Developing relationships with other WSP teams to utilise additional resources as required, and to help manage any potential cross selling opportunities",
@@ -26,9 +105,8 @@
     "Experience in managing a range of project management activities, systems (including enterprise resource planning) and processes",
     "The ability to work independently and as part of a team"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -50,6 +128,11 @@
    ],
    "sk": "jpj2kulxgqo",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid",
+    "training"
+   ],
    "rq": [
     "You'll be part of a friendly team spread across the UK and supported by our colleagues in India, so you'll have the capacity and expertise to deliver",
     "Manage contracts and change, ideally under NEC",
@@ -57,9 +140,78 @@
     "Experience in regulated or non-regulated water projects",
     "Membership of APM, PMI or ICE, or working towards it"
    ],
+   "fx": 1,
+   "fxChecked": "2026-11-06",
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "wsp-98990",
+   "title": "Estimator",
+   "emp": "WSP",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Mid",
+   "city": "New York",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98990",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "cgzh8kwzk",
+   "yrs": 3,
+   "yrsMax": 5,
+   "deg": "B:architecture",
+   "rq": [
+    "Bachelor's Degree from an accredited college or university with a major in architecture, construction management, engineering, environmental services or related course work",
+    "3-5 years of full time, technical experience in one of the estimating areas of architecture, electrical, mechanical or plumbing"
+   ],
+   "pay": [
+    94400,
+    135000,
+    "USD",
+    "year"
+   ],
    "ben": [
-    "hybrid",
-    "training"
+    "medical",
+    "pension",
+    "leave"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "wsp-98988",
+   "title": "Scheduler",
+   "emp": "WSP",
+   "type": "PMC",
+   "disc": "Planning",
+   "level": "Mid",
+   "city": "New York",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98988",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "27xgch",
+   "yrs": 3,
+   "yrsMax": 5,
+   "deg": "B:architecture",
+   "rq": [
+    "Utilize the computer program Primavera/Expedition",
+    "Baccalaureate Degree from an accredited college or university with a major in architecture, construction management, engineering, environmental services or related course work",
+    "3-5 years minimum experience in the scheduling of new, rehab, and additions/alterations types of construction projects",
+    "Experience in the developing of logical sequencing of the work, contract durations and phasing",
+    "Ability and the understanding to fully utilize the computer program Primavera/Expedition"
+   ],
+   "pay": [
+    94400,
+    135000,
+    "USD",
+    "year"
    ],
    "skChecked": "2026-11-06",
    "fxChecked": "2026-11-06",
@@ -84,15 +236,15 @@
    "yrs": 6,
    "yrsMax": 8,
    "deg": "B:mechanical,electrical",
+   "skChecked": "2026-11-06",
    "rq": [
     "Having basic knowledge of key building components and construction methods in construction related to MEP works",
     "Good skills on MS excel and word and ability to learn and adapt to customized software",
     "Degree in Mechanical/Electrical Engineering",
     "Experience- Minimum 6-8 years’ experience with building projects"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -113,15 +265,15 @@
    "yrs": 6,
    "yrsMax": 8,
    "deg": "B:mechanical,electrical",
+   "skChecked": "2026-11-06",
    "rq": [
     "Having basic knowledge of key building components and construction methods in construction related to MEP works",
     "Good skills on MS excel and word and ability to learn and adapt to customized software",
     "Degree in Mechanical/Electrical Engineering",
     "Experience- Minimum 6-8 years’ experience with building projects"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -142,11 +294,53 @@
    "yrs": 10,
    "yrsMax": 12,
    "deg": "B:mechanical,electrical",
+   "skChecked": "2026-11-06",
    "rq": [
     "Apply working knowledge of construction technologies and methods in cost planning tasks",
     "Good skills on MS excel and word and ability to learn and adapt to customized software",
     "Degree in Mechanical/Electrical Engineering",
     "Experience- Minimum 10-12 years’ experience with building projects"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-06",
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "aecom-744000160245824",
+   "title": "Mining Sector Project Manager",
+   "emp": "AECOM",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Anchorage",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000160245824",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sector": [
+    "industrial"
+   ],
+   "sk": "ch0plj01s",
+   "yrs": 6,
+   "deg": "B:engineering",
+   "rq": [
+    "Your ability to manage NEPA projects",
+    "Strong leadership, technical judgment, and the ability to resolve complex issues will be essential to project success",
+    "We respect and encourage your own pathway to excellence via our Freedom to Grow initiative",
+    "Bachelor's degree in Environmental Science, Engineering, Planning, or a related discipline",
+    "6 years of relevant experience or demonstrated equivalency of experience and/or education within NEPA and environmental permitting for mining-related infrastructure…"
+   ],
+   "elig": [
+    "citizen"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "shares"
    ],
    "skChecked": "2026-11-06",
    "fxChecked": "2026-11-06",
@@ -169,6 +363,13 @@
    "checked": "2026-11-06",
    "sk": "19x4ufs",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "This role offers an excellent opportunity to develop technical analytics capabilities while gaining broad exposure to project controls within complex project environments",
     "Experience using Power BI, Excel or similar analytics and reporting tools to analyse data and generate meaningful insights",
@@ -176,15 +377,8 @@
     "Strong analytical and problem-solving skills, with excellent attention to detail",
     "The ability to interpret complex datasets, identify issues and communicate findings effectively"
    ],
-   "sector": [
-    "water"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -203,6 +397,13 @@
    "checked": "2026-11-06",
    "sk": "19x4ufs",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "This role offers an excellent opportunity to develop technical analytics capabilities while gaining broad exposure to project controls within complex project environments",
     "Experience using Power BI, Excel or similar analytics and reporting tools to analyse data and generate meaningful insights",
@@ -210,15 +411,8 @@
     "Strong analytical and problem-solving skills, with excellent attention to detail",
     "The ability to interpret complex datasets, identify issues and communicate findings effectively"
    ],
-   "sector": [
-    "water"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -237,6 +431,13 @@
    "checked": "2026-11-06",
    "sk": "19x4ufs",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "This role offers an excellent opportunity to develop technical analytics capabilities while gaining broad exposure to project controls within complex project environments",
     "Experience using Power BI, Excel or similar analytics and reporting tools to analyse data and generate meaningful insights",
@@ -244,15 +445,8 @@
     "Strong analytical and problem-solving skills, with excellent attention to detail",
     "The ability to interpret complex datasets, identify issues and communicate findings effectively"
    ],
-   "sector": [
-    "water"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -271,6 +465,13 @@
    "checked": "2026-11-06",
    "sk": "19x4ufs",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "This role offers an excellent opportunity to develop technical analytics capabilities while gaining broad exposure to project controls within complex project environments",
     "Experience using Power BI, Excel or similar analytics and reporting tools to analyse data and generate meaningful insights",
@@ -278,15 +479,8 @@
     "Strong analytical and problem-solving skills, with excellent attention to detail",
     "The ability to interpret complex datasets, identify issues and communicate findings effectively"
    ],
-   "sector": [
-    "water"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -305,6 +499,13 @@
    "checked": "2026-11-06",
    "sk": "19x4ufs",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "This role offers an excellent opportunity to develop technical analytics capabilities while gaining broad exposure to project controls within complex project environments",
     "Experience using Power BI, Excel or similar analytics and reporting tools to analyse data and generate meaningful insights",
@@ -312,15 +513,8 @@
     "Strong analytical and problem-solving skills, with excellent attention to detail",
     "The ability to interpret complex datasets, identify issues and communicate findings effectively"
    ],
-   "sector": [
-    "water"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -339,6 +533,13 @@
    "checked": "2026-11-06",
    "sk": "19x4ufs",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "sector": [
+    "water"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "This role offers an excellent opportunity to develop technical analytics capabilities while gaining broad exposure to project controls within complex project environments",
     "Experience using Power BI, Excel or similar analytics and reporting tools to analyse data and generate meaningful insights",
@@ -346,15 +547,8 @@
     "Strong analytical and problem-solving skills, with excellent attention to detail",
     "The ability to interpret complex datasets, identify issues and communicate findings effectively"
    ],
-   "sector": [
-    "water"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -376,13 +570,7 @@
    ],
    "sk": "14sccub",
    "deg": "B",
-   "rq": [
-    "Operating across geographic boundaries and time-zones, EC partners with regional and Global Business Line project teams to provide technical expertise…",
-    "Operating at a senior level, this role requires scheduling expertise, the ability to influence and challenge stakeholders…",
-    "Program Planning & Technical Excellence",
-    "Electrical or Mechanical engineering degree with at least 15 year's experience",
-    "Experience in Data Center projects or large, complex technical programs"
-   ],
+   "skChecked": "2026-11-06",
    "ben": [
     "medical",
     "pension",
@@ -391,9 +579,15 @@
     "training",
     "shares"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Operating across geographic boundaries and time-zones, EC partners with regional and Global Business Line project teams to provide technical expertise…",
+    "Operating at a senior level, this role requires scheduling expertise, the ability to influence and challenge stakeholders…",
+    "Program Planning & Technical Excellence",
+    "Electrical or Mechanical engineering degree with at least 15 year's experience",
+    "Experience in Data Center projects or large, complex technical programs"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -415,6 +609,13 @@
    ],
    "sk": "zjkadzwg",
    "deg": "B:qs",
+   "skChecked": "2026-11-06",
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "As the successful candidate, you will have experience working across a range of sectors and will possess the following qualifications, skills, and experience",
     "Degree qualified in Quantity Surveying or a related discipline",
@@ -422,15 +623,8 @@
     "Experience in measurement and quantification, including the use of CostX software",
     "Experience in the preparation of Bills of Quantities and cost planning"
    ],
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -450,13 +644,7 @@
    "sk": "ch0qkxs00",
    "yrs": 15,
    "deg": "B:qs",
-   "rq": [
-    "Bachelor’s degree in Quantity Surveying, Commercial Management, Engineering, or a related field",
-    "15+ years’ experience in commercial management on large-scale infrastructure or rail programs",
-    "Strong working knowledge of FIDIC, NEC, or similar contract frameworks and change/claims processes",
-    "Excellent negotiation, analytical, and communication skills with a track record of stakeholder engagement",
-    "Ability to work effectively in fast-paced, multi-disciplinary environments and matrix organizations"
-   ],
+   "skChecked": "2026-11-06",
    "sector": [
     "rail",
     "water"
@@ -468,9 +656,15 @@
     "training",
     "shares"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Bachelor’s degree in Quantity Surveying, Commercial Management, Engineering, or a related field",
+    "15+ years’ experience in commercial management on large-scale infrastructure or rail programs",
+    "Strong working knowledge of FIDIC, NEC, or similar contract frameworks and change/claims processes",
+    "Excellent negotiation, analytical, and communication skills with a track record of stakeholder engagement",
+    "Ability to work effectively in fast-paced, multi-disciplinary environments and matrix organizations"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -490,12 +684,7 @@
    "sk": "dvbufhlvk",
    "yrs": 20,
    "deg": "B:civil",
-   "rq": [
-    "Bachelor’s Degree in Civil Engineering or related discipline (BSc, BEng, or MEng)",
-    "Chartered status or membership of a recognized professional institution (MICE, MCIOB, MRICS) preferred",
-    "PMP or equivalent Project Management certification is an advantage",
-    "Minimum 20 years of experience in managing large-scale rail projects"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -510,9 +699,14 @@
     "training",
     "shares"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Bachelor’s Degree in Civil Engineering or related discipline (BSc, BEng, or MEng)",
+    "Chartered status or membership of a recognized professional institution (MICE, MCIOB, MRICS) preferred",
+    "PMP or equivalent Project Management certification is an advantage",
+    "Minimum 20 years of experience in managing large-scale rail projects"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -533,13 +727,7 @@
    "yrs": 3,
    "yrsMax": 5,
    "deg": "B",
-   "rq": [
-    "Develops knowledge of accounting principles",
-    "Familiar with earned value, scope control and change management concepts, principles and methodologies",
-    "Familiar with the concepts and principles of project revenue and cost",
-    "Develops knowledge of scope control and change management",
-    "Supports project reporting process as required"
-   ],
+   "skChecked": "2026-11-06",
    "sector": [
     "water"
    ],
@@ -551,9 +739,15 @@
     "training",
     "shares"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Develops knowledge of accounting principles",
+    "Familiar with earned value, scope control and change management concepts, principles and methodologies",
+    "Familiar with the concepts and principles of project revenue and cost",
+    "Develops knowledge of scope control and change management",
+    "Supports project reporting process as required"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -601,6 +795,75 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "kbr-r2128110",
+   "title": "Senior Planning Manager - Saudi National",
+   "emp": "KBR",
+   "type": "PMC",
+   "disc": "Planning",
+   "level": "Manager",
+   "city": "Riyadh",
+   "country": "Saudi Arabia",
+   "region": "GCC",
+   "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Riyadh-Riyadh-Saudi-Arabia/Senior-Planning-Manager---Saudi-National_R2128110",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "elig": [
+    "nat"
+   ],
+   "sk": "1qcxscycjl",
+   "deg": "B:construction,architecture",
+   "rq": [
+    "Minimum overall relevant experience 15 years",
+    "Minimum relevant experience 5 years in the role projects",
+    "Minimum Regional Experience 5years",
+    "Professional memberships and charterships required",
+    "Sound knowledge of all engineering and commercial aspects of major civil and infrastructure projects"
+   ],
+   "ben": [
+    "training"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "kbr-r2130684",
+   "title": "Senior Commercial Manager",
+   "emp": "KBR",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "Riyadh",
+   "country": "Saudi Arabia",
+   "region": "GCC",
+   "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Riyadh-Riyadh-Saudi-Arabia/Senior-Commercial-Manager_R2130684",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "1qxz6763wg",
+   "yrs": 15,
+   "deg": "B:qs",
+   "rq": [
+    "In doing so, ensures timely production of all required commercial deliverables by KBR",
+    "Bachelor’s degree in engineering or quantity surveying",
+    "Minimum 15 years post-graduation experience",
+    "Certified as MRICS, CIOB, or equivalent",
+    "Sound knowledge of commercial aspects of major civil & infrastructure projects including urban developments, roads, bridges…"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "training"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "kbr-r2131604",
    "title": "quantity surveyor",
    "emp": "KBR",
@@ -615,10 +878,217 @@
    "checked": "2026-11-06",
    "sk": "cgzhnl0cg",
    "deg": "B:mechanical",
+   "skChecked": "2026-11-06",
    "rq": [
     "These include world-class licensed process technologies, differentiated advisory services, deep technical domain expertise, energy transition solutions…",
     "A quantity surveyor with Onshore Site experience in MEGA EPC projects to be based in Abu Dhabi for PMC project",
     "Bachelor’s degree in engineering Mechanical is a MUST"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-06",
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "turner-and-townsend-744000160240366",
+   "title": "Cost Manager - Central & Local Government",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000160240366",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "4xds1t9ro5c",
+   "deg": "D",
+   "rq": [
+    "Experience in Cost Management, Contract Management (JCT and NEC), Procurement, and Risk Management",
+    "Knowledge of cost planning, estimating, valuation, reporting, and change control processes",
+    "A collaborative approach with the ability to build effective working relationships",
+    "The ability to identify efficiencies and drive improvements throughout the project lifecycle",
+    "Degree or HNC level qualification"
+   ],
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "turner-and-townsend-744000160238799",
+   "title": "Project Manager-Industrial Manufacturing Facility Construction",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Louisville",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000160238799",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sector": [
+    "industrial"
+   ],
+   "sk": "ci6wve902",
+   "yrs": 5,
+   "yrsMax": 8,
+   "deg": "B",
+   "rq": [
+    "Define the project delivery resources from pre-qualified lists or through the project qualification process",
+    "Demonstrate ability to identify project threats and develop risk mitigation and contingency plans",
+    "Mentor others and share in-depth knowledge of be responsible for your job subject area and broad understanding of several job fields within the function",
+    "Bachelor's Degree preferred with 5-8 years of relevant experience",
+    "In lieu of a degree, a combination of experience and education will be considered"
+   ],
+   "elig": [
+    "nosponsor"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "turner-and-townsend-744000160227947",
+   "title": "Senior Cost Manager / Quantity Surveyor - Industrial / Manufacturing Construction",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Cost & Commercial",
+   "level": "Manager",
+   "city": "Raleigh",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000160227947",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sector": [
+    "industrial"
+   ],
+   "sk": "cooq1v7cw",
+   "yrs": 5,
+   "yrsMax": 7,
+   "deg": "B:qs,construction,business",
+   "rq": [
+    "Display excellence in leadership and service delivery in accordance with project and client requirements",
+    "SOX control responsibilities may be part of this role and must be adhered to where applicable",
+    "Bachelor's degree in Construction Management, Quantity Surveying, Engineering, Cost Management, or a related construction discipline",
+    "Minimum 5-7 years of relevant experience in cost management, quantity surveying, estimating, or commercial management within the construction industry",
+    "RICS accreditation or progress toward accreditation is preferred"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "turner-and-townsend-744000160222329",
+   "title": "Senior Construction Project Manager- Ground-Up Projects",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Nashville",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000160222329",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "chg9x4jdc",
+   "yrs": 5,
+   "yrsMax": 7,
+   "deg": "B:civil,construction,business",
+   "rq": [
+    "Production of formal project status reports and other reports as required",
+    "Bachelor’s degree in construction management, civil engineering, or applicable bachelor’s degree and or equivalent experience",
+    "Minimum 5-7 years of relevant project management experience",
+    "The ability to work effectively and collaboratively with the broader team",
+    "Proficiency in Excel, Word, PowerPoint, Outlook, Procore, and construction project management tools"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "turner-and-townsend-744000160214989",
+   "title": "Assistant Project Manager- Municipal / Wastewater",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Mid",
+   "city": "La Plata",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000160214989",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sector": [
+    "water"
+   ],
+   "sk": "chffsq48y",
+   "deg": "B:construction,architecture",
+   "rq": [
+    "The ideal candidate will have experience with water/wastewater treatment facilities, pumping stations, and water collection and distribution systems",
+    "Review and make relevant comments concerning the terms of the construction agreement, the submitted subcontracts, architectural and engineering design agreements…",
+    "Designer's certification of code and ADA compliance",
+    "Bachelor's degree in architecture, Engineering, Construction Management, or related field",
+    "Knowledge of critical path method scheduling"
+   ],
+   "ben": [
+    "hybrid"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "turner-and-townsend-744000160210229",
+   "title": "Senior Construction Project Manager- Mission Critical Government Facilities- Caribbean- St. Lucia",
+   "emp": "Turner & Townsend",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Miami",
+   "country": "United States",
+   "region": "North America",
+   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000160210229",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "chg9x4jdc",
+   "deg": "B:civil,construction,pm",
+   "rq": [
+    "Production of formal project status reports and other reports as required",
+    "Bachelor’s degree in construction management, civil engineering, or applicable bachelor’s degree and or equivalent experience",
+    "Minimum 10 years of relevant project management experience",
+    "The ability to work effectively and collaboratively with the broader team",
+    "Proficiency in Excel, Word, PowerPoint, Outlook, Procore, and construction project management tools"
+   ],
+   "ben": [
+    "hybrid"
    ],
    "skChecked": "2026-11-06",
    "fxChecked": "2026-11-06",
@@ -645,8 +1115,8 @@
    "sk": "3",
    "deg": "B",
    "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -666,6 +1136,10 @@
    "sk": "jpxydy77qbo",
    "yrs": 5,
    "deg": "B:qs,construction,pm",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Bachelor's degree in Engineering, Construction Management, Quantity Surveying, Project Management, Risk Management, Business Management, in a related discipline (or suitably experienced)",
     "Professional certification in project or risk management such as: PMI Risk Management Professional (PMI-RMP)",
@@ -673,12 +1147,8 @@
     "IRM International Certificate in Enterprise Risk Management",
     "Typically 5+ years' experience in project controls, programme management, risk management, or major project delivery environments"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -698,21 +1168,21 @@
    "sk": "yyku8",
    "yrs": 5,
    "deg": "B",
-   "rq": [
-    "Minimum of 5 years proven project management experience in either an M&E, FM ,construction or critical environment",
-    "Minimum of 5 years experience of developing new project opportunities",
-    "Proven experience of running a P&L",
-    "Experience of creating, presenting and managing on bids, tenders and proposals"
-   ],
+   "skChecked": "2026-11-06",
    "sector": [
     "oilgas"
    ],
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Minimum of 5 years proven project management experience in either an M&E, FM ,construction or critical environment",
+    "Minimum of 5 years experience of developing new project opportunities",
+    "Proven experience of running a P&L",
+    "Experience of creating, presenting and managing on bids, tenders and proposals"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -731,12 +1201,12 @@
    "checked": "2026-11-06",
    "sk": "wk0cwlu",
    "deg": "B",
+   "skChecked": "2026-11-06",
    "rq": [
     "Certificaciones PMP, CCM, LEED AP o equivalentes serán consideradas un plus"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -758,6 +1228,10 @@
    ],
    "sk": "co8yh4ydg",
    "deg": "B:qs",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience in contract management, contract change management or commercial management on major infrastructure, engineering or energy programmes",
     "Strong commercial acumen with the ability to evaluate value for money and contractual performance",
@@ -765,12 +1239,8 @@
     "Excellent stakeholder management and communication skills, with the ability to influence at all organisational levels",
     "Knowledge of NEC, FIDIC or other standard forms of contract"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -792,6 +1262,10 @@
    ],
    "sk": "co8yh4ydg",
    "deg": "B:qs",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience in contract management, contract change management or commercial management on major infrastructure, engineering or energy programmes",
     "Strong commercial acumen with the ability to evaluate value for money and contractual performance",
@@ -799,12 +1273,8 @@
     "Excellent stakeholder management and communication skills, with the ability to influence at all organisational levels",
     "Knowledge of NEC, FIDIC or other standard forms of contract"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -826,6 +1296,10 @@
    ],
    "sk": "co8yh4ydg",
    "deg": "B:qs",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience in contract management, contract change management or commercial management on major infrastructure, engineering or energy programmes",
     "Strong commercial acumen with the ability to evaluate value for money and contractual performance",
@@ -833,12 +1307,8 @@
     "Excellent stakeholder management and communication skills, with the ability to influence at all organisational levels",
     "Knowledge of NEC, FIDIC or other standard forms of contract"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -860,6 +1330,10 @@
    ],
    "sk": "8wn1gcg",
    "deg": "B:qs",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "The successful candidate will bring experience in both pre- and post-contract management of high-value agreements…",
     "Demonstrable experience in procurement, commercial management, contract management or supply chain roles, preferably within the renewable energy, utilities, infrastructure…",
@@ -867,12 +1341,8 @@
     "Familiarity with standard forms of contract such as NEC, FIDIC, LOGIC or equivalent industry contracts",
     "Ability to build and maintain relationships with internal and external stakeholders"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -894,6 +1364,10 @@
    ],
    "sk": "8wn1gcg",
    "deg": "B:qs",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "The successful candidate will bring experience in both pre- and post-contract management of high-value agreements…",
     "Demonstrable experience in procurement, commercial management, contract management or supply chain roles, preferably within the renewable energy, utilities, infrastructure…",
@@ -901,12 +1375,8 @@
     "Familiarity with standard forms of contract such as NEC, FIDIC, LOGIC or equivalent industry contracts",
     "Ability to build and maintain relationships with internal and external stakeholders"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -928,6 +1398,10 @@
    ],
    "sk": "8wn1gcg",
    "deg": "B:qs",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "The successful candidate will bring experience in both pre- and post-contract management of high-value agreements…",
     "Demonstrable experience in procurement, commercial management, contract management or supply chain roles, preferably within the renewable energy, utilities, infrastructure…",
@@ -935,12 +1409,8 @@
     "Familiarity with standard forms of contract such as NEC, FIDIC, LOGIC or equivalent industry contracts",
     "Ability to build and maintain relationships with internal and external stakeholders"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -962,13 +1432,7 @@
    ],
    "sk": "d92piults",
    "deg": "B:business",
-   "rq": [
-    "Experience in preparing project contracting strategies, ITTs and drafting contract documents and award recommendations etc.…",
-    "Significant demonstratable experience in contracts management preferably within the Energy sector",
-    "Bachelor’s degree qualification in Supply Chain Management /Engineering /Business/ Law or equivalent",
-    "MCIPS (Chartered Institute of Procurement & Supply) Qualification would be preferred but not essential",
-    "Extensive knowledge of Contracts for Offshore/Onshore operations"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -980,9 +1444,15 @@
     "training"
    ],
    "leave": 25,
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Experience in preparing project contracting strategies, ITTs and drafting contract documents and award recommendations etc.…",
+    "Significant demonstratable experience in contracts management preferably within the Energy sector",
+    "Bachelor’s degree qualification in Supply Chain Management /Engineering /Business/ Law or equivalent",
+    "MCIPS (Chartered Institute of Procurement & Supply) Qualification would be preferred but not essential",
+    "Extensive knowledge of Contracts for Offshore/Onshore operations"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1004,6 +1474,10 @@
    ],
    "sk": "ch0hqjocg",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "As a Contract Manager, you have a passion to provide services as required by our clients, which may include",
     "Demonstrable stakeholder engagement and management skills are essential, as is the ability to influence, lead and resolve disputes together with problem solving",
@@ -1011,12 +1485,8 @@
     "Bachelor’s degree in Supply Chain Management, Engineering, Business, Law, or an equivalent discipline",
     "MCIPS qualification preferred but not essential"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1038,6 +1508,13 @@
    ],
    "sk": "1d3wf53i8",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
     "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
@@ -1045,15 +1522,8 @@
     "Previous experience of working with estimating software packages",
     "Membership of a relevant professional body with chartered status or working towards"
    ],
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1075,6 +1545,10 @@
    ],
    "sk": "l1nwi0ow",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "It’s how we’ve made the difference for 75 years",
     "Staying abreast of developments within own technical area of expertise",
@@ -1082,12 +1556,8 @@
     "Previous experience of working with estimating software packages",
     "Desirable membership of RICS / CIOB /A. Cost E"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1109,6 +1579,13 @@
    ],
    "sk": "s28jw0zk",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Owing to continued demand and our ambitious plans for growth, Turner & Townsend are looking to recruit Lead/Senior Estimators with proven experience in the Rail sector",
     "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
@@ -1116,15 +1593,8 @@
     "Membership of a relevant professional body with chartered status or working towards",
     "Detailed knowledge of cost planning, estimating, process and techniques"
    ],
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1143,6 +1613,13 @@
    "checked": "2026-11-06",
    "sk": "du3ftrchs",
    "deg": "B:qs,business",
+   "skChecked": "2026-11-06",
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
     "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
@@ -1150,15 +1627,8 @@
     "Wide and varied experience of estimating methodology, Parametric, Unit Rate, Benchmarking, etc",
     "Relevant successful experience of provision of estimating and/or QS services in a large project environment"
    ],
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1180,6 +1650,10 @@
    ],
    "sk": "l1olh05c",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Staying abreast of developments within own technical area of expertise",
     "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
@@ -1187,12 +1661,8 @@
     "Desirable membership of RICS / CIOB /A. Cost E",
     "Experience of working on Major Programmes and Projects in the Water sector is essential"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1211,13 +1681,7 @@
    "checked": "2026-11-06",
    "sk": "9us4nflcagw",
    "deg": "B",
-   "rq": [
-    "Provide opportunities for professional development (working with industry leading professionals, RICS Chartership development support, NEC accreditation)",
-    "Tendering and procuring, including managing the pre-qualification stage, producing the tender list, producing the preliminaries, tender analysis…",
-    "Ability to work with autonomy",
-    "Working towards or recently achieved Chartered Status",
-    "Highly organised and ability to prioritise own workload"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -1225,9 +1689,15 @@
     "hybrid",
     "training"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Provide opportunities for professional development (working with industry leading professionals, RICS Chartership development support, NEC accreditation)",
+    "Tendering and procuring, including managing the pre-qualification stage, producing the tender list, producing the preliminaries, tender analysis…",
+    "Ability to work with autonomy",
+    "Working towards or recently achieved Chartered Status",
+    "Highly organised and ability to prioritise own workload"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1246,13 +1716,7 @@
    "checked": "2026-11-06",
    "sk": "1d3wf53i8",
    "deg": "B:business",
-   "rq": [
-    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
-    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
-    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
-    "Previous experience of working with estimating software packages",
-    "Membership of a relevant professional body with chartered status or working towards"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -1262,9 +1726,15 @@
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
+    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
+    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
+    "Previous experience of working with estimating software packages",
+    "Membership of a relevant professional body with chartered status or working towards"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1283,6 +1753,13 @@
    "checked": "2026-11-06",
    "sk": "l1olh05c",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "sector": [
+    "energy"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Staying abreast of developments within own technical area of expertise",
     "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
@@ -1290,15 +1767,8 @@
     "Desirable membership of RICS / CIOB /A. Cost E",
     "Experience of working on Major Programmes and Projects"
    ],
-   "sector": [
-    "energy"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1317,13 +1787,7 @@
    "checked": "2026-11-06",
    "sk": "1d3wf53i8",
    "deg": "B:business",
-   "rq": [
-    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
-    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
-    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
-    "Previous experience of working with estimating software packages",
-    "Membership of a relevant professional body with chartered status or working towards"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -1333,9 +1797,15 @@
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
+    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
+    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
+    "Previous experience of working with estimating software packages",
+    "Membership of a relevant professional body with chartered status or working towards"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1354,13 +1824,7 @@
    "checked": "2026-11-06",
    "sk": "1d3wf53i8",
    "deg": "B:business",
-   "rq": [
-    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
-    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
-    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
-    "Previous experience of working with estimating software packages",
-    "Membership of a relevant professional body with chartered status or working towards"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -1370,9 +1834,15 @@
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
+    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
+    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
+    "Previous experience of working with estimating software packages",
+    "Membership of a relevant professional body with chartered status or working towards"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1391,13 +1861,7 @@
    "checked": "2026-11-06",
    "sk": "1d3wf53i8",
    "deg": "B:business",
-   "rq": [
-    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
-    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
-    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
-    "Previous experience of working with estimating software packages",
-    "Membership of a relevant professional body with chartered status or working towards"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -1408,9 +1872,15 @@
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
+    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
+    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
+    "Previous experience of working with estimating software packages",
+    "Membership of a relevant professional body with chartered status or working towards"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1429,13 +1899,7 @@
    "checked": "2026-11-06",
    "sk": "1d3wf53i8",
    "deg": "B:business",
-   "rq": [
-    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
-    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
-    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
-    "Previous experience of working with estimating software packages",
-    "Membership of a relevant professional body with chartered status or working towards"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -1445,9 +1909,15 @@
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
+    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
+    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
+    "Previous experience of working with estimating software packages",
+    "Membership of a relevant professional body with chartered status or working towards"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1466,13 +1936,7 @@
    "checked": "2026-11-06",
    "sk": "1d3wf53i8",
    "deg": "B:business",
-   "rq": [
-    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
-    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
-    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
-    "Previous experience of working with estimating software packages",
-    "Membership of a relevant professional body with chartered status or working towards"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -1482,9 +1946,15 @@
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
+    "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
+    "Relevant successful experience of provision of estimating and/or QS services in a large project environment",
+    "Previous experience of working with estimating software packages",
+    "Membership of a relevant professional body with chartered status or working towards"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1506,6 +1976,10 @@
    ],
    "sk": "jpia9rf5wqt",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Familiarity with web-based database tools",
     "Candidates with proven experience in a risk delivery role on major projects/programmes",
@@ -1513,12 +1987,8 @@
     "Further, candidates are expected to have excellent communication skills (oral and written) and be genuinely committed to finding new and more effective ways of working",
     "Candidates will ideally be degree qualified in a construction related subject"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1540,6 +2010,10 @@
    ],
    "sk": "2xi9zl",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Infrastructure sector (Ideally Airports) would be beneficial, however, In order to be able to carry out the duties of the role as required…",
     "Earned value, progress updating, cost control, change control, baseline management, reporting, P6 environment",
@@ -1547,12 +2021,8 @@
     "You will also be familiar with financial/procurement systems such as Oracle and SAP and web-based project control tools",
     "Typically, a qualified graduate in a relevant discipline with some relevant work experience or previous proven experience in a project control environment"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1574,6 +2044,10 @@
    ],
    "sk": "2xi9zl",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Infrastructure sector would be beneficial, however, In order to be able to carry out the duties of the role as required…",
     "Earned value, progress updating, cost control, change control, baseline management, reporting, P6 environment",
@@ -1581,12 +2055,8 @@
     "You will also be familiar with financial/procurement systems such as Oracle and SAP and web-based project control tools",
     "Typically, a qualified graduate in a relevant discipline with some relevant work experience or previous proven experience in a project control environment"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1608,6 +2078,10 @@
    ],
    "sk": "oyzgh",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Owing to the complex nature of the works involved, these roles will suit Project Controls Managers with proven backgrounds and experience in sectors such as rail, aviation…",
     "Experience in performing, monitoring, and reviewing planning and scheduling functions, which include schedule development, control, and analysis, in the field and the home office",
@@ -1615,12 +2089,8 @@
     "Proficiency with multiple discipline specific software applications such as Primavera (P6) and Microsoft Office Applications, for example Intermediate level of knowledge of engineering…",
     "Knowledge of engineering and construction management"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1642,6 +2112,10 @@
    ],
    "sk": "jpia9rf5wqt",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Familiarity with web-based database tools",
     "Candidates with proven experience in a risk delivery role on major projects/programmes",
@@ -1649,12 +2123,8 @@
     "Further, candidates are expected to have excellent communication skills (oral and written) and be genuinely committed to finding new and more effective ways of working",
     "Candidates will ideally be degree qualified in a construction related subject"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1676,6 +2146,10 @@
    ],
    "sk": "2xi9zl",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Infrastructure sector would be beneficial, however, In order to be able to carry out the duties of the role as required…",
     "Earned value, progress updating, cost control, change control, baseline management, reporting, P6 environment",
@@ -1683,12 +2157,8 @@
     "You will also be familiar with financial/procurement systems such as Oracle and SAP and web-based project control tools",
     "Typically, a qualified graduate in a relevant discipline with some relevant work experience or previous proven experience in a project control environment"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1707,6 +2177,10 @@
    "checked": "2026-11-06",
    "sk": "jpia9rf5wqt",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Familiarity with web-based database tools",
     "Candidates with proven experience in a risk delivery role on major projects/programmes",
@@ -1714,12 +2188,8 @@
     "Further, candidates are expected to have excellent communication skills (oral and written) and be genuinely committed to finding new and more effective ways of working",
     "Candidates will ideally be degree qualified in a construction related subject"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1738,13 +2208,7 @@
    "checked": "2026-11-06",
    "sk": "oyzgh",
    "deg": "B",
-   "rq": [
-    "Owing to the complex nature of the works involved, these roles will suit Project Controls Managers with proven backgrounds and experience in sectors such as rail, aviation, power…",
-    "Experience in performing, monitoring, and reviewing planning and scheduling functions, which include schedule development, control, and analysis, in the field and the home office",
-    "Proficiency with PC operating systems, with proficiency in several basic software applications",
-    "Proficiency with multiple discipline specific software applications such as Primavera (P6) and Microsoft Office Applications, for example Intermediate level of knowledge of engineering…",
-    "Knowledge of engineering and construction management"
-   ],
+   "skChecked": "2026-11-06",
    "sector": [
     "rail",
     "energy"
@@ -1752,9 +2216,15 @@
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Owing to the complex nature of the works involved, these roles will suit Project Controls Managers with proven backgrounds and experience in sectors such as rail, aviation, power…",
+    "Experience in performing, monitoring, and reviewing planning and scheduling functions, which include schedule development, control, and analysis, in the field and the home office",
+    "Proficiency with PC operating systems, with proficiency in several basic software applications",
+    "Proficiency with multiple discipline specific software applications such as Primavera (P6) and Microsoft Office Applications, for example Intermediate level of knowledge of engineering…",
+    "Knowledge of engineering and construction management"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1773,6 +2243,10 @@
    "checked": "2026-11-06",
    "sk": "2xi9zl",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Infrastructure sector (Ideally Airports, Rail, Water, Utilities or Highways) would be beneficial, however, In order to be able to carry out the duties of the role as required…",
     "Earned value, progress updating, cost control, change control, baseline management, reporting, P6 environment",
@@ -1780,12 +2254,8 @@
     "You will also be familiar with financial/procurement systems such as Oracle and SAP and web-based project control tools",
     "Typically, a qualified graduate in a relevant discipline with some relevant work experience or previous proven experience in a project control environment"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1807,6 +2277,10 @@
    ],
    "sk": "oyzgh",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Experience in performing, monitoring, and reviewing planning and scheduling functions, which include schedule development, control, and analysis, in the field and the home office",
     "Proficiency with PC operating systems, with proficiency in several basic software applications",
@@ -1814,12 +2288,8 @@
     "Primavera (P6) and Microsoft Office Applications, for example",
     "Intermediate level of knowledge of engineering, procurement, contracts, construction, and start-up work processes"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1838,13 +2308,7 @@
    "checked": "2026-11-06",
    "sk": "oyzgh",
    "deg": "B",
-   "rq": [
-    "Owing to the complex nature of the works involved, these roles will suit Project Controls Managers with proven backgrounds and experience in sectors such as rail, aviation, power…",
-    "Experience in performing, monitoring, and reviewing planning and scheduling functions, which include schedule development, control, and analysis, in the field and the home office",
-    "Proficiency with PC operating systems, with proficiency in several basic software applications",
-    "Proficiency with multiple discipline specific software applications such as Primavera (P6) and Microsoft Office Applications, for example Intermediate level of knowledge of engineering…",
-    "Knowledge of engineering and construction management"
-   ],
+   "skChecked": "2026-11-06",
    "sector": [
     "rail",
     "energy"
@@ -1852,9 +2316,15 @@
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Owing to the complex nature of the works involved, these roles will suit Project Controls Managers with proven backgrounds and experience in sectors such as rail, aviation, power…",
+    "Experience in performing, monitoring, and reviewing planning and scheduling functions, which include schedule development, control, and analysis, in the field and the home office",
+    "Proficiency with PC operating systems, with proficiency in several basic software applications",
+    "Proficiency with multiple discipline specific software applications such as Primavera (P6) and Microsoft Office Applications, for example Intermediate level of knowledge of engineering…",
+    "Knowledge of engineering and construction management"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1876,6 +2346,10 @@
    ],
    "sk": "oyzgh",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "4.Monitor so that data input by project teams and others to cost and performance systems meet required data standards",
     "Experience in performing, monitoring, and reviewing planning and scheduling functions, which include schedule development, control, and analysis, in the field and the home office",
@@ -1883,12 +2357,8 @@
     "Proficiency with multiple discipline specific software applications such as Primavera (P6) and Microsoft Office Applications, for example Intermediate level of knowledge of engineering…",
     "Knowledge of engineering and construction management"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1907,13 +2377,7 @@
    "checked": "2026-11-06",
    "sk": "1tju4h",
    "deg": "B",
-   "rq": [
-    "Owing to the complex nature of the works involved, these roles will suit Project Controls specialists with proven backgrounds and experience in sectors such as rail, aviation, power…",
-    "Involvement in technical services delivery including supporting the centre of expertise in developing and implementing the PMO project controls service",
-    "Relevant technical degree and management qualifications",
-    "Experience of risk management, change control information management and reporting within complex projects, and integration of same",
-    "Working knowledge of proprietary cost management systems such as Prism and Unifier"
-   ],
+   "skChecked": "2026-11-06",
    "sector": [
     "rail",
     "aviation"
@@ -1922,9 +2386,15 @@
     "hybrid",
     "training"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Owing to the complex nature of the works involved, these roles will suit Project Controls specialists with proven backgrounds and experience in sectors such as rail, aviation, power…",
+    "Involvement in technical services delivery including supporting the centre of expertise in developing and implementing the PMO project controls service",
+    "Relevant technical degree and management qualifications",
+    "Experience of risk management, change control information management and reporting within complex projects, and integration of same",
+    "Working knowledge of proprietary cost management systems such as Prism and Unifier"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1943,6 +2413,10 @@
    "checked": "2026-11-06",
    "sk": "2xi9zl",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Infrastructure sector (Ideally Airports, Rail, Utilities or Defence) would be beneficial, however, In order to be able to carry out the duties of the role as required…",
     "Earned value, progress updating, cost control, change control, baseline management, reporting, P6 environment",
@@ -1950,12 +2424,8 @@
     "You will also be familiar with financial/procurement systems such as Oracle and SAP and web-based project control tools",
     "Typically, a qualified graduate in a relevant discipline with some relevant work experience or previous proven experience in a project control environment"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -1977,6 +2447,10 @@
    ],
    "sk": "2xi9zl",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Infrastructure sector (Ideally Airports, Rail, Utilities or Highways) would be beneficial, however, In order to be able to carry out the duties of the role as required…",
     "Earned value, progress updating, cost control, change control, baseline management, reporting, P6 environment",
@@ -1984,12 +2458,8 @@
     "You will also be familiar with financial/procurement systems such as Oracle and SAP and web-based project control tools",
     "Typically, a qualified graduate in a relevant discipline with some relevant work experience or previous proven experience in a project control environment"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2008,6 +2478,13 @@
    "checked": "2026-11-06",
    "sk": "oyzgh",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "sector": [
+    "rail"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Owing to the complex nature of the works involved, these roles will suit Project Controls Managers with proven backgrounds and experience in sectors such as rail, aviation…",
     "Experience in performing, monitoring, and reviewing planning and scheduling functions, which include schedule development, control, and analysis, in the field and the home office",
@@ -2015,15 +2492,8 @@
     "Proficiency with multiple discipline specific software applications such as Primavera (P6) and Microsoft Office Applications, for example Intermediate level of knowledge of engineering…",
     "Knowledge of engineering and construction management"
    ],
-   "sector": [
-    "rail"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2045,6 +2515,10 @@
    ],
    "sk": "bsiqrt",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Collation of progress data from multi-discipline teams to update project/programme schedule in Primavera P6",
     "Typically, a qualified graduate in a relevant discipline with some experience in a project control environment",
@@ -2052,12 +2526,8 @@
     "Experience using controls/ general software applications such as Primavera (P6), Power BI, Microsoft Office Applications",
     "Reliable with the ability to work autonomously and as part of a team"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2076,13 +2546,7 @@
    "checked": "2026-11-06",
    "sk": "1tju2o",
    "deg": "B",
-   "rq": [
-    "Controls specialists with proven backgrounds and experience in sectors such as rail, aviation, power, water/utilities, highways or defence",
-    "Involvement in technical services delivery including supporting the centre of expertise in developing and implementing the PMO project controls service",
-    "Relevant technical degree and management qualifications",
-    "Experience of risk management, change control information management and reporting within complex projects, and integration of same",
-    "The ability to manage and mentor a team of specialists in the above fields, enabling training and development for junior staff members"
-   ],
+   "skChecked": "2026-11-06",
    "sector": [
     "energy"
    ],
@@ -2090,9 +2554,15 @@
     "hybrid",
     "training"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Controls specialists with proven backgrounds and experience in sectors such as rail, aviation, power, water/utilities, highways or defence",
+    "Involvement in technical services delivery including supporting the centre of expertise in developing and implementing the PMO project controls service",
+    "Relevant technical degree and management qualifications",
+    "Experience of risk management, change control information management and reporting within complex projects, and integration of same",
+    "The ability to manage and mentor a team of specialists in the above fields, enabling training and development for junior staff members"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2111,6 +2581,10 @@
    "checked": "2026-11-06",
    "sk": "bsiqrt",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Collation of progress data from multi-discipline teams to update project/programme schedule in Primavera P6",
     "Typically, a qualified graduate in a relevant discipline with some experience in a project control environment",
@@ -2118,12 +2592,8 @@
     "Experience using controls/ general software applications such as Primavera (P6), Power BI, Microsoft Office Applications",
     "Reliable with the ability to work autonomously and as part of a team"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2145,6 +2615,10 @@
    ],
    "sk": "bsiqrt",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Collation of progress data from multi-discipline teams to update project/programme schedule in Primavera P6",
     "Typically, a qualified graduate in a relevant discipline with some experience in a project control environment",
@@ -2152,12 +2626,8 @@
     "Experience using controls/ general software applications such as Primavera (P6), Power BI, Microsoft Office Applications",
     "Reliable with the ability to work autonomously and as part of a team"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2179,6 +2649,10 @@
    ],
    "sk": "oyzgh",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Owing to the complex nature of the works involved, these roles will suit Project Controls Managers with proven backgrounds and experience in sectors such as rail, aviation, power…",
     "Experience in performing, monitoring, and reviewing planning and scheduling functions, which include schedule development, control, and analysis, in the field and the home office",
@@ -2186,12 +2660,8 @@
     "Proficiency with multiple discipline specific software applications such as Primavera (P6) and Microsoft Office Applications, for example Intermediate level of knowledge of engineering…",
     "Knowledge of engineering and construction management"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2213,6 +2683,10 @@
    ],
    "sk": "bsiqrt",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Collation of progress data from multi-discipline teams to update project/programme schedule in Primavera P6",
     "Typically, a qualified graduate in a relevant discipline with some experience in a project control environment",
@@ -2220,12 +2694,8 @@
     "Experience using controls/ general software applications such as Primavera (P6), Power BI, Microsoft Office Applications",
     "Reliable with the ability to work autonomously and as part of a team"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2247,6 +2717,10 @@
    ],
    "sk": "omzr68d27ls",
    "deg": "D",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience of infrastructure project management and/or programme management across the project lifecycle, including: project management principles",
     "Experience of aviation infrastructure project management",
@@ -2254,12 +2728,8 @@
     "Experience of managing contractors, consultants and other advisors on infrastructure projects",
     "Experience of consultancy or client-side project management"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2281,6 +2751,10 @@
    ],
    "sk": "omzr68d27ls",
    "deg": "D",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience of infrastructure project management and/or programme management across the project lifecycle, including: project management principles",
     "Experience of utilities/water infrastructure project management",
@@ -2288,12 +2762,8 @@
     "Experience of managing commercial management",
     "Experience of working within multi-disciplinary teams, managing contractors, consultants and other advisors on infrastructure projects"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2315,6 +2785,10 @@
    ],
    "sk": "omzr68d27ls",
    "deg": "D",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience of infrastructure project management and/or programme management across the project lifecycle, including: project management principles",
     "Experience of aviation infrastructure project management",
@@ -2322,12 +2796,8 @@
     "Experience of managing contractors, consultants and other advisors on infrastructure projects",
     "Experience of consultancy or client-side project management"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2349,6 +2819,10 @@
    ],
    "sk": "omzr68d27ls",
    "deg": "D",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience of infrastructure project management and/or programme management across the project lifecycle, including: project management principles",
     "Experience of utilities/water infrastructure project management",
@@ -2356,12 +2830,8 @@
     "Experience of managing contractors, consultants and other advisors on infrastructure projects",
     "Experience of consultancy or client-side project management"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2380,6 +2850,10 @@
    "checked": "2026-11-06",
    "sk": "jpm6lsy6u4g",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience of administering NEC3 and NEC4 Engineering and Construction Contracts where you are currently engaged in a named Project Manager role…",
     "Experience of complex and multiple forms of procurement and managing NEC contracts",
@@ -2387,12 +2861,8 @@
     "Experience of consultancy and/or client-side project management",
     "Familiarity with public sector organisations, non-departmental or arm’s length bodies relevant to infrastructure"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2414,6 +2884,10 @@
    ],
    "sk": "omzr68d27ls",
    "deg": "D",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience of infrastructure project management and/or programme management across the project lifecycle, including: project management principles",
     "Experience of aviation infrastructure project management",
@@ -2421,12 +2895,8 @@
     "Experience of managing contractors, consultants and other advisors on infrastructure projects",
     "Experience of consultancy or client-side project management"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2448,6 +2918,10 @@
    ],
    "sk": "tkdbqnrb400",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Substantial experience of infrastructure project/programme management across the lifecycle, including project management principles",
     "Experience of utilities/water infrastructure project and / or programme management",
@@ -2455,12 +2929,8 @@
     "Experience of leading multi-disciplinary teams, managing contractors, consultants, and other advisors on infrastructure projects",
     "Experience of consultancy or client-side project management"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2479,6 +2949,10 @@
    "checked": "2026-11-06",
    "sk": "omzr68d27ls",
    "deg": "D",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience of infrastructure project management and/or programme management across the project lifecycle, including: project management principles",
     "Significant experience of administering NEC3 and NEC4 Engineering and Construction Contracts where you are currently engaged in a named Project Manager role…",
@@ -2486,12 +2960,8 @@
     "Experience of managing contractors, consultants and other advisors on infrastructure projects",
     "Experience of consultancy or client-side project management"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2513,6 +2983,10 @@
    ],
    "sk": "omzr68d27ls",
    "deg": "D",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Experience of infrastructure project management and/or programme management across the project lifecycle, including: project management principles",
     "Problem solving, analytical and numerical skills with an ability to quickly understand complex problems and shape these into workable solutions for delivery",
@@ -2520,12 +2994,8 @@
     "Experience of managing contractors, consultants and other advisors on infrastructure projects",
     "Familiarity with public sector organisations, non-departmental or arm’s length bodies relevant to infrastructure"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2544,6 +3014,10 @@
    "checked": "2026-11-06",
    "sk": "omzr68d27ls",
    "deg": "D",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Significant experience of infrastructure project management and/or programme management across the project lifecycle, including: project management principles",
     "Experience of procurement and managing NEC contracts",
@@ -2551,12 +3025,8 @@
     "Experience of consultancy or client-side project management",
     "Familiarity with public sector organisations, non-departmental or arm’s length bodies relevant to infrastructure"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2575,6 +3045,10 @@
    "checked": "2026-11-06",
    "sk": "tkdbqnrb400",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Experience of complex and multiple forms of procurement and managing NEC / other form contracts",
     "Experience of managing contractors, consultants and other advisors on infrastructure projects and programmes in differing environments, ideally multiple sectors",
@@ -2582,12 +3056,8 @@
     "Familiarity with public sector organisations, non-departmental or arm’s length bodies relevant to infrastructure",
     "Familiarity with sustainability and application to projects / programmes"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2606,6 +3076,10 @@
    "checked": "2026-11-06",
    "sk": "tkdbqnrb400",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Substantial experience of infrastructure project/programme management across the lifecycle, including project management principles",
     "Experience of procurement and managing NEC contracts",
@@ -2613,12 +3087,8 @@
     "Experience of consultancy or client-side project management",
     "Familiarity with public sector organisations, non-departmental or arm’s length bodies relevant to infrastructure"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2640,6 +3110,13 @@
    ],
    "sk": "tkdbqnrb400",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Experience of utilities/water infrastructure project and / or programme management, including end to end lifecycle experience or specialism in development or delivery stages",
     "Experience of complex and multiple forms of procurement and managing NEC / other form contracts",
@@ -2647,15 +3124,8 @@
     "Experience of consultancy and/or client-side project management",
     "Familiarity with public sector organisations, non-departmental or arm’s length bodies relevant to infrastructure"
    ],
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2674,6 +3144,10 @@
    "checked": "2026-11-06",
    "sk": "omzr69h0l4w",
    "deg": "D",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Knowledge and practical experience of working with the NEC contract management suite, in particular the PSC and ECC forms of contract…",
     "Experience of flood risk management and/or environmental outcomes project management for projects typically between £2m to £15m",
@@ -2681,12 +3155,8 @@
     "Experience of commercial management and working with commercial functions",
     "Experience of working within multi-disciplinary teams, managing contractors, consultants and other advisors on infrastructure projects"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2705,6 +3175,10 @@
    "checked": "2026-11-06",
    "sk": "tkdbqnrb400",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Experience of complex and multiple forms of procurement and managing NEC / other form contracts",
     "Experience of managing contractors, consultants and other advisors on infrastructure projects and programmes in differing environments, ideally multiple sectors",
@@ -2712,12 +3186,8 @@
     "Familiarity with public sector organisations, non-departmental or arm’s length bodies relevant to infrastructure",
     "Familiarity with sustainability and application to projects / programmes"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2736,6 +3206,10 @@
    "checked": "2026-11-06",
    "sk": "tkdbqnrb400",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Experience of complex and multiple forms of procurement and managing NEC / other form contracts",
     "Experience of managing contractors, consultants and other advisors on infrastructure projects and programmes in differing environments, ideally multiple sectors",
@@ -2743,12 +3217,8 @@
     "Experience of consultancy and/or client-side project management",
     "Familiarity with public sector organisations, non-departmental or arm’s length bodies relevant to infrastructure"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2767,21 +3237,21 @@
    "checked": "2026-11-06",
    "sk": "7gcyjx1c",
    "deg": "B",
-   "rq": [
-    "Managing the procurement process, ensuring that all stages including pre-qualification, enquiry, analysis, selection and contract preparation are performed effectively",
-    "Experience of working on Major Programmes and Projects",
-    "Experience of working in the Infrastructure (Rail, air/aviation, Water/Utilities, highways)",
-    "Experience in leading and managing teams"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Managing the procurement process, ensuring that all stages including pre-qualification, enquiry, analysis, selection and contract preparation are performed effectively",
+    "Experience of working on Major Programmes and Projects",
+    "Experience of working in the Infrastructure (Rail, air/aviation, Water/Utilities, highways)",
+    "Experience in leading and managing teams"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2800,21 +3270,21 @@
    "checked": "2026-11-06",
    "sk": "7hcp845c",
    "deg": "B",
-   "rq": [
-    "As an experienced individual you will come with a wealth of experience in cost management ready to apply your existing knowledge in a new and dynamic environment",
-    "Experience of working on Major Programmes and Projects",
-    "Experience of working on Infrastructure project (Rail, air, marine/ports, utilities highways)",
-    "Experience in leading and managing teams"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "As an experienced individual you will come with a wealth of experience in cost management ready to apply your existing knowledge in a new and dynamic environment",
+    "Experience of working on Major Programmes and Projects",
+    "Experience of working on Infrastructure project (Rail, air, marine/ports, utilities highways)",
+    "Experience in leading and managing teams"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2836,16 +3306,16 @@
    ],
    "sk": "gssoikg",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Ideally Degree qualified (or equivalent) in a relevant subject",
     "Ideally hold or be working towards an appropriate professional body membership or equivalent"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2864,16 +3334,16 @@
    "checked": "2026-11-06",
    "sk": "gssoikg",
    "deg": "B:qs,business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Ideally Degree qualified (or equivalent) in a relevant subject",
     "Ideally hold or be working towards an appropriate professional body membership or equivalent"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2892,16 +3362,16 @@
    "checked": "2026-11-06",
    "sk": "gssoikg",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Ideally Degree qualified (or equivalent) in a relevant subject",
     "Ideally hold or be working towards an appropriate professional body membership or equivalent"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2920,21 +3390,21 @@
    "checked": "2026-11-06",
    "sk": "7hcp845c",
    "deg": "B",
-   "rq": [
-    "As an experienced individual you will come with a wealth of experience in cost management ready to apply your existing knowledge in a new and dynamic environment",
-    "Experience of working on Major Programmes and Projects",
-    "Experience of working on Infrastructure project (Rail, air/aviation, marine/ports, utilities, highways)",
-    "Experience in leading and managing teams"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "As an experienced individual you will come with a wealth of experience in cost management ready to apply your existing knowledge in a new and dynamic environment",
+    "Experience of working on Major Programmes and Projects",
+    "Experience of working on Infrastructure project (Rail, air/aviation, marine/ports, utilities, highways)",
+    "Experience in leading and managing teams"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2956,17 +3426,17 @@
    ],
    "sk": "gtwmw3k",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Good knowledge of construction industry technical matters, such as different procurement routes, value management and value engineering",
     "Ideally Degree qualified (or equivalent) in a relevant subject",
     "Ideally hold or be working towards an appropriate professional body membership or equivalent"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -2988,21 +3458,21 @@
    ],
    "sk": "7hcp845c",
    "deg": "B",
-   "rq": [
-    "As an experienced individual you will come with a wealth of experience in cost management ready to apply your existing knowledge in a new and dynamic environment",
-    "Experience of working on Major Programmes and Projects",
-    "Experience of working on Infrastructure project (Rail, air, marine/ports, utilities or highways)",
-    "Experience in leading and managing teams"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "As an experienced individual you will come with a wealth of experience in cost management ready to apply your existing knowledge in a new and dynamic environment",
+    "Experience of working on Major Programmes and Projects",
+    "Experience of working on Infrastructure project (Rail, air, marine/ports, utilities or highways)",
+    "Experience in leading and managing teams"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3024,16 +3494,16 @@
    ],
    "sk": "gssoikg",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Ideally Degree qualified (or equivalent) in a relevant subject",
     "Ideally hold or be working towards an appropriate professional body membership or equivalent"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3052,16 +3522,16 @@
    "checked": "2026-11-06",
    "sk": "co01u3i0w",
    "deg": "B:qs",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Sets a clear strategy and ambition for the team leading inclusively to leverage the variety of perspectives, insights and knowledge of our people",
     "Degree in Quantity Surveying"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3080,6 +3550,13 @@
    "checked": "2026-11-06",
    "sk": "71kgbocg",
    "deg": "B",
+   "skChecked": "2026-11-06",
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Managing NEC contracts (Option C experience highly valued) with confidence and precision",
     "Quantity Surveying experience in infrastructure, civil engineering, or major programmes",
@@ -3087,15 +3564,8 @@
     "Ideally degree qualified in a relevant subject",
     "Commercially astute with excellent communication skills — you can hold a room with a client as confidently as you can interrogate a cost report"
    ],
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3114,17 +3584,17 @@
    "checked": "2026-11-06",
    "sk": "gtwmw3k",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Good knowledge of construction industry technical matters, such as different procurement routes, value management and value engineering",
     "Ideally Degree qualified (or equivalent) in a relevant subject",
     "Ideally hold or be working towards an appropriate professional body membership or equivalent"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3143,16 +3613,16 @@
    "checked": "2026-11-06",
    "sk": "gssoikg",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Ideally Degree qualified (or equivalent) in a relevant subject",
     "Ideally hold or be working towards an appropriate professional body membership or equivalent"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3171,21 +3641,21 @@
    "checked": "2026-11-06",
    "sk": "7hcp845c",
    "deg": "B",
-   "rq": [
-    "As an experienced individual you will come with a wealth of experience in cost management ready to apply your existing knowledge in a new and dynamic environment",
-    "Experience of working on Major Programmes and Projects",
-    "Experience of working on Infrastructure project (Rail, air, marine/ports, utilities highways)",
-    "Experience in leading and managing teams"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
    "ben": [
     "hybrid"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "As an experienced individual you will come with a wealth of experience in cost management ready to apply your existing knowledge in a new and dynamic environment",
+    "Experience of working on Major Programmes and Projects",
+    "Experience of working on Infrastructure project (Rail, air, marine/ports, utilities highways)",
+    "Experience in leading and managing teams"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3204,6 +3674,13 @@
    "checked": "2026-11-06",
    "sk": "1d3wfrklc",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
+   "elig": [
+    "chartered"
+   ],
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Staying abreast of developments within own technical area of expertise to be able to give best practice advice in line with business objectives",
     "Qualified to high standard in Estimating or Quantity Surveying with proven relevant experience",
@@ -3211,15 +3688,8 @@
     "Previous experience of working with estimating software packages",
     "Membership of a relevant professional body with chartered status or working towards"
    ],
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3238,17 +3708,17 @@
    "checked": "2026-11-06",
    "sk": "gtwmw3k",
    "deg": "B:qs,business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Good knowledge of construction industry technical matters, such as different procurement routes, value management and value engineering",
     "Ideally Degree qualified (or equivalent) in a relevant subject",
     "Ideally hold or be working towards an appropriate professional body membership or equivalent"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3268,6 +3738,10 @@
    "sk": "ch0qahzib",
    "yrs": 5,
    "deg": "B:construction,pm",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Bachelor’s degree in project management, Construction Management, Engineering, or a related field",
     "Master’s degree is a plus",
@@ -3275,12 +3749,8 @@
     "Excellent communication and interpersonal skills",
     "Proficiency in project management software (e.g., MS Project, Primavera) is a plus"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3299,6 +3769,10 @@
    "checked": "2026-11-06",
    "sk": "4xq1kwssni8",
    "deg": "D:architecture",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "hybrid"
+   ],
    "rq": [
     "Diploma or Bachelor's Degree in Interior Design, Architecture, Architectural Drafting, or a related discipline (preferred but not essential)",
     "Minimum 5 years' experience in drafting, space planning, workplace planning, test-fit development, or related design fields",
@@ -3306,12 +3780,8 @@
     "Ability to interpret architectural and construction drawings",
     "Knowledge of local building codes, accessibility requirements, and safety regulations"
    ],
-   "ben": [
-    "hybrid"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3583,12 +4053,7 @@
    "sk": "ipqjt23nk",
    "yrs": 10,
    "deg": "B:civil,construction",
-   "rq": [
-    "Ideally you should possess a degree in construction management and / or civil engineering and hold a membership/chartership from a construction related professional body",
-    "Should have a minimum of 10 years of experience in planning and scheduling with good track record of working on heritage/ hotels/master planning/ museum / cultural / pavilion projects…",
-    "Arabic speaking and writing an advantage",
-    "Seize every opportunity to sharpen your skills, expand your expertise, and be recognized for the impact you make"
-   ],
+   "skChecked": "2026-11-06",
    "sector": [
     "energy"
    ],
@@ -3604,9 +4069,14 @@
     "training",
     "life"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Ideally you should possess a degree in construction management and / or civil engineering and hold a membership/chartership from a construction related professional body",
+    "Should have a minimum of 10 years of experience in planning and scheduling with good track record of working on heritage/ hotels/master planning/ museum / cultural / pavilion projects…",
+    "Arabic speaking and writing an advantage",
+    "Seize every opportunity to sharpen your skills, expand your expertise, and be recognized for the impact you make"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3629,13 +4099,7 @@
    "sk": "2jvmhsw8en",
    "yrs": 15,
    "deg": "B:construction,pm",
-   "rq": [
-    "Bachelor's Degree in Engineering or related discipline",
-    "Master's Degree in Engineering",
-    "Minimum 15 years of project management experience within construction, infrastructure, industrial, or mission-critical sectors",
-    "Minimum 5+ years in a Senior Project Manager or Project Manager leadership role",
-    "Minimum 5-10 years of UAE or GCC project delivery experience"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "chartered"
    ],
@@ -3648,9 +4112,15 @@
     "leave",
     "life"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Bachelor's Degree in Engineering or related discipline",
+    "Master's Degree in Engineering",
+    "Minimum 15 years of project management experience within construction, infrastructure, industrial, or mission-critical sectors",
+    "Minimum 5+ years in a Senior Project Manager or Project Manager leadership role",
+    "Minimum 5-10 years of UAE or GCC project delivery experience"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3669,13 +4139,7 @@
    "checked": "2026-11-06",
    "sk": "12m1eypls",
    "deg": "B:construction,business",
-   "rq": [
-    "Working in our flat, collaborative environment, you will lead professionals who enjoy supporting each other to make the most of our talents and expertise",
-    "Airport, providing essential support re-invigorating…",
-    "You must be ambitious with a thirst for innovation and growth to progress within our Complex Projects Business Unit",
-    "Commercial, quantity surveying, and/or finance skills, with full working knowledge of the construction industry, and an understanding…",
-    "Standard Forms of Contract (NEC/FIDIC/IChemE)"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "clearance"
    ],
@@ -3687,9 +4151,15 @@
     "hybrid",
     "training"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Working in our flat, collaborative environment, you will lead professionals who enjoy supporting each other to make the most of our talents and expertise",
+    "Airport, providing essential support re-invigorating…",
+    "You must be ambitious with a thirst for innovation and growth to progress within our Complex Projects Business Unit",
+    "Commercial, quantity surveying, and/or finance skills, with full working knowledge of the construction industry, and an understanding…",
+    "Standard Forms of Contract (NEC/FIDIC/IChemE)"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3708,13 +4178,7 @@
    "checked": "2026-11-06",
    "sk": "tkn9qumbc3k",
    "deg": "B:civil,construction,pm",
-   "rq": [
-    "As demand for NEC Project Management services continues to grow across our client portfolio, we are looking for NEC Project Managers with experience delivering complex infrastructure…",
-    "Whether you are an established NEC Project Manager or an experienced Assistant Project Manager with demonstrable NEC experience looking to further develop your expertise and take the next…",
-    "We are seeking a proactive Project Manager with experience of delivering complex engineering, construction or infrastructure projects, you will bring",
-    "Strong working knowledge of the NEC3 and/or NEC4 ECC contracts",
-    "Experience acting as the named Project Manager or significant experience directly supporting the Project Manager in administering NEC ECC contracts"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "clearance"
    ],
@@ -3726,9 +4190,15 @@
     "hybrid",
     "training"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "As demand for NEC Project Management services continues to grow across our client portfolio, we are looking for NEC Project Managers with experience delivering complex infrastructure…",
+    "Whether you are an established NEC Project Manager or an experienced Assistant Project Manager with demonstrable NEC experience looking to further develop your expertise and take the next…",
+    "We are seeking a proactive Project Manager with experience of delivering complex engineering, construction or infrastructure projects, you will bring",
+    "Strong working knowledge of the NEC3 and/or NEC4 ECC contracts",
+    "Experience acting as the named Project Manager or significant experience directly supporting the Project Manager in administering NEC ECC contracts"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3749,13 +4219,7 @@
    "yrs": 7,
    "yrsMax": 10,
    "deg": "B:architecture",
-   "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
-    "Bachelor's degree in Interior Architecture, Interior Design, or related field",
-    "Minimum 7-10+ years of experience in workplace planning, occupancy planning, architecture, interior design, or related disciplines",
-    "Working knowledge of local building codes, ADA requirements, and accessibility standards",
-    "Knowledge of WELL Building Standard, LEED certification, and sustainability initiatives preferred"
-   ],
+   "skChecked": "2026-11-06",
    "elig": [
     "nosponsor"
    ],
@@ -3765,9 +4229,14 @@
     "leave",
     "training"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "Bachelor's degree in Interior Architecture, Interior Design, or related field",
+    "Minimum 7-10+ years of experience in workplace planning, occupancy planning, architecture, interior design, or related disciplines",
+    "Working knowledge of local building codes, ADA requirements, and accessibility standards",
+    "Knowledge of WELL Building Standard, LEED certification, and sustainability initiatives preferred"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3789,7 +4258,6 @@
    "deg": "B:mechanical,electrical",
    "skChecked": "2026-11-06",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Collect service reports and certificates, and record findings, downtime and completed work in Planon",
     "Education and experience Bachelor's degree in mechanical, electrical, industrial or a related engineering field, or an equivalent technical qualification",
     "At least 3 years of experience in maintenance planning, scheduling or reporting",
@@ -3820,19 +4288,18 @@
    "sk": "chabw2qrk",
    "yrs": 10,
    "deg": "B:architecture",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "training"
+   ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor's Degree in Architecture or Interior Design",
     "Minimum of 10+ years of experience in hospitality design roles and project management",
     "Excellent communication, presentation, written, and public speaking skills",
     "Ability to lead change, resolve issues, influence outcomes and ensure collaboration within teams, while maintaining the highest standards of ethical conduct and integrity"
    ],
-   "ben": [
-    "training"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3850,21 +4317,20 @@
    "posted": "2026-11-06",
    "checked": "2026-11-06",
    "deg": "B",
-   "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
-    "This role would be ideally suited to an administrator experience in a similar facilities role",
-    "This is an excellent opportunity for an experienced administrator to work on site for a leading international client",
-    "Supporting Client Task and Permit to Work systems as required issuing work schedules to site teams, monitoring tasks through to completion and contacting suppliers and Landlord as required…",
-    "Following required emergency prevention and operational controls, coordinating their daily and weekly schedules as required"
-   ],
+   "skChecked": "2026-11-06",
    "ben": [
     "medical",
     "training",
     "life"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
+   "rq": [
+    "This role would be ideally suited to an administrator experience in a similar facilities role",
+    "This is an excellent opportunity for an experienced administrator to work on site for a leading international client",
+    "Supporting Client Task and Permit to Work systems as required issuing work schedules to site teams, monitoring tasks through to completion and contacting suppliers and Landlord as required…",
+    "Following required emergency prevention and operational controls, coordinating their daily and weekly schedules as required"
+   ],
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3884,16 +4350,15 @@
    "sk": "14kfpjbdhi",
    "yrs": 5,
    "deg": "B:pm,business",
+   "skChecked": "2026-11-06",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Experience Required: 4+ Years",
     "Experience: A minimum of 5 years of direct project management experience, preferably in an operations, corporate real estate, or facilities management context",
     "Education: Bachelor’s degree in Business, Management, Engineering, or a related field",
     "Financial Acumen: Strong experience in developing and managing project budgets, forecasting costs, and conducting financial reporting"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3914,16 +4379,15 @@
    "yrs": 3,
    "yrsMax": 5,
    "deg": "B",
+   "skChecked": "2026-11-06",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "At least 3-5 years of experience",
     "Ability to remain calm under pressure",
     "Languages: English, Flemish, Dutch",
     "Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific…"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -3948,7 +4412,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "With over 200 years of real estate experience, we are, and always have been, in continual pursuit of brighter ways of working",
     "This means as an APM, you demonstrate some familiarity with the subject matter and are able to produce these deliverables with guidance from senior team members",
     "Working knowledge of project budgeting, cost reporting, and cash flow/accrual management",
@@ -3983,7 +4446,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "With over 200 years of real estate experience, we are, and always have been, in continual pursuit of brighter ways of working",
     "This means as a PM you demonstrate a high familiarity with the subject matter and are able to produce these deliverables with little guidance from senior team members",
     "Proven experience independently managing construction or fit-out projects from inception through to close-out",
@@ -4011,7 +4473,6 @@
    "deg": "B:construction,pm",
    "skChecked": "2026-11-06",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "This means as a PM you demonstrate a high familiarity with the subject matter and can produce these deliverables with little guidance from senior team members",
     "Preparation of PCG (Project Control Group) reports and attend PCG meetings as required",
     "Chair weekly project meetings as required",
@@ -4040,7 +4501,6 @@
    "deg": "B",
    "skChecked": "2026-11-06",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Minimum 8 years’ project or programme management experience, delivering to plan across multiple service lines",
     "Experience of end-to-end process change across teams, systems and locations",
     "Working knowledge of property management finance and operations",
@@ -4048,6 +4508,34 @@
    ],
    "fx": 1,
    "fxChecked": "2026-11-06",
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "jll-req547710",
+   "title": "Engineering Scheduler",
+   "emp": "JLL",
+   "type": "PMC",
+   "disc": "Planning",
+   "level": "Mid",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/London-GBR/Engineering-Scheduler_REQ547710",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "zivac0",
+   "deg": "B:business",
+   "rq": [
+    "§ Match technician skills and qualifications to job requirements",
+    "§ Proficiency in CAFM systems (e.g., Corrigo, Maximo, SAP)",
+    "§ Proven 1+ Year experience in scheduling or resource coordination role",
+    "§ Proficiency with scheduling and CAFM systems",
+    "§ Previous experience in facilities management or property services"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -4066,16 +4554,15 @@
    "checked": "2026-11-06",
    "sk": "b8jk",
    "deg": "B:business",
+   "skChecked": "2026-11-06",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Experience in an administrative, contract support, or facilities administration role",
     "Good working knowledge of compliance and permitting administration",
     "Proficient with SharePoint and reporting/administration systems",
     "Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific…"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -4094,6 +4581,82 @@
    "checked": "2026-11-06",
    "yrs": 3,
    "yrsMax": 8,
+   "skChecked": "2026-11-06",
+   "fx": 1,
+   "fxChecked": "2026-11-06",
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "mcdermott-26004951",
+   "title": "Senior Subcontracts Specialist",
+   "emp": "McDermott",
+   "type": "Contractor",
+   "disc": "Contracts",
+   "level": "Senior",
+   "city": "Chennai",
+   "country": "India",
+   "region": "Asia Pacific",
+   "url": "https://edsv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26004951",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "cgzizy39c",
+   "yrs": 6,
+   "yrsMax": 10,
+   "deg": "B:engineering",
+   "rq": [
+    "The Senior Subcontracts Specialist uses best practices and knowledge of internal or external issues to improve the subcontracts discipline within McDermott",
+    "They will act as a resource for colleagues with less experience and share their conceptual and practical expertise related to the subcontracts discipline",
+    "Create & conduct RFP (Request for Proposal) /ITB’s (Invitation to Bid) including vendor pre-qualifications in Supplier Management Application (Oracle) and drafting Subcontract documents",
+    "Bachelor’s Degree (or equivalent) in Engineering, Supply Chain Management (or a relevant discipline)",
+    "6-10 years of relevant experience"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "wood-33493",
+   "title": "Project Manager - Senior",
+   "emp": "Wood",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Buenos Aires",
+   "country": "Argentina",
+   "region": "Latin America",
+   "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33493",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "jpib69mlgcg",
+   "rq": [
+    "Preferentemente una certificación como Project Management Professional (PMP), Associate in Project Management (APM) o una certificación equivalente"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "wood-33534",
+   "title": "Project Manager II",
+   "emp": "Wood",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Manager",
+   "city": "Buenos Aires",
+   "country": "Argentina",
+   "region": "Latin America",
+   "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33534",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "jpib69mlgcg",
+   "rq": [
+    "Preferentemente una certificación como Project Management Professional (PMP), Associate in Project Management (APM) o una certificación equivalente"
+   ],
    "skChecked": "2026-11-06",
    "fxChecked": "2026-11-06",
    "fx": 1,
@@ -4115,6 +4678,13 @@
    "checked": "2026-11-06",
    "sk": "ch8enw1s0",
    "deg": "B:construction,business",
+   "skChecked": "2026-11-06",
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "life"
+   ],
    "rq": [
     "Apply knowledge of construction dispute resolution processes, contract documents, labor laws, construction contracts, and construction administration to minimize project risk",
     "5 or more years of experience in Architecture-Engineering and Design/Build programs",
@@ -4122,15 +4692,8 @@
     "Must be a U.S. Person due to contractual and export control requirements",
     "Bachelor’s degree in Engineering, Construction Management, or a related engineering discipline"
    ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "life"
-   ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -4150,6 +4713,7 @@
    "sk": "wlg6aro",
    "yrs": 10,
    "deg": "B:business",
+   "skChecked": "2026-11-06",
    "rq": [
     "Collaborate closely with business functions across HCI and HPS to drive project business growth, operational excellence, and strategic alignment",
     "Minimum 10 years of project management experience with a proven track record of delivering complex projects successfully",
@@ -4157,9 +4721,8 @@
     "Project Management Professional (PMP) or equivalent certification preferred",
     "Strong understanding of business operations , governance, and operational disciplines, with the ability to align project execution with business objectives"
    ],
-   "skChecked": "2026-11-06",
-   "fxChecked": "2026-11-06",
    "fx": 1,
+   "fxChecked": "2026-11-06",
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -5109,7 +5672,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "3-5 years of practical experience in a similar role, preferably within the corporate real estate industry",
     "Proficiency in project management software and the Microsoft Office suite",
     "Knowledge of move management best practices and industry standards",
@@ -5147,7 +5709,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "You will play a critical role in driving operational excellence, managing risk, supporting capital planning initiatives, and developing high-performing consultant and contractor teams",
     "Bachelor’s degree from an accredited institution in Architecture, Engineering, Construction Management, or a related field strongly preferred",
     "7–10 years of practical experience in construction project management, preferably within corporate real estate or secured environment projects",
@@ -5184,7 +5745,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Oversee ISNetworld pre-qualification compliance for all contractors engaged on client property",
     "Bachelor's degree in Construction Management, Engineering, Architecture, or related field, OR minimum 7 years of project management experience in commercial or industrial construction",
     "Proficiency in project scheduling software (MS Project, Primavera P6, or equivalent)",
@@ -5224,7 +5784,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor’s degree in Engineering, Construction Management, Facilities Management, or a related technical field",
     "7+ years of project management experience in construction or facilities",
     "Strong knowledge of building systems and construction processes",
@@ -5265,7 +5824,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor’s degree in Engineering, Construction Management, Facilities Management, or a related technical field",
     "7+ years of project management experience in facilities, data centers, or critical infrastructure",
     "Strong knowledge of building systems, electrical/low-voltage systems, and construction processes",
@@ -5301,7 +5859,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Five or more (5+) years of professional experience in project management or construction management",
     "Demonstrated proficiency in using and applying modern project management technology tools and software",
     "Strong verbal and written communication skills with a proven ability to build relationships across all levels of an organization and with external clients",
@@ -5536,7 +6093,8 @@
    "fx": 1,
    "fxChecked": "2026-11-06",
    "fxV": 4,
-   "firstSeen": "2026-11-06"
+   "firstSeen": "2026-11-06",
+   "ap": 1
   },
   {
    "id": "ellisdon-r2026-01807",
@@ -7108,6 +7666,51 @@
    ],
    "fx": 1,
    "fxChecked": "2026-11-06",
+   "fxV": 4,
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "parsons-r188335",
+   "title": "Assistant Project Manager",
+   "emp": "Parsons",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Mid",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---Remote-Any-Location/Assistant-Project-Manager_R188335",
+   "posted": "",
+   "checked": "2026-11-06",
+   "sk": "cgzhbpaf4",
+   "yrs": 3,
+   "deg": "B:engineering",
+   "rq": [
+    "Oversees establishment of Project Execution Plan, Health and Safety Plan, Quality Assurance/Quality Control Plan, and other documents as required",
+    "Assigns responsibility for executing project plans to key subordinates after careful assessment of how to utilize their qualifications and strengths",
+    "Discusses the qualifications required of the key project positions in specific detail with the profit center and department managers",
+    "Promotes technical and commercial excellence on the project through application of Quality Assurance processes",
+    "What Required Skills You'll Bring"
+   ],
+   "elig": [
+    "clearance"
+   ],
+   "pay": [
+    63600,
+    111300,
+    "USD",
+    "year"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "life",
+    "shares"
+   ],
+   "skChecked": "2026-11-06",
+   "fxChecked": "2026-11-06",
+   "fx": 1,
    "fxV": 4,
    "firstSeen": "2026-11-06"
   },
@@ -10491,39 +11094,6 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "turner-and-townsend-744000159884174",
-   "title": "Senior Construction Project Manager- Ground-Up Projects",
-   "emp": "Turner & Townsend",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Nashville",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159884174",
-   "posted": "2026-11-05",
-   "checked": "2026-11-06",
-   "sk": "chg9x4jdc",
-   "yrs": 5,
-   "yrsMax": 7,
-   "deg": "B:civil,construction,business",
-   "skChecked": "2026-11-05",
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "Production of formal project status reports and other reports as required",
-    "Bachelor’s degree in construction management, civil engineering, or applicable bachelor’s degree and or equivalent experience",
-    "Minimum 5-7 years of relevant project management experience",
-    "The ability to work effectively and collaboratively with the broader team",
-    "Proficiency in Excel, Word, PowerPoint, Outlook, Procore, and construction project management tools"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-05",
-   "fxV": 4,
-   "firstSeen": "2026-11-05"
-  },
-  {
    "id": "turner-and-townsend-744000159877591",
    "title": "【Project Management】Electrical - Senior Professional",
    "emp": "Turner & Townsend",
@@ -11600,7 +12170,6 @@
    "sk": "eze2o",
    "skChecked": "2026-11-05",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific…"
    ],
    "fx": 1,
@@ -11626,7 +12195,6 @@
    "deg": "B:architecture",
    "skChecked": "2026-11-05",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "AutoCAD, MS Excel, Word 및 프레젠테이션 툴 활용 능력",
     "Design Leaders with 15+ years who are experienced in leading all aspects of the Design process from ideation to implementation guiding clients to innovative and successful outcomes",
     "Develop comprehensive space planning strategies with knowledge of space planning principles, ergonomics, and workplace strategy",
@@ -11663,7 +12231,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor's degree in a related field (Engineering, Architecture, Construction Management, etc.)",
     "PMP certification or equivalent project management certification",
     "Minimum of 7 years of experience in project management, preferably in the commercial real estate industry",
@@ -11695,7 +12262,6 @@
     "chartered"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "The successful candidates will be responsible for supporting managers in achieving service excellence and positive outcomes for our clients",
     "Carry day to day delivery responsibility and demonstrate the ability to take on tasks with minimal supervision",
     "Demonstrate the ability to take ownership of small / medium sized projects or significant components of larger Cost Management assignments",
@@ -11723,7 +12289,6 @@
    "deg": "B",
    "skChecked": "2026-11-05",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bringing excellence to the table",
     "Thus, your ability to provide high-quality catering services will be essential to succeed in this fast-paced yet exciting field",
     "This position is a perfect opportunity for you to bring in your operational expertise, as you generate well thought out policies and strategies",
@@ -11756,7 +12321,6 @@
     "training"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "The successful candidate will have experience in delivering projects to a variety of client groups, managing key client projects and providing advice / guidance to multi-disciplinary teams…",
     "To demonstrate experience with appropriate projects as well as the ability to manage and build relationships with team",
     "Demonstrate the ability to take ownership of medium / large sized projects for Cost Management assignments",
@@ -12225,7 +12789,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor's degree in hospitality management, business administration, or a related field, or equivalent combination of education and relevant work experience",
     "5 or more years of experience in corporate event management, conference services, or hospitality operations",
     "Proficiency with AV and conference technology, room and resource booking systems, and standard office productivity tools (e.g., Microsoft Office or Teams)",
@@ -12626,7 +13189,6 @@
    "deg": "B",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific…"
    ],
    "fx": 1,
@@ -15786,7 +16348,6 @@
     "hybrid"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "You'll leverage your relationship-building skills and technical proficiency to deliver comprehensive space management solutions while contributing to planning initiatives that support…",
     "3–5 years of experience in occupancy planning, space management, interior office planning, furniture planning/management, move/project management…",
     "Experience with industry-standard software including AutoCAD and CAFM",
@@ -15823,7 +16384,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "High school diploma or GED",
     "3+ years of experience in facilities maintenance, maintenance planning, scheduling, building operations, construction coordination, or a related role",
     "Working knowledge of building systems, including HVAC, plumbing, electrical, life safety, general building maintenance, and utility systems",
@@ -15906,7 +16466,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Partner with the IFM Director and Lead Team on staffing, training, and qualifications",
     "BS/BA in Engineering, Construction, Maintenance, other related discipline or 10 years of experience in the field as a engineering supervisor",
     "5+ years of applicable working experience in building repair and maintenance, plumbing, and electrical",
@@ -15981,7 +16540,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Project manager proficient in the following areas",
     "10+ years’ experience in Owner’s Rep Project management",
     "10+ years’ experience working for a general contractor",
@@ -16018,7 +16576,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor's degree in a related field (Engineering, Architecture, Construction Management, etc.)",
     "PMP certification or equivalent project management certification",
     "Minimum of 7 years of experience in project management, preferably in the commercial real estate industry",
@@ -16057,7 +16614,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "This onsite role combines project management fundamentals with specialized knowledge of mission critical environments, including hands-on experience with elevator modernization work",
     "You will manage projects from initiation through closeout while upholding the strict operational continuity standards required in data center, healthcare, and other mission critical settings",
     "Bachelor's degree in construction management, engineering, architecture, or a related field, or equivalent relevant experience",
@@ -16094,7 +16650,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor's degree in a related field (Engineering, Architecture, Construction Management, etc.)",
     "PMP certification or equivalent project management certification",
     "Minimum of 7 years of experience in project management, preferably in the commercial real estate industry",
@@ -16123,7 +16678,6 @@
    "deg": "B:civil,construction,architecture",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Our core values of teamwork, ethics and excellence are also fundamental to everything we do, and we’re honored to be recognized with awards for our success by organizations both globally…",
     "Bachelor's Degree in Civil Engineering, Architecture, or Construction Management",
     "+ 15 years of relevant experience in project planning and scheduling",
@@ -16154,7 +16708,6 @@
    "deg": "B:civil,mechanical,architecture",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Adapt to evolving project requirements, including learning new software tools as required by clients",
     "Bachelor’s degree (preferably in Civil/Mechanical engineering, Architecture or any such relevant fields) with 3–5 years of relevant experience in project coordination or a similar role…",
     "Experience of working directly with clients",
@@ -16187,7 +16740,6 @@
     "training"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Process payment certificates and manage financial reporting to clients",
     "Bachelor's degree in Civil Engineering, Construction Management, Architecture, or related field",
     "Minimum 12-15 years of experience managing commercial fitout and interior projects in India",
@@ -16219,7 +16771,6 @@
     "chartered"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "The role covers the full project lifecycle, from feasibility and cost planning through procurement, construction cost control, payment certification support, variations…",
     "Degree in Quantity Surveying, Construction Management, Civil Engineering or a related field",
     "Chartered status (RICS, CIOB or equivalent) or 8 years of relevant experience",
@@ -16229,7 +16780,7 @@
    "fxChecked": "2026-11-04",
    "fxV": 4,
    "firstSeen": "2026-11-04",
-   "ap": 24
+   "ap": 25
   },
   {
    "id": "jll-req546341",
@@ -16249,7 +16800,6 @@
    "deg": "B:mechanical,electrical,architecture",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "We are seeking an experienced and technically proficient Fit-Out Manager with a MEP and Architecture background to lead the design development, technical coordination…",
     "A Bachelor's degree in Architecture, MEP (Mechanical/Electrical Engineering), Interior Design, or a related technical discipline is mandatory",
     "A minimum of 5 years of relevant experience in interior fit-out design, technical coordination, RDD, or MEP/architectural supervision or project coordination is required…",
@@ -16279,7 +16829,6 @@
    "deg": "B",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Represent the PMO and project team through professionalism and delivery excellence",
     "Minimum 10-15 years’ experience in large-scale commercial fit-out or base-build projects in Hong Kong",
     "Strong familiarity with HK Building Department regulations, fire safety codes, and building management protocols",
@@ -16307,7 +16856,6 @@
    "deg": "B",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Also part of your job is to attend project meetings as required, develop monthly reports and carry out contract administration",
     "Analysis for each of the line items in the BOQ as required for project to project, Benchmarking, Review & Standardize…",
     "The ideal candidate is no neophyte—you should exhibit high-level management skills, and should hold a degree in relevant property-related discipline",
@@ -16340,7 +16888,6 @@
     "datacentre"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Oversee material submittal reviews, test certificates, mill certificates, and calibration records to ensure full compliance with specifications",
     "Compile and manage QA/QC dossiers, including test certificates, inspection records, NCR logs, and as-built quality documentation",
     "Liaise with technology licensors/process equipment vendors where quality interfaces with specialized semiconductor manufacturing requirements",
@@ -16510,7 +17057,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor of Science degree in Marine, Chemical, Mechanical, Electrical Engineering, or related scientific discipline",
     "Minimum 5 years of engineering experience, including mechanical design/testing and international quality standards",
     "Minimum 3-5 years of utility systems management and/or facilities/plant management and maintenance experience",
@@ -16548,7 +17094,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor's degree in Architecture, Engineering, Construction Management, or Business Administration",
     "12–15+ years of experience leading large-scale corporate real estate capital programs, ground-up developments, and tenant improvement portfolios",
     "Advanced expertise in master scheduling tools (Primavera P6 or MS Project)",
@@ -16580,7 +17125,6 @@
     "datacentre"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Our core values of teamwork, ethics and excellence are also fundamental to everything we do, and we’re honored to be recognized with awards for our success by organizations both globally…",
     "Good command and knowledge of standard forms of contracts",
     "Bachelor's Degree in Civil, Architectural or Construction Management is required",
@@ -16609,7 +17153,6 @@
    "deg": "B",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Significant experience (minimum 5 years in management) in compliance, ethics, risk, or internal audit leadership role , working with corporate clients , ideally spanning multiple regions",
     "Working knowledge of all relevant compliance, anti-bribery/corruption, and data protection regulation across multiple jurisdictions, and acting as the account champion in these areas",
     "Bachelor's degree required , ideally in Quality, Risk or Legal fields",
@@ -16639,7 +17182,6 @@
    "deg": "B:civil,mechanical,electrical",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Our core values of teamwork, ethics and excellence are also fundamental to everything we do, and we’re honored to be recognized with awards for our success by organizations both globally…",
     "6–9 years of experience in the Real Estate and Construction sector",
     "1–2 years of experience leading or supervising teams",
@@ -16669,7 +17211,6 @@
    "deg": "B:civil,mechanical,electrical",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Our core values of teamwork, ethics and excellence are also fundamental to everything we do, and we’re honored to be recognized with awards for our success by organizations both globally…",
     "Excellent Take-Off skills required, from both an accuracy and speed perspective",
     "Preparation of budget / pre-contract cost estimates and various stages’ cost plans as required",
@@ -16699,7 +17240,6 @@
    "deg": "B:civil,mechanical,electrical",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Our core values of teamwork, ethics and excellence are also fundamental to everything we do, and we’re honored to be recognized with awards for our success by organizations both globally…",
     "Excellent Take-Off skills required, from both an accuracy and speed perspective",
     "Preparation of budget / pre-contract cost estimates and various stages’ cost plans as required",
@@ -16739,7 +17279,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Knowledge of building automation systems and understanding of control logic to recommend best practices in order to improve efficiency and operation of equipment",
     "Bachelor's degree in engineering, environmental science, or a related field",
     "5+ years of experience in energy efficiency engineering",
@@ -16769,7 +17308,6 @@
    "deg": "B:business",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Excellent analytical skills",
     "Strong organizations skills with the ability to work on multiple tasks and prioritize",
     "Ability to work to meet deadlines, even when timeframes are demanding",
@@ -18270,40 +18808,6 @@
     "Degree in construction management, cost management, quantity surveying, engineering or field related to construction",
     "Minimum 5-7 years of applicable experience",
     "Proficient in Microsoft Suite of Products (Word, PowerPoint, Excel)"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "turner-and-townsend-744000159494525",
-   "title": "Assistant Project Manager- Municipal / Wastewater",
-   "emp": "Turner & Townsend",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Mid",
-   "city": "La Plata",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000159494525",
-   "posted": "2026-11-03",
-   "checked": "2026-11-06",
-   "sector": [
-    "water"
-   ],
-   "sk": "chffsq48y",
-   "deg": "B:construction,architecture",
-   "skChecked": "2026-11-04",
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "The ideal candidate will have experience with water/wastewater treatment facilities, pumping stations, and water collection and distribution systems",
-    "Review and make relevant comments concerning the terms of the construction agreement, the submitted subcontracts, architectural and engineering design agreements…",
-    "Designer's certification of code and ADA compliance",
-    "Bachelor's degree in architecture, Engineering, Construction Management, or related field",
-    "Knowledge of critical path method scheduling"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -29622,42 +30126,6 @@
     "Bachelor’s degree in Construction Management, Quantity Surveying, Engineering, or a related construction field",
     "Graduate degree in Quantity Surveying, Cost Management, Construction Management, or Engineering preferred",
     "Minimum of 8 years’ experience in a cost management role within the construction industry"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "turner-and-townsend-744000158617569",
-   "title": "Senior Cost Manager / Quantity Surveyor - Industrial / Manufacturing Construction",
-   "emp": "Turner & Townsend",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Manager",
-   "city": "Charlotte",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jobs.smartrecruiters.com/TurnerTownsend/744000158617569",
-   "posted": "2026-10-29",
-   "checked": "2026-11-06",
-   "sector": [
-    "industrial"
-   ],
-   "sk": "cooq1v7cw",
-   "yrs": 5,
-   "yrsMax": 7,
-   "deg": "B:qs,construction,business",
-   "skChecked": "2026-11-04",
-   "ben": [
-    "hybrid"
-   ],
-   "rq": [
-    "Display excellence in leadership and service delivery in accordance with project and client requirements",
-    "SOX control responsibilities may be part of this role and must be adhered to where applicable",
-    "Bachelor's degree in Construction Management, Quantity Surveying, Engineering, Cost Management, or a related construction discipline",
-    "Minimum 5-7 years of relevant experience in cost management, quantity surveying, estimating, or commercial management within the construction industry",
-    "RICS accreditation or progress toward accreditation is preferred"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -41184,7 +41652,7 @@
    "fxChecked": "2026-11-04",
    "fxV": 4,
    "firstSeen": "2026-11-04",
-   "ap": 1
+   "ap": 2
   },
   {
    "id": "turner-and-townsend-744000156901529",
@@ -42843,157 +43311,6 @@
     "Have a degree in relevant property-related discipline, with a minimum of 15 years",
     "Experience in design, construction and project management",
     "English? If yes, talk to us—your communication skills will surely land you the job"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "jll-req527675",
-   "title": "Assistant Project Lead - Services Engineer",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Mid",
-   "city": "Mumbai",
-   "country": "India",
-   "region": "Asia Pacific",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Mumbai-MH/Assistant-Project-Lead---Services-Engineer_REQ527675",
-   "posted": "2026-10-21",
-   "checked": "2026-11-06",
-   "sk": "4xq1vqrxyww",
-   "yrs": 8,
-   "yrsMax": 10,
-   "deg": "D:mechanical",
-   "skChecked": "2026-11-04",
-   "rq": [
-    "Technical Expertise: Deep knowledge of hydraulics, rotating equipment, or HVAC design",
-    "Software Literacy: Familiarity with AutoCAD, Navisworks, or Revit MEP for drawing reviews",
-    "Bachelor's degree or Diploma in Mechanical Engineering",
-    "8-10 Years in mixed use project, hotel, retail commercial projects"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "jll-req527676",
-   "title": "Assistant Project Lead - Interior Engineer",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Mid",
-   "city": "Mumbai",
-   "country": "India",
-   "region": "Asia Pacific",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Mumbai-MH/Assistant-Project-Lead---Interior-Engineer_REQ527676",
-   "posted": "2026-10-21",
-   "checked": "2026-11-06",
-   "sk": "4xdkodl5khv",
-   "yrs": 8,
-   "yrsMax": 10,
-   "deg": "D:civil,architecture",
-   "skChecked": "2026-11-04",
-   "rq": [
-    "Project Tracking: Monitor project milestones using scheduling software like MS Project or Primavera",
-    "Education: Degree or Diploma in Civil Engineering or Architecture/Interior Design",
-    "Experience: 8 to 10 years focusing specifically on commercial, retail rollouts, or luxury hospitality/hotel fit-outs",
-    "Proficiency in AutoCAD, MS Project/Primavera, and deep technical knowledge of local construction and finishing materials"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "jll-req527664",
-   "title": "Assistant Project Lead - Electrical",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Mid",
-   "city": "Mumbai",
-   "country": "India",
-   "region": "Asia Pacific",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Mumbai-MH/Assistant-Project-Lead---Electrical_REQ527664",
-   "posted": "2026-10-21",
-   "checked": "2026-11-06",
-   "sk": "4xdkx93shs0",
-   "yrs": 8,
-   "yrsMax": 10,
-   "deg": "D:electrical",
-   "skChecked": "2026-11-04",
-   "sector": [
-    "energy"
-   ],
-   "rq": [
-    "Education: B.E./B.Tech or Diploma in Electrical Engineering",
-    "Experience: 8 to 10 years working with real estate developers, EPC contractors, or heavy industrial/building service firms",
-    "Technical Knowledge: Deep expertise in HT/LT distribution, panel design (APFC, PCC, MCC), cabling standards, and Extra Low Voltage (ELV) systems",
-    "8-10 years of experience in Hotel, MIxed use project, Retail and commercial"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "jll-req527650",
-   "title": "Assistant Project Lead - Mechanical",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Mid",
-   "city": "Mumbai",
-   "country": "India",
-   "region": "Asia Pacific",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Mumbai-MH/Assistant-Project-Lead---Mechanical_REQ527650",
-   "posted": "2026-10-21",
-   "checked": "2026-11-06",
-   "sk": "4xq1vqrxyww",
-   "yrs": 8,
-   "yrsMax": 10,
-   "deg": "D:mechanical",
-   "skChecked": "2026-11-04",
-   "rq": [
-    "Technical Expertise: Deep knowledge of hydraulics, rotating equipment, or HVAC design",
-    "Software Literacy: Familiarity with AutoCAD, Navisworks, or Revit MEP for drawing reviews",
-    "Bachelor's degree or Diploma in Mechanical Engineering",
-    "8-10 Years in mixed use project, hotel, retail commercial projects"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "jll-req527668",
-   "title": "Assistant Project Lead - Services Engineer",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Mid",
-   "city": "Mumbai",
-   "country": "India",
-   "region": "Asia Pacific",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Mumbai-MH/Assistant-Project-Lead---Services-Engineer_REQ527668",
-   "posted": "2026-10-21",
-   "checked": "2026-11-06",
-   "sk": "4xdkx93shs0",
-   "yrs": 8,
-   "yrsMax": 10,
-   "deg": "D:electrical",
-   "skChecked": "2026-11-04",
-   "sector": [
-    "energy"
-   ],
-   "rq": [
-    "Education: B.E./B.Tech or Diploma in Electrical Engineering",
-    "Experience: 8 to 10 years working with real estate developers, EPC contractors, or heavy industrial/building service firms",
-    "Technical Knowledge: Deep expertise in HT/LT distribution, panel design (APFC, PCC, MCC), cabling standards, and Extra Low Voltage (ELV) systems",
-    "8-10 years of experience in Hotel, MIxed use project, Retail and commercial"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -49212,7 +49529,6 @@
    "deg": "B:business",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Have a degree in relevant property-related discipline, with a minimum of 15 years",
     "Experience in design, construction and project management",
     "English? If yes, talk to us—your communication skills will surely land you the job",
@@ -49240,7 +49556,6 @@
    "deg": "B",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Excellent organisational skills and attention to detail",
     "Upholding excellence in project delivery",
     "For over 200 years, JLL has become synonymous with project success—you will help",
@@ -49268,7 +49583,6 @@
    "deg": "B",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Excellent organisational skills and attention to detail",
     "Upholding excellence in project delivery",
     "For over 200 years, JLL has become synonymous with project success—you will help",
@@ -49296,7 +49610,6 @@
    "deg": "B",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Excellent organisational skills and attention to detail",
     "Upholding excellence in project delivery",
     "For over 200 years, JLL has become synonymous with project success—you will help",
@@ -49325,7 +49638,6 @@
    "deg": "B:business",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Have a degree in relevant property-related discipline, with a minimum of 15 years",
     "Experience in design, construction and project management",
     "English? If yes, talk to us—your communication skills will surely land you the job",
@@ -55693,7 +56005,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Bachelor's degree, preferably in a science-related field or other relevant discipline (engineering, architecture, construction management, facilities management)",
     "2-5 years of experience in building design, construction, or facilities management",
     "Strong proficiency in Microsoft Word and Excel for project documentation, reporting, and budget tracking",
@@ -56429,27 +56740,6 @@
    "checked": "2026-11-06",
    "yrs": 10,
    "yrsMax": 15,
-   "skChecked": "2026-11-04",
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "larsen-and-toubro-lnt_a-mah_1886290",
-   "title": "Assistant Manager-Facility Management and Handover",
-   "emp": "Larsen & Toubro",
-   "type": "Contractor",
-   "disc": "Project Management",
-   "level": "Mid",
-   "city": "Mumbai",
-   "country": "India",
-   "region": "Asia Pacific",
-   "url": "https://larsentoubrocareers.peoplestrong.com/job/detail/LNT_A-MAH_1886290",
-   "posted": "2026-10-08",
-   "checked": "2026-11-06",
-   "yrs": 9,
-   "yrsMax": 12,
    "skChecked": "2026-11-04",
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -57865,7 +58155,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Recognized university technical degree or equivalent",
     "Engineering Degree strongly preferred",
     "Minimum of 3+ years of relevant mechanical or electrical engineering and/or field-testing experience",
@@ -92648,42 +92937,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "jll-req540152",
-   "title": "Construction Manager",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "Mountain View",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Mountain-View-CA/Construction-Manager_REQ540152",
-   "posted": "",
-   "checked": "2026-11-06",
-   "sk": "ci3g4ugao",
-   "deg": "B:construction,architecture",
-   "skChecked": "2026-11-04",
-   "elig": [
-    "nosponsor"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave"
-   ],
-   "rq": [
-    "Bachelor's degree in Construction Management, Engineering, Architecture, or related field",
-    "7+ years in commercial construction project engineering or construction management on multi-trade projects",
-    "Ability to write scopes, level a bid tab, and turn construction documents into a buildable sequence",
-    "PMP or equivalent project management certification",
-    "Permitting/AHJ experience through Temporary Certificate of Occupancy"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-04"
-  },
-  {
    "id": "jll-req524056",
    "title": "Project Manager",
    "emp": "JLL",
@@ -94016,7 +94269,6 @@
     "leave"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Contribute where needed and/or requested by JLL Management in the refinement of best practices of standards of excellence within JLL",
     "Bachelor's degree in Engineering , Architecture, Construction Management, or a related field",
     "Minimum of 4 years of experience in project management in the real estate or construction industry",
@@ -94048,7 +94300,6 @@
     "hybrid"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "The ideal candidate must bring experience in formal project management within a technology function and a demonstrated ability to manage the implementation of allocated projects to agreed…",
     "10+ years of IT project management experience with at least 5 years managing enterprise infrastructure projects",
     "Familiarity with corporate office technologies such as VoIP systems, video conferencing platforms, AV devices, and access control systems",
@@ -94084,7 +94335,6 @@
     "training"
    ],
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "This role requires a technically proficient professional who will assist in managing mechanical, electrical…",
     "Mechanical Engineering, Electrical Engineering, or related technical discipline. 6-8 years of progressive experience in MEP systems design, construction…",
     "Technical Expertise Strong knowledge of commercial HVAC systems including VAV systems, fan coil units, split systems, and central plant modifications",
@@ -94110,7 +94360,6 @@
    "checked": "2026-11-06",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "Using AI capabilities, we analyze your application for relevant skills, experiences, and qualifications to generate valuable insights about how your unique profile aligns with the specific…"
    ],
    "fx": 1,
@@ -94136,7 +94385,6 @@
    "deg": "B:pm",
    "skChecked": "2026-11-04",
    "rq": [
-    "Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry…",
     "A Bachelor’s degree from an accredited institution, Master’s degree preferred",
     "8+ years of technology project management experience",
     "Required: IWMS experience",
@@ -95246,41 +95494,6 @@
     "Minimum of 10 years’ experience as a Senior Scheduler and minimum 5 years as an Intermediate Scheduler with scheduling experience for large-scale international airport infrastructure…",
     "Familiar with schedule quality assurance tools (e.g., Acumen Fuse) and experienced in Quantitative Schedule Risk Analysis (QSRA)",
     "Proficient in Primavera P6 and experienced in creating complex Work Breakdown Structures, integrating multiple schedules/work plans"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
-   "id": "atkinsrealis-r-158049",
-   "title": "Senior Project Manager",
-   "emp": "AtkinsRéalis",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Manager",
-   "city": "GB.Southampton.The White Building",
-   "country": "",
-   "region": "Other",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/Careers/job/GBSouthamptonThe-White-Building/Senior-Project-Manager_R-158049",
-   "posted": "2026-10-30",
-   "checked": "2026-11-06",
-   "sk": "jpj9diftgjk",
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "elig": [
-    "chartered"
-   ],
-   "ben": [
-    "hybrid",
-    "training"
-   ],
-   "rq": [
-    "Based in a vibrant waterfront city with excellent connections across the South Coast, Southampton offers an outstanding place to build a career",
-    "This is an excellent opportunity factor a motivated project management professional looking to take the next step in their career within a collaborative…",
-    "Be accountable for delivery excellence, ensuring that the our delivery meetings our internal governance standards",
-    "Contribute to the development of proposals, and presentations for prospective clients, showcasing the consultancy s expertise and value proposition",
-    "Good experience in project management, with a focus on development projects involving buildings, property and places"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -97558,35 +97771,6 @@
    "firstSeen": "2026-11-02"
   },
   {
-   "id": "parsons-r182229",
-   "title": "Program Director",
-   "emp": "Parsons",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Director",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/AE---Abu-Dhabi/Program-Director_R182229",
-   "posted": "",
-   "checked": "2026-11-06",
-   "sk": "cgzhvoh6o",
-   "yrs": 20,
-   "deg": "B:engineering",
-   "skChecked": "2026-11-04",
-   "rq": [
-    "Assign responsibility for executing project plans to key subordinates after careful assessment of how to utilize their qualifications and strengths",
-    "Field responsibilities may include labor relations, local procurement and payroll operations, etc., if required",
-    "Bachelor’s degree in engineering (or related field)",
-    "Minimum of 20 years of related work experience, including supervisory/managerial experience",
-    "Significant managerial experience of a large group of Engineers, Designers, and technical support personnel"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-04",
-   "fxV": 4,
-   "firstSeen": "2026-11-02"
-  },
-  {
    "id": "parsons-r180295",
    "title": "Program Director (Design and Construction)- Paducah, KY",
    "emp": "Parsons",
@@ -97621,6 +97805,35 @@
     "Twenty (20) years of professional experience in program/project management",
     "PMP certification or an equivalent recognized program or project management credential (e.g., PgMP, or DAWIA Level II/III in Program Management)",
     "Demonstrated experience in large-scale, highly regulated nuclear or nuclear-adjacent projects"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-04",
+   "fxV": 4,
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "parsons-r182229",
+   "title": "Program Director",
+   "emp": "Parsons",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Director",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/AE---Abu-Dhabi/Program-Director_R182229",
+   "posted": "",
+   "checked": "2026-11-06",
+   "sk": "cgzhvoh6o",
+   "yrs": 20,
+   "deg": "B:engineering",
+   "skChecked": "2026-11-04",
+   "rq": [
+    "Assign responsibility for executing project plans to key subordinates after careful assessment of how to utilize their qualifications and strengths",
+    "Field responsibilities may include labor relations, local procurement and payroll operations, etc., if required",
+    "Bachelor’s degree in engineering (or related field)",
+    "Minimum of 20 years of related work experience, including supervisory/managerial experience",
+    "Significant managerial experience of a large group of Engineers, Designers, and technical support personnel"
    ],
    "fx": 1,
    "fxChecked": "2026-11-04",
@@ -114412,7 +114625,7 @@
    "posted": "",
    "checked": "2026-11-02",
    "firstSeen": "2026-11-02",
-   "ap": 11
+   "ap": 13
   },
   {
    "id": "currie-and-brown-116",
@@ -131569,6 +131782,36 @@
    "skChecked": "2026-11-02"
   },
   {
+   "id": "jll-req545052",
+   "title": "Project Director",
+   "emp": "JLL",
+   "type": "PMC",
+   "disc": "Project Management",
+   "level": "Director",
+   "city": "Bristol",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Bristol-GBR/Project-Director_REQ545052",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "zysd8j",
+   "deg": "B",
+   "skChecked": "2026-11-02",
+   "ben": [
+    "training"
+   ],
+   "rq": [
+    "Experience managing health and safety procedures, and knowledge of standards and regulations, across multiple sites",
+    "A construction-related City and Guilds, NVQ or degree qualification (or equivalent)",
+    "A good grasp of programming, and the ability to write short-term programmes in Asta, Microsoft Project or Primavera",
+    "The ability to understand a customer’s business and what it needs from us"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-10-27"
+  },
+  {
    "id": "wsp-98260",
    "title": "Project Planner",
    "emp": "WSP",
@@ -133387,36 +133630,6 @@
     "Strong written and verbal communication skills, with the ability to build positive relationships at all levels",
     "Prior experience within Facilities Management or a related service-delivery sector",
     "Familiarity with CAFM platforms and an interest in driving process improvements"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-27"
-  },
-  {
-   "id": "jll-req545052",
-   "title": "Project Director",
-   "emp": "JLL",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Director",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Derby-GBR/Project-Director_REQ545052",
-   "posted": "2026-10-27",
-   "checked": "2026-11-06",
-   "sk": "zysd8j",
-   "deg": "B",
-   "skChecked": "2026-11-02",
-   "ben": [
-    "training"
-   ],
-   "rq": [
-    "Experience managing health and safety procedures, and knowledge of standards and regulations, across multiple sites",
-    "A construction-related City and Guilds, NVQ or degree qualification (or equivalent)",
-    "A good grasp of programming, and the ability to write short-term programmes in Asta, Microsoft Project or Primavera",
-    "The ability to understand a customer’s business and what it needs from us"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -135272,38 +135485,6 @@
     "Proven experience in project handover, closeout, or completion phases for large-scale infrastructure (roads, utilities, tunnels or similar)",
     "Familiarity with inspection processes, testing coordination, and final approvals",
     "Ability to manage complex interfaces and resolve project-related challenges effectively"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-26"
-  },
-  {
-   "id": "wsp-98266",
-   "title": "Senior Program Director (Power & Energy) - Remote",
-   "emp": "WSP",
-   "type": "PMC",
-   "disc": "Project Management",
-   "level": "Director",
-   "city": "Freeport",
-   "country": "United States",
-   "region": "North America",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98266",
-   "posted": "2026-10-26",
-   "checked": "2026-11-06",
-   "sector": [
-    "energy"
-   ],
-   "sk": "clm8tnw9g",
-   "yrs": 15,
-   "deg": "B:pm",
-   "skChecked": "2026-11-02",
-   "rq": [
-    "Develop, maintain, and update Project Initiation and governance documentation, including Risk Registers (REF/RMP), Project Management Plans (PMP), Project Quality Plans (QP)…",
-    "Required Qualifications Bachelor’s degree in engineering, science, or a related major, or equivalent experience in a technical or engineering firm…",
-    "Advanced-level understanding of the project delivery process within the A/E/C industry, and an extensive background and experience in large-scale project management",
-    "Advanced knowledge and proficiency with analytical and organizational skills, with business acumen to bridge business and project management",
-    "Strong working knowledge of corporate project management principles, practices, process, delivery, execution, and the business impact upon the organization"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -139436,7 +139617,7 @@
    "fxV": 4,
    "fxChecked": "2026-11-02",
    "skChecked": "2026-11-02",
-   "ap": 4
+   "ap": 8
   },
   {
    "id": "worley-1133915400832",
@@ -144815,6 +144996,44 @@
    "skChecked": "2026-11-02"
   },
   {
+   "id": "kbr-r2131288",
+   "title": "Planning and Scheduling Manager",
+   "emp": "KBR",
+   "type": "PMC",
+   "disc": "Planning",
+   "level": "Manager",
+   "city": "",
+   "country": "",
+   "region": "Other",
+   "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Richmond-Virginia/Planning-and-Scheduling-Manager_R2131288",
+   "posted": "2026-11-06",
+   "checked": "2026-11-06",
+   "sk": "cleh01ds1",
+   "yrs": 15,
+   "deg": "B:construction,pm",
+   "skChecked": "2026-11-02",
+   "sector": [
+    "energy"
+   ],
+   "ben": [
+    "medical",
+    "pension",
+    "leave",
+    "training",
+    "life"
+   ],
+   "rq": [
+    "Required Education, Experience, Skills",
+    "Minimum 15 years of planning and scheduling experience supporting major capital projects",
+    "Extensive experience with CPM scheduling, schedule forecasting, critical path analysis, progress measurement, and schedule recovery planning",
+    "Advanced proficiency with Primavera P6 and related scheduling and schedule analysis tools"
+   ],
+   "fx": 1,
+   "fxChecked": "2026-11-02",
+   "fxV": 4,
+   "firstSeen": "2026-10-21"
+  },
+  {
    "id": "wsp-97944",
    "title": "Project Manager - Power Delivery",
    "emp": "WSP",
@@ -145616,44 +145835,6 @@
     "Demonstrated experience in project risk management across major infrastructure, capital works or complex project delivery environments",
     "Strong analytical skills, with the ability to identify emerging risks, trends and changes in project exposure",
     "Excellent communication and stakeholder management skills, with the ability to influence, constructively challenge and translate complex risks into practical advice"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-21"
-  },
-  {
-   "id": "kbr-r2131288",
-   "title": "Planning and Scheduling Manager",
-   "emp": "KBR",
-   "type": "PMC",
-   "disc": "Planning",
-   "level": "Manager",
-   "city": "",
-   "country": "",
-   "region": "Other",
-   "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Richmond-Virginia/Planning-and-Scheduling-Manager_R2131288",
-   "posted": "2026-10-21",
-   "checked": "2026-11-06",
-   "sk": "cleh01ds1",
-   "yrs": 15,
-   "deg": "B:construction,pm",
-   "skChecked": "2026-11-02",
-   "sector": [
-    "energy"
-   ],
-   "ben": [
-    "medical",
-    "pension",
-    "leave",
-    "training",
-    "life"
-   ],
-   "rq": [
-    "Required Education, Experience, Skills",
-    "Minimum 15 years of planning and scheduling experience supporting major capital projects",
-    "Extensive experience with CPM scheduling, schedule forecasting, critical path analysis, progress measurement, and schedule recovery planning",
-    "Advanced proficiency with Primavera P6 and related scheduling and schedule analysis tools"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
@@ -169111,36 +169292,6 @@
     "Proven leadership delivering projects/programs: $500M+ required",
     "Experience in construction management/field leadership roles, Owner’s",
     "Proven ability to drive contractor performance and resolve complex challenges"
-   ],
-   "fx": 1,
-   "fxChecked": "2026-11-02",
-   "fxV": 4,
-   "firstSeen": "2026-10-07"
-  },
-  {
-   "id": "hill-international-16681",
-   "title": "Contracts & Commercial Manager",
-   "emp": "Hill International",
-   "type": "PMC",
-   "disc": "Cost & Commercial",
-   "level": "Manager",
-   "city": "",
-   "country": "Greece",
-   "region": "Europe",
-   "url": "https://hcib.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/16681",
-   "posted": "2026-10-07",
-   "checked": "2026-11-06",
-   "sk": "cgzhrd9fk",
-   "deg": "B:engineering",
-   "skChecked": "2026-11-02",
-   "sector": [
-    "energy"
-   ],
-   "rq": [
-    "Previous working experience at the power plant sector in Eastern Europe and under FIDIC principles Good knowledge of Microsoft Office applications",
-    "Excellent communication and interpersonal skills",
-    "Strong command of the English language, both written and verbal",
-    "Ensure contractual compliance with lender requirements and FIDIC principles"
    ],
    "fx": 1,
    "fxChecked": "2026-11-02",
