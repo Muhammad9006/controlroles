@@ -1,0 +1,45 @@
+name: Analytics export (encrypted)
+
+# For performance reviews: exports Google Analytics and board numbers, encrypted with the public key given at run time.
+on:
+  workflow_dispatch:
+    inputs:
+      pubkey:
+        description: "RSA public key (PEM, base64)"
+        required: true
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - id: google
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: projects/147126626136/locations/global/workloadIdentityPools/github/providers/controlroles-repo
+          service_account: controlroles-robot@controlroles-analytics.iam.gserviceaccount.com
+          token_format: access_token
+          access_token_scopes: https://www.googleapis.com/auth/analytics.readonly
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Export and encrypt
+        env:
+          GA_TOKEN: ${{ steps.google.outputs.access_token }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          PUBKEY: ${{ github.event.inputs.pubkey }}
+        run: |
+          python -m collector.export
+          echo "$PUBKEY" | base64 -d > pub.pem
+          openssl rand -hex 32 > k.txt
+          gzip -9 export.json
+          openssl enc -aes-256-cbc -pbkdf2 -salt -in export.json.gz -out data.enc -pass file:k.txt
+          openssl pkeyutl -encrypt -pubin -inkey pub.pem -in k.txt -out k.enc
+          echo "KEY:$(base64 -w0 k.enc)"
+          echo "DATA:$(base64 -w0 data.enc)"
+          rm -f k.txt export.json.gz
