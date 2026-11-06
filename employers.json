@@ -120,10 +120,12 @@
     },
     {
       "name": "EllisDon",
-      "type": "PMC",
-      "system": "custom",
-      "site": "https://www.ellisdon.com/work-with-us",
-      "enabled": false
+      "type": "Contractor",
+      "system": "workday",
+      "tenant": "ellisdon",
+      "wd": "wd3",
+      "site": "Ellis-Don",
+      "enabled": true
     },
     {
       "name": "Fluor",

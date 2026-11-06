@@ -81,6 +81,7 @@ Collected automatically now:
 | Aldar | Lever |
 | AtkinsRéalis | Workday |
 | Cumming Group | Workday |
+| EllisDon | Workday |
 | DAMAC | Oracle |
 | HKA | Teamtailor |
 | Hill International | Oracle |
@@ -101,7 +102,7 @@ Collected automatically now:
 | WSP | Oracle |
 | Wood | Oracle |
 
-Need a connector (their roles were imported by hand and drop off 21 days after the last import): Alstom, Amey, Arcadis, Arup, Baker Construction, Balfour Beatty, Bechtel, Compass Project Consulting, Currie & Brown, Dar, Egis, EllisDon, Fluor, Gleeds, HDR, Hassan Allam Holding, Jacobs, Kier, Kiewit, Leighton Asia, Mace, Mott MacDonald, Penspen, Protecnium, SYSTRA, TBH, VINCI, Wates, Webuild, Worley.
+Need a connector (their roles were imported by hand and drop off 21 days after the last import): Alstom, Amey, Arcadis, Arup, Baker Construction, Balfour Beatty, Bechtel, Compass Project Consulting, Currie & Brown, Dar, Egis, Fluor, Gleeds, HDR, Hassan Allam Holding, Jacobs, Kier, Kiewit, Leighton Asia, Mace, Mott MacDonald, Penspen, Protecnium, SYSTRA, TBH, VINCI, Wates, Webuild, Worley.
 
 To add an employer, find its careers system from any job link:
 
