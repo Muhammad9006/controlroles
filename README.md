@@ -157,5 +157,3 @@ tests/                          offline checks; run with: python -m pytest -q te
 
 - The robot reads only public job listings, identifies itself as ControlRolesBot, runs twice a day and links every role
   back to the employer. Honour any removal request (`"remove": true`).
-- Before charging users, register the business and publish full privacy and payment terms. If you store emails of Saudi
-  users, follow the Saudi Personal Data Protection Law (PDPL).
